@@ -127,6 +127,7 @@ Miscellaneous:
     Extend the `*` search to the visual selection (useful if you need to search text containing spaces)
 
 - [Vim-Rooter](https://github.com/airblade/vim-rooter)
+
 - [Unimpaired](https://github.com/tpope/vim-unimpaired)
 - [Vim-Signature](https://github.com/kshenoy/vim-signature)
 - [UndoTree](https://github.com/kshenoy/vim-signature)
