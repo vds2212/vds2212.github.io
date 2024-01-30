@@ -111,16 +111,19 @@ In the [Recommendations](#recommendations) list I have added a number that doesn
 
 Miscellaneous:
 - [Vim-HighlightedYank](https://github.com/machakann/vim-highlightedyank)
+
     Shortly highlight the text you just yank (copy).
-    It allow you to gain confidence you don't have to visually select text to yank it.
+    It gives you confidence to yank without first selecting.
 
 - [Wilder](https://github.com/gelguy/wilder.nvim)
 
 - [Traces](https://github.com/markonm/traces.vim)
-    Visualize the result of the substitution while you type it.
-    It help you to identify the mistake you do when using the regular expression.
+
+    Visualize the result of the substitution while you are typing it.
+    It helps you identifying the mistakes you do when using the regular expression.
 
 - [Vim-Visual-Star-Search](https://github.com/nelstrom/vim-visual-star-search)
+
     Extend the `*` search to the visual selection (useful if you need to search text containing spaces)
 
 - [Vim-Rooter](https://github.com/airblade/vim-rooter)
