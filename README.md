@@ -1,5 +1,9 @@
 # Introduction
 
-A small blogging example in Markdown
+This is small site related to Vim.
 
-Go to [a page 1](page1.md).
+## Plugins
+
+Vim plugin mechanism is very powerful.
+
+Here are my suggestions about [plugins](plugins.md).
