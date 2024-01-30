@@ -1,12 +1,13 @@
-# Plugins
+# Vim Plugins
 
 Plugin choice depends on your need and taste.
+There are a lot of plugins.
+[VimAwesome](https://vimawesome.com/) mentions about 19 thousand.
+I follow about 700.
 
-There are a lot of plugins [VimAwesome](https://vimawesome.com/) mention about 19 thousand. I follow about 700.
+In the [Categories](#categories) list I have identified the needs that gathers enough of attention such that one project get more than two thousand stars on github (as of 31/10/2023).
 
-In the [Categories](#categories) list I have tried to identify the needs that have gather a enough of attention such that one project get more than two thousand stars on github (as of 31/10/2023).
-
-I have restricted the list to the plugins that supports both Vim and Neovim.
+Remark: I have restricted the list to the plugins that supports both Vim and Neovim.
 
 It is based on months of collecting plugins via blogs but also via plugin directories:
 - [vimawesome](https://vimawesome.com/)
@@ -18,7 +19,7 @@ It does not reflect my personal choice although I use or I have tested a fair am
 
 Remark: There are numerous plugins that I like and use very often and that are not listed because the corresponding need did reach the two thousand target that I have fixed 
 
-In the [Recommendations](#recommendations) list I have added a number that doesn't reach the two thousand threshold but that I consider very useful.
+In the [Recommendations](#recommendations) list I have added a number of plugins that doesn't reach the two thousand threshold but that I consider very useful.
 
 ## Categories
 
@@ -109,7 +110,6 @@ In the [Recommendations](#recommendations) list I have added a number that doesn
 
 ## Recommendations
 
-Miscellaneous:
 - [Vim-HighlightedYank](https://github.com/machakann/vim-highlightedyank)
 
     Shortly highlight the text you just yank (copy).
@@ -128,13 +128,24 @@ Miscellaneous:
 
 - [Vim-Rooter](https://github.com/airblade/vim-rooter)
 
+    Automatically change the Vim current directory to the root of the corresponding project.
+    It helps in the usage of `make`, `grep` and various plugin like NERDTree, fugitive, Coc, LSP integration in general.
+
 - [Unimpaired](https://github.com/tpope/vim-unimpaired)
+
+    Add additional `[` mapping recommended by Tim Pope.
 
 - [Vim-Signature](https://github.com/kshenoy/vim-signature)
 
 - [UndoTree](https://github.com/kshenoy/vim-signature)
 
+    Give you easy access to the full Vim undo tree.
+    Help you recovering the version of the file you want (even when you didn't commit it)
+
 - [Context](https://github.com/wellle/context.vim)
 
 - [Vim-AnyFold](https://github.com/pseewald/vim-anyfold)
+
 - [Vim-Remotions](https://github.com/vds2212/vim-remotions)
+
+    Make it possible to repeat motions or actions behind edition `.`, substitution `&` or command `@:` repetition.
