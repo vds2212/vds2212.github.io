@@ -1,8 +1,10 @@
+# Plugins
+
 Plugin choice depends on your need and taste.
 
-There are a lot of plugins VimAwesome mention about 19 thousand. I follow about 700.
+There are a lot of plugins [VimAwesome](https://vimawesome.com/) mention about 19 thousand. I follow about 700.
 
-In this list I have tried to identify the needs that have gather a enough of attention such that one project get more than two thousand stars on github (as of 31/10/2023).
+In the Categories list I have tried to identify the needs that have gather a enough of attention such that one project get more than two thousand stars on github (as of 31/10/2023).
 
 I have restricted the list to the plugins that supports both Vim and Neovim.
 
@@ -16,10 +18,11 @@ It does not reflect my personal choice although I use or I have tested a fair am
 
 Remark: There are numerous plugins that I like and use very often and that are not listed because the corresponding need did reach the two thousand target that I have fixed 
 
+In the Recommendation list I have added a number that doesn't reach the two thousand threshold but that I consider very useful.
 
 ## Categories
 
-Plugin-Manager (32.0):
+### Plugin-Manager (32.0):
 - [vim-Plug](https://github.com/junegunn/vim-plug)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
 - [Vim-Pathogen](https://github.com/tpope/vim-pathogen)
@@ -62,7 +65,6 @@ Parenthesis (12.5):
 
 Note Taking (8.1):
 - [VimWiki](https://github.com/vimwiki/vimwiki)
-- [Neorg](https://github.com/nvim-neorg/neorg)
 
 Snippet (7.3):
 - [UltiSnips](https://github.com/SirVer/ultisnips)
@@ -103,13 +105,24 @@ Asynchronous Tasks (2.5):
 - [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
 
 Text Objects (2.3):
-- [targets](https://github.com/wellle/targets.vim)
+- [Targets](https://github.com/wellle/targets.vim)
+
+## Recomendations
 
 Miscellaneous:
 - [Vim-HighlightedYank](https://github.com/machakann/vim-highlightedyank)
+    Shortly highlight the text you just yank (copy).
+    It allow you to gain confidence you don't have to visually select text to yank it.
+
 - [Wilder](https://github.com/gelguy/wilder.nvim)
+
 - [Traces](https://github.com/markonm/traces.vim)
+    Visualize the result of the substitution while you type it.
+    It help you to identify the mistake you do when using the regular expression.
+
 - [Vim-Visual-Star-Search](https://github.com/nelstrom/vim-visual-star-search)
+    Extend the `*` search to the visual selection (useful if you need to search text containing spaces)
+
 - [Vim-Rooter](https://github.com/airblade/vim-rooter)
 - [Unimpaired](https://github.com/tpope/vim-unimpaired)
 - [Vim-Signature](https://github.com/kshenoy/vim-signature)
