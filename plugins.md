@@ -129,6 +129,7 @@ Miscellaneous:
 - [Vim-Rooter](https://github.com/airblade/vim-rooter)
 
 - [Unimpaired](https://github.com/tpope/vim-unimpaired)
+
 - [Vim-Signature](https://github.com/kshenoy/vim-signature)
 - [UndoTree](https://github.com/kshenoy/vim-signature)
 - [Context](https://github.com/wellle/context.vim)
