@@ -1,8 +1,10 @@
+[toc](README.MD)
+
 # How to Customize Vim
 
-## vimrc
+## Where is the vimrc file?
 
-The main customization point of Vim is the `vimrc` file.
+The main customization point of Vim is the so called `vimrc` file (that is not always named `vimrc`).
 The location of that file depends on the Operating System (Linux, Windows, macOS) your are using and the version of Vim
 you are using (Vim, Neovim).
 
@@ -29,5 +31,7 @@ Or if `XDG_CONFIG_HOME` is defined
 
 Or if `XDG_CONFIG_HOME` is defined
 - `%XDG_CONFIG_HOME%\nvim\init.vim`
+
+## The vimrc content and functionality
 
 <!-- vim: set tw=120 : -->

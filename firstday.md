@@ -1,3 +1,5 @@
+[toc](README.MD)
+
 # Survive the First Day in Vim
 
 ## Summary
