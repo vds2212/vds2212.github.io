@@ -17,6 +17,13 @@ it and get the motivation to search for more.
 
 [How to survive the first day in Vim](firstday.md).
 
+## My Favorite Commands
+
+[My Commands](mycommands.md)
+
+## What is in Vim
+
+[What is in Vim](whatsvim.md)
 
 ## How to customize Vim
 
