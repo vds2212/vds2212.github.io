@@ -31,9 +31,9 @@ Quit: `:q!`<kbd>Enter</kbd>
 ## Next minutes
 
 By now you can edit text switch to Normal mode and issue some key command to move through the text and to perform some text
-modifications more on that on [First Day with Vim](firstday.md).
+modifications more on that on [First Day with Vim](firstday.md). But you encounter some hindrances.
 
-#### The Esc key is difficult to reach
+### The Esc key is difficult to reach
 
 On normal keyboard the Esc key is difficult to reach.
 But fortunately there are a number of alternatives to the <kbd>Esc</kbd> key:
@@ -77,5 +77,15 @@ There is `Ex` mode and if you hit `Q` in normal mode Vim will switch to that odd
 command `gq` to avoid to go accidentally to the `Ex` mode.
 
 Add `map Q gq` to your `vimrc` file (see [How to Customize Vim](customize.md))
+
+### Some key commands are working
+
+The key commands of Vim sometime includes more than one key and sometime some special keys that are difficult to reach.
+By default if you don't type the sequence fast enough Vim interpret it as two key commands instead of one.
+
+If you add `set showcmd` to your `vimrc` file Vim will display in the right corner the current interpretation buffer (see [How to Customize Vim](customize.md)).
+This make it easier to understand where is Vim in it interpretation of the key command.
+
+If you want to get more time to enter the key command you can add `set timeoutlen=2000` to your `vimrc` file (see [How to Customize Vim](customize.md)).
 
 <!-- vim: set tw=120 : -->
