@@ -1,4 +1,4 @@
-[toc](../README.MD)
+[toc](..)
 
 # Survive the First Day in Vim
 

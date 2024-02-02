@@ -1,4 +1,4 @@
-[toc](README.MD)
+[toc](..)
 
 # What is in Vim
 

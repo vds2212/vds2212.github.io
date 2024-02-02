@@ -1,4 +1,4 @@
-[toc]()
+[toc](..)
 
 # How to survive the first 5 minutes
 

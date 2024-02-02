@@ -1,4 +1,4 @@
-[toc](README.MD)
+[toc](..)
 
 # How to Customize Vim
 
