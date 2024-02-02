@@ -6,6 +6,7 @@
 - If you get lost in unwanted modifications [undo](#undo--redo-modifications) them using `u` (or redo them using <kbd>Ctrl r</kbd>)
 - If you get lost in unwanted motion [undo](#undo--redo-motions) them using <kbd>Ctrl o</kbd> (or redo them using <kbd>Ctrl i</kbd>)
 - If you get lost in modes type <kbd>Ctrl c</kbd><kbd>Ctrl c</kbd> it will [bring back](#go-back-to-normal-mode) to Normal mode
+- [Hide](#hide-the-ex-mode) the `Ex` mode by adding `map Q gq` to your `vimrc` file.
 
 ## First minute
 
@@ -46,7 +47,8 @@ modifications more on that on [First Day with Vim](firstday.md).
 
 ### Get lost in modifications or motions
 
-Sometimes, probably because you miss type a command, you modify your files in a way to puzzle you.
+Sometimes, probably because you miss type a command, you modify your files in a way that puzzle you or bring you is some
+odd places.
 There are numerous key commands that are very powerful and transform your text substantially or move you somewhere
 completely unexpected.
 
@@ -71,5 +73,12 @@ This is most probably because you have switched to another mode.
 
 If you hit <kbd>Ctrl c</kbd><kbd>Esc</kbd> (or <kbd>Ctrl c</kbd> <kbd>Ctrl c</kbd>) Vim will be back in Normal mode
 99.99% of the time.
+
+#### Hide the Ex mode
+
+There is `Ex` mode and if you hit `Q` in normal mode Vim will switch to that odd mode. Remap the `Q` to the formatting
+command `gq` to avoid to go accidentally to the `Ex` mode.
+
+Add `map Q gq` to your `vimrc` file (see [How to Customize Vim](customize.md))
 
 <!-- vim: set tw=120 : -->
