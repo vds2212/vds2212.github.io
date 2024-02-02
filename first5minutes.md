@@ -2,10 +2,10 @@
 
 ## Summary
 
-- [Use](#the_esc_key_is_difficult_to_reach) <kbd>Ctrl [</kbd> instead of <kbd>Esc</kbd> it is easier to reach
-- If you get lost in unwanted modifications [undo](#undo___redo_modifications) them using `u` (or redo them using <kbd>Ctrl r</kbd>)
-- If you get lost in unwanted motion [undo](#undo___redo_motions) them using <kbd>Ctrl o</kbd> (or redo them using <kbd>Ctrl i</kbd>)
-- If you get lost in modes type <kbd>Ctrl c</kbd><kbd>Ctrl c</kbd> it will [bring back](#go_back_to_normal_mode) to Normal mode
+- [Use](#the-esc-key-is-difficult-to-reach) <kbd>Ctrl [</kbd> instead of <kbd>Esc</kbd> it is easier to reach
+- If you get lost in unwanted modifications [undo](#undo--redo-modifications) them using `u` (or redo them using <kbd>Ctrl r</kbd>)
+- If you get lost in unwanted motion [undo](#undo--redo-motions) them using <kbd>Ctrl o</kbd> (or redo them using <kbd>Ctrl i</kbd>)
+- If you get lost in modes type <kbd>Ctrl c</kbd><kbd>Ctrl c</kbd> it will [bring back](#go-back-to-normal-mode) to Normal mode
 
 ## First minute
 
