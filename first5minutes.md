@@ -28,22 +28,19 @@ Save: `:w`<kbd>Enter</kbd>
 
 Quit: `:q!`<kbd>Enter</kbd>
 
-### Hindrances
-
-At this stage there is already a number hindrances that hit you.
-
-#### The Esc key is difficult to reach
-
-There are a number of alternatives to the <kbd>Esc</kbd> key:
-- <kbd>Ctrl-[</kbd> (my favorite)
-- <kbd>Ctrl-c</kbd> not equivalent to <kbd>Esc</kbd> but used by some
-- Remap the <kbd>Capslock</kbd> to <kbd>Esc</kbd> require OS specific modification
-- Add `inoremap jk <Esc>` to your `vimrc` and use `jk` in insert mode (see [How to Customize Vim](customize.md))
-
 ## Next minutes
 
 By now you can edit text switch to Normal mode and issue some key command to move through the text and to perform some text
 modifications more on that on [First Day with Vim](firstday.md).
+
+#### The Esc key is difficult to reach
+
+On normal keyboard the Esc key is difficult to reach.
+But fortunately there are a number of alternatives to the <kbd>Esc</kbd> key:
+- <kbd>Ctrl-[</kbd> (my favorite)
+- <kbd>Ctrl-c</kbd> not equivalent to <kbd>Esc</kbd> but used by some
+- Remap the <kbd>Capslock</kbd> to <kbd>Esc</kbd> require OS specific modification
+- Add `inoremap jk <Esc>` to your `vimrc` and use `jk` in insert mode (see [How to Customize Vim](customize.md))
 
 ### Get lost in modifications or motions
 
