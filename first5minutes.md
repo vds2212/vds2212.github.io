@@ -8,7 +8,7 @@
 - If you get lost in unwanted modifications [undo](#undo--redo-modifications) them using `u` (or redo them using <kbd>Ctrl r</kbd>)
 - If you get lost in unwanted motion [undo](#undo--redo-motions) them using <kbd>Ctrl o</kbd> (or redo them using <kbd>Ctrl i</kbd>)
 - If you get lost in modes type <kbd>Ctrl c</kbd><kbd>Ctrl c</kbd> it will [bring back](#go-back-to-normal-mode) to Normal mode
-- [Hide](#hide-the-ex-mode) the `Ex` mode by adding `map Q gq` to your `vimrc` file.
+- [Hide](#hide-the-ex-mode) the `Ex` mode by adding `map Q gq` to your `vimrc` file
 
 ## First minute
 
@@ -78,7 +78,11 @@ If you hit <kbd>Ctrl c</kbd><kbd>Esc</kbd> (or <kbd>Ctrl c</kbd> <kbd>Ctrl c</kb
 There is `Ex` mode and if you hit `Q` in normal mode Vim will switch to that odd mode. Remap the `Q` to the formatting
 command `gq` to avoid to go accidentally to the `Ex` mode.
 
-Add `map Q gq` to your `vimrc` file (see [How to Customize Vim](customize.md))
+If you have no `vimrc` the Vim default is to hide the `Ex` mode key command `Q`.
+
+If you have a `vimrc` you can:
+- Add `map Q gq` to your `vimrc` file (see [How to Customize Vim](customize.md)) (My Favorite) or 
+- Add `$VIMRUNTIME/defauts.vim` at the start of your `vimrc` file to get the Vim default.
 
 ### Some key commands are working
 
