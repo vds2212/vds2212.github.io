@@ -24,6 +24,9 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
 ## Categories
 
 ### Plugin-Manager (32.0):
+
+![Plugin-Manager](graph/Plugin-Manager.png)
+
 - [vim-Plug](https://github.com/junegunn/vim-plug)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
 - [Vim-Pathogen](https://github.com/tpope/vim-pathogen)
