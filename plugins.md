@@ -68,7 +68,7 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
 
 ### Indicators (11.3):
 
-![Indicators](graphs/Completion.png)
+![Indicators](graphs/Indicators.png)
 
 - [Syntastic](https://github.com/vim-syntastic/syntastic)
 - [Vim-Signify](https://github.com/mhinz/vim-signify)
