@@ -25,13 +25,16 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
 
 ### Plugin-Manager (32.0):
 
-![Plugin-Manager](graph/Plugin-Manager.png)
+![Plugin-Manager](blob/main/graphs/Plugin-Manager.png)
 
 - [vim-Plug](https://github.com/junegunn/vim-plug)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
 - [Vim-Pathogen](https://github.com/tpope/vim-pathogen)
 
 ### Code Completion (25.0):
+
+![Plugin-Manager](graphs/Completion.png)
+
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) [my favorite]
 
