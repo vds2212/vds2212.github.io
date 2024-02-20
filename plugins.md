@@ -66,13 +66,6 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
 - [gruvbox](https://github.com/morhetz/gruvbox)
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 
-### Indicators (11.3):
-
-![Indicators](graphs/Indicators.png)
-
-- [Syntastic](https://github.com/vim-syntastic/syntastic)
-- [Vim-Signify](https://github.com/mhinz/vim-signify)
-
 ### Fuzzy Finding (8.9):
 
 ![Fuzzy Finding](graphs/Fuzzy-Finder.png)
@@ -86,6 +79,7 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
 ![Linting](graphs/Linting.png)
 
 - [ALE](https://github.com/dense-analysis/ale)
+- [Syntastic](https://github.com/vim-syntastic/syntastic)
 
 ### Parenthesis (12.5):
 
@@ -158,6 +152,12 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
 ![Tests](graphs/Test.png)
 
 - [Vim-Test](https://github.com/vim-test/vim-test)
+
+### Indicators (2.7):
+
+![Indicators](graphs/Indicators.png)
+
+- [Vim-Signify](https://github.com/mhinz/vim-signify)
 
 ### Asynchronous Tasks (2.5):
 
