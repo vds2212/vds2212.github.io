@@ -25,7 +25,7 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
 
 ### Plugin-Manager (32.0):
 
-![Plugin-Manager](blob/main/graphs/Plugin-Manager.png)
+![Plugin-Manager](graphs/Plugin-Manager.png)
 
 - [vim-Plug](https://github.com/junegunn/vim-plug)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
@@ -33,85 +33,141 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
 
 ### Code Completion (25.0):
 
-![Plugin-Manager](graphs/Completion.png)
+![Code Completion](graphs/Completion.png)
 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) [my favorite]
 
 ### File Browser (18.8):
+
+![File Browser](graphs/File-Explorer.png)
+
 - [NerdTree](https://github.com/preservim/nerdtree)
 
 ### Git (18.2):
+
+![Git](graphs/Git.png)
+
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive)
 - [Vim-GitGutter](https://github.com/airblade/vim-gitgutter)
 
-### Status Bar (17.4):
+### Status Line (17.4):
+
+![Status Bar](graphs/Status-Line.png)
+
 - [Vim-Airline](https://github.com/vim-airline/vim-airline)
 - [PowerLine](https://github.com/powerline/powerline)
 - [LightLine](https://github.com/itchyny/lightline.vim)
 
 ### Colorscheme (12.5)
+
+![Colorscheme](graphs/Colorscheme.png)
+
 - [gruvbox](https://github.com/morhetz/gruvbox)
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 
 ### Indicators (11.3):
+
+![Indicators](graphs/Completion.png)
+
 - [Syntastic](https://github.com/vim-syntastic/syntastic)
 - [Vim-Signify](https://github.com/mhinz/vim-signify)
 
 ### Fuzzy Finding (8.9):
+
+![Fuzzy Finding](graphs/Fuzzy-Finder.png)
+
 - [Fzf.vim](https://github.com/junegunn/fzf.vim)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim)
 - [Vim-Clap](https://github.com/liuchengxu/vim-clap) [my favorite]
 
 ### Linting (12.9):
+
+![Linting](graphs/Linting.png)
+
 - [ALE](https://github.com/dense-analysis/ale)
 
 ### Parenthesis (12.5):
+
+![Parenthesis](graphs/Parenthesis.png)
+
 - [Vim-Surround](https://github.com/tpope/vim-surround)
 - [Auto-Pairs](https://github.com/jiangmiao/auto-pairs)
 
 ### Note Taking (8.1):
+
+![Note Taking](graphs/Note-Taking.png)
+
 - [VimWiki](https://github.com/vimwiki/vimwiki)
 
 ### Snippet (7.3):
+
+![Snippet](graphs/Snippet.png)
+
 - [UltiSnips](https://github.com/SirVer/ultisnips)
 - [Emmet-vim](https://github.com/mattn/emmet-vim)
 
 ### Motion (7.2):
+
+![Motion](graphs/Motion.png)
+
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak)
 
 ### Tag List (6.0):
+
+![Tag List](graphs/Tag-List.png)
+
 - [TagBar](https://github.com/preservim/tagbar)
 - [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags)
 
 ### Code Commenting (5.5):
+
+![Code Commenting](graphs/Comment.png)
+
 - [Vim-Commentary](https://github.com/tpope/vim-commentary)
 - [NerdCommenter](https://github.com/preservim/nerdcommenter)
 
-### Language (5.4):
+### Language Support (5.4):
+
 - [Vimspector](https://github.com/puremourning/vimspector)
 - [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
 ### Dashboard (5.2):
+
+![Dashboard](graphs/Startup.png)
+
 - [Vim-Startify](https://github.com/mhinz/vim-startify)
 
 ### Search in Files (3.2):
+
+![Search in Files](graphs/Search-in-Files.png)
+
 - [Ack.vim](https://github.com/mileszs/ack.vim)
 - [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) [my favorite]
 
-### Undo List (3.1):
+### Undo Tree (3.1):
+
+![Undo Tree](graphs/Undo-Tree.png)
+
 - [UndoTree](https://github.com/mbbill/undotree)
 - [gUndo](https://github.com/sjl/gundo.vim)
 
-### Tests (2.7):
+### Test (2.7):
+
+![Tests](graphs/Test.png)
+
 - [Vim-Test](https://github.com/vim-test/vim-test)
 
 ### Asynchronous Tasks (2.5):
+
+![Asynchronous Tasks](graphs/Asynchronous-Execution.png)
+
 - [Vim-Dispatch](https://github.com/tpope/vim-dispatch)
 - [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
 
 ### Text Objects (2.3):
+
 - [Targets](https://github.com/wellle/targets.vim)
 
 ## Recommendations
