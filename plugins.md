@@ -11,102 +11,102 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Plugin-Manager (32.0):
 
-![Plugin-Manager](graphs/Plugin-Manager.png)
-
 - [vim-Plug](https://github.com/junegunn/vim-plug)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
 - [Vim-Pathogen](https://github.com/tpope/vim-pathogen)
 
-### Code Completion (25.0):
+![Plugin-Manager](graphs/Plugin-Manager.png)
 
-![Code Completion](graphs/Completion.png)
+### Code Completion (25.0):
 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) [my favorite]
 
-### File Browser (18.8):
+![Code Completion](graphs/Completion.png)
 
-![File Browser](graphs/File-Explorer.png)
+### File Browser (18.8):
 
 - [NerdTree](https://github.com/preservim/nerdtree)
 
-### Git (18.2):
+![File Browser](graphs/File-Explorer.png)
 
-![Git](graphs/Git.png)
+### Git (18.2):
 
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive)
 - [Vim-GitGutter](https://github.com/airblade/vim-gitgutter)
 
-### Status Line (17.4):
+![Git](graphs/Git.png)
 
-![Status Bar](graphs/Status-Line.png)
+### Status Line (17.4):
 
 - [Vim-Airline](https://github.com/vim-airline/vim-airline)
 - [PowerLine](https://github.com/powerline/powerline)
 - [LightLine](https://github.com/itchyny/lightline.vim)
 
-### Colorscheme (12.5)
+![Status Bar](graphs/Status-Line.png)
 
-![Colorscheme](graphs/Colorscheme.png)
+### Colorscheme (12.5)
 
 - [gruvbox](https://github.com/morhetz/gruvbox)
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 
-### Fuzzy Finding (8.9):
+![Colorscheme](graphs/Colorscheme.png)
 
-![Fuzzy Finding](graphs/Fuzzy-Finder.png)
+### Fuzzy Finding (8.9):
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim)
 - [Vim-Clap](https://github.com/liuchengxu/vim-clap) [my favorite]
 
-### Linting (12.9):
+![Fuzzy Finding](graphs/Fuzzy-Finder.png)
 
-![Linting](graphs/Linting.png)
+### Linting (12.9):
 
 - [ALE](https://github.com/dense-analysis/ale)
 - [Syntastic](https://github.com/vim-syntastic/syntastic)
 
-### Parenthesis (12.5):
+![Linting](graphs/Linting.png)
 
-![Parenthesis](graphs/Parenthesis.png)
+### Parenthesis (12.5):
 
 - [Vim-Surround](https://github.com/tpope/vim-surround)
 - [Auto-Pairs](https://github.com/jiangmiao/auto-pairs)
 
-### Note Taking (8.1):
+![Parenthesis](graphs/Parenthesis.png)
 
-![Note Taking](graphs/Note-Taking.png)
+### Note Taking (8.1):
 
 - [VimWiki](https://github.com/vimwiki/vimwiki)
 
-### Snippet (7.3):
+![Note Taking](graphs/Note-Taking.png)
 
-![Snippet](graphs/Snippet.png)
+### Snippet (7.3):
 
 - [UltiSnips](https://github.com/SirVer/ultisnips)
 - [Emmet-vim](https://github.com/mattn/emmet-vim)
 
-### Motion (7.2):
+![Snippet](graphs/Snippet.png)
 
-![Motion](graphs/Motion.png)
+### Motion (7.2):
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak)
 
-### Tag List (6.0):
+![Motion](graphs/Motion.png)
 
-![Tag List](graphs/Tag-List.png)
+### Tag List (6.0):
 
 - [TagBar](https://github.com/preservim/tagbar)
 - [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags)
 
-### Code Commenting (5.5):
+![Tag List](graphs/Tag-List.png)
 
-![Code Commenting](graphs/Comment.png)
+### Code Commenting (5.5):
 
 - [Vim-Commentary](https://github.com/tpope/vim-commentary)
 - [NerdCommenter](https://github.com/preservim/nerdcommenter)
+
+![Code Commenting](graphs/Comment.png)
 
 ### Language Support (5.4):
 
@@ -115,42 +115,42 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Dashboard (5.2):
 
-![Dashboard](graphs/Startup.png)
-
 - [Vim-Startify](https://github.com/mhinz/vim-startify)
 
-### Search in Files (3.2):
+![Dashboard](graphs/Startup.png)
 
-![Search in Files](graphs/Search-in-Files.png)
+### Search in Files (3.2):
 
 - [Ack.vim](https://github.com/mileszs/ack.vim)
 - [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) [my favorite]
 
-### Undo Tree (3.1):
+![Search in Files](graphs/Search-in-Files.png)
 
-![Undo Tree](graphs/Undo-Tree.png)
+### Undo Tree (3.1):
 
 - [UndoTree](https://github.com/mbbill/undotree)
 - [gUndo](https://github.com/sjl/gundo.vim)
 
-### Test (2.7):
+![Undo Tree](graphs/Undo-Tree.png)
 
-![Tests](graphs/Test.png)
+### Test (2.7):
 
 - [Vim-Test](https://github.com/vim-test/vim-test)
 
-### Indicators (2.7):
+![Tests](graphs/Test.png)
 
-![Indicators](graphs/Indicators.png)
+### Indicators (2.7):
 
 - [Vim-Signify](https://github.com/mhinz/vim-signify)
 
-### Asynchronous Tasks (2.5):
+![Indicators](graphs/Indicators.png)
 
-![Asynchronous Tasks](graphs/Asynchronous-Execution.png)
+### Asynchronous Tasks (2.5):
 
 - [Vim-Dispatch](https://github.com/tpope/vim-dispatch)
 - [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
+
+![Asynchronous Tasks](graphs/Asynchronous-Execution.png)
 
 ### Text Objects (2.3):
 
