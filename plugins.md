@@ -3,7 +3,7 @@
 The [Popular Choices](#popular-choices) section contains Vim plugins needs where one representative gather more than 2.5k stars on GitHub.
 It comes together with graphs showing the evolution of the number of stars on GitHub to easily identify the trends.
 
-The [My Recommendations](#my_recommendation) section contains Vim plugin that I appreciate very much.
+The [My Recommendations](#my_recommendations) section contains Vim plugin that I appreciate very much.
 
 ## Popular Choices
 
