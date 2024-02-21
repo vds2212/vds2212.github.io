@@ -1,3 +1,5 @@
+[toc](..)
+
 # Vim Plugins
 
 The [Popular Choices](#popular-choices) section contains Vim plugins needs where one representative gather more than 2.5k stars on GitHub.

@@ -85,7 +85,7 @@ command `gq` to avoid to go accidentally to the `Ex` mode.
 If you have no `vimrc` the Vim default is to hide the `Ex` mode key command `Q`.
 
 If you have a `vimrc` you can:
-- Add `map Q gq` to your `vimrc` file (see [Basic Configuration](basicconfig.md) (My Favorite) or
+- Add `map Q gq` to your `vimrc` file (see [Basic Configuration](basicconfig.md) (My Favorite)) or
 - Add `$VIMRUNTIME/defauts.vim` at the start of your `vimrc` file to get the Vim default.
 
 ### Some key commands are working
