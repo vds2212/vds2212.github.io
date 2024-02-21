@@ -1,27 +1,11 @@
 # Vim Plugins
 
-Plugin choice depends on your need and taste.
-There are a lot of plugins.
-[VimAwesome](https://vimawesome.com/) mentions about 19 thousand.
-I follow about 700.
+The [Popular Choices](#popular-choices) section contains Vim plugins needs where one representative gather more than 2.5k stars on GitHub.
+It comes together with graphs showing the evolution of the number of stars on GitHub to easily identify the trends.
 
-In the [Categories](#categories) list I have identified the needs that gathers enough of attention such that one project get more than two thousand stars on github (as of 31/10/2023).
+The [My Recommendations](#my_recommendation) section contains Vim plugin that I appreciate very much.
 
-Remark: I have restricted the list to the plugins that supports both Vim and Neovim.
-
-It is based on months of collecting plugins via blogs but also via plugin directories:
-- [vimawesome](https://vimawesome.com/)
-- [vimcolorscheme](https://vimcolorschemes.com/)
-- [neovimcraft](https://neovimcraft.com/)
-- [trending Neovim plugins](https://dotfyle.com/neovim/plugins/trending)
-
-It does not reflect my personal choice although I use or I have tested a fair amount of these.
-
-Remark: There are numerous plugins that I like and use very often and that are not listed because the corresponding need did reach the two thousand target that I have fixed 
-
-In the [Recommendations](#recommendations) list I have added a number of plugins that doesn't reach the two thousand threshold but that I consider very useful.
-
-## Categories
+## Popular Choices
 
 ### Plugin-Manager (32.0):
 
@@ -170,7 +154,7 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
 
 - [Targets](https://github.com/wellle/targets.vim)
 
-## Recommendations
+## My Recommendations
 
 - [Vim-HighlightedYank](https://github.com/machakann/vim-highlightedyank)
 
@@ -178,6 +162,8 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
     It gives you confidence to yank without first selecting.
 
 - [Wilder](https://github.com/gelguy/wilder.nvim)
+
+    Improve the Vim command completion menu and in particular show the alternatives in a vertical menu.
 
 - [Traces](https://github.com/markonm/traces.vim)
 
@@ -199,6 +185,8 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
 
 - [Vim-Signature](https://github.com/kshenoy/vim-signature)
 
+    Add a sign in the margin to visualize where the marks are.
+
 - [UndoTree](https://github.com/kshenoy/vim-signature)
 
     Give you easy access to the full Vim undo tree.
@@ -206,8 +194,24 @@ In the [Recommendations](#recommendations) list I have added a number of plugins
 
 - [Context](https://github.com/wellle/context.vim)
 
+    Make sure the key line code (e.g. class name, function name, ...) remain visible in the screen to give you the context.
+
 - [Vim-AnyFold](https://github.com/pseewald/vim-anyfold)
 
 - [Vim-Remotions](https://github.com/vds2212/vim-remotions)
 
     Make it possible to repeat motions or actions behind edition `.`, substitution `&` or command `@:` repetition.
+
+## Remarks
+
+There are a lot of plugins.
+[VimAwesome](https://vimawesome.com/) mentions about 19.000.
+I follow about 700.
+
+My review is based on months of collecting plugins via blogs but also via plugin directories:
+- [vimawesome](https://vimawesome.com/)
+- [vimcolorscheme](https://vimcolorschemes.com/)
+- [neovimcraft](https://neovimcraft.com/)
+- [trending Neovim plugins](https://dotfyle.com/neovim/plugins/trending)
+
+I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
