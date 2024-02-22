@@ -143,6 +143,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Test](https://github.com/vim-test/vim-test)
 
 ![Tests](graphs/Test.png)
+<img src="graphs/Test.png" context="Tests" width="357"/>
 
 ### Indicators (2.7):
 
@@ -163,63 +164,59 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ## My Recommendations
 
-- [Vim-HighlightedYank](https://github.com/machakann/vim-highlightedyank)
+### [Vim-HighlightedYank](https://github.com/machakann/vim-highlightedyank)
 
-    Shortly highlight the text you just yank (copy).
-    It gives you confidence to yank without first selecting.
+Shortly highlight the text you just yank (copy).
+It gives you confidence to yank without first selecting.
 
-- [Wilder](https://github.com/gelguy/wilder.nvim)
+### [Wilder](https://github.com/gelguy/wilder.nvim)
 
-    Improve the Vim command completion menu.
-    Show the alternatives in a vertical menu.
+Improve the Vim command completion menu.
+Show the alternatives in a vertical menu.
 
-- [Traces](https://github.com/markonm/traces.vim)
+### [Traces](https://github.com/markonm/traces.vim)
 
-    Visualize the result of the substitution while you are typing it.
-    It helps you identifying the mistakes you do when using the regular expression.
+Visualize the result of the substitution while you are typing it.
+It helps you identifying the mistakes you do when using the regular expression.
 
-- [Vim-Visual-Star-Search](https://github.com/nelstrom/vim-visual-star-search)
+### [Vim-Visual-Star-Search](https://github.com/nelstrom/vim-visual-star-search)
 
-    Extend the `*` search to the visual selection.
-    Useful if you need to search text containing spaces or punctuation.
+Extend the `*` search to the visual selection.
+Useful if you need to search text containing spaces or punctuation.
 
-- [Vim-Rooter](https://github.com/airblade/vim-rooter)
+### [Vim-Rooter](https://github.com/airblade/vim-rooter)
 
-    Automatically change the Vim current directory to the root of the corresponding project.
-    It helps in the usage of `make`, `grep` and various plugin like NERDTree, fugitive, Coc, LSP integration in general.
+Automatically change the Vim current directory to the root of the corresponding project.
+It helps in the usage of `make`, `grep` and various plugin like NERDTree, fugitive, Coc, LSP integration in general.
 
-- [Unimpaired](https://github.com/tpope/vim-unimpaired)
+### [Unimpaired](https://github.com/tpope/vim-unimpaired)
 
-    Add additional `[` mappings recommended by Tim Pope.
+Add additional `[` mappings recommended by Tim Pope.
 
-- [Vim-Signature](https://github.com/kshenoy/vim-signature)
+### [Vim-Signature](https://github.com/kshenoy/vim-signature)
 
-    Add a sign in the margin to visualize where the marks are.
+Add a sign in the margin to visualize where the marks are.
 
-- [UndoTree](https://github.com/kshenoy/vim-signature)
+### [UndoTree](https://github.com/kshenoy/vim-signature)
 
-    Give you easy access to the full Vim undo tree.
-    Help you recovering the version of the file you want (even when you didn't commit it)
+Give you easy access to the full Vim undo tree.
+Help you recovering the version of the file you want (even when you didn't commit it)
 
-- [Context](https://github.com/wellle/context.vim)
+### [Context](https://github.com/wellle/context.vim)
 
-<video width="536" heigh="336" controls>
-<source src="https://github.com/vds2212/vds2212.github.io/raw/main/videos/Context.mp4" type="video/mp4">
-</video>
-
-<video width="536" heigh="336" controls>
+<video width="357" heigh="224" controls>
 <source src="/videos/Context.mp4" type="video/mp4">
 </video>
 
 Make sure the context lines (class name, function name, if, for) related to the cursor line remains visible.
 
-- [Vim-AnyFold](https://github.com/pseewald/vim-anyfold)
+### [Vim-AnyFold](https://github.com/pseewald/vim-anyfold)
 
-    Introduce fold based on indentation.
+Introduce fold based on indentation.
 
-- [Vim-Remotions](https://github.com/vds2212/vim-remotions)
+### [Vim-Remotions](https://github.com/vds2212/vim-remotions)
 
-    Make it possible to repeat motions or actions behind edition `.`, substitution `&` or command `@:` repetition.
+Make it possible to repeat motions or actions behind edition `.`, substitution `&` or command `@:` repetition.
 
 ## Remarks
 
