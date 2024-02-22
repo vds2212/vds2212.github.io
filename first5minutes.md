@@ -18,9 +18,9 @@
 Vim is modal editor. That means that Vim is behaving differently depending on the mode it is in. Vim starts in Normal
 mode. In Normal mode you can issue Vim keyboard command (typically to navigate through your file e.g.: `h`, `j`, `k`,
 `l`). To type text you have to switch to Insert mode. There are many ways to switch to insert mode. One way is to use
-the Vim keyboard command `i`. In Insert mode you can type text and edit your file. To back from Insert mode hit
-<kbd>Esc</kbd>. To save your file you have to issue the Vim command `:w`. To to quit Vim you have to issue the Vim
-commnand: `:q!`. To switch to Command mode you have to hit `:` After the command has been executed you'll be back in
+the Vim keyboard command `i`. In Insert mode you can type text and edit your file. To go back from Insert mode to Normal
+mode hit <kbd>Esc</kbd>. To save your file you have to issue the Vim command `:w`. To to quit Vim you have to issue the
+Vim commnand: `:q!`. To switch to Command mode you have to hit `:` After the command has been executed you'll be back in
 Normal mode.
 
 ### Summary
@@ -35,8 +35,9 @@ Quit: `:q!`<kbd>Enter</kbd>
 
 ## Next minutes
 
-By now you can edit text switch to Normal mode and issue some key command to move through the text and to perform some
-text modifications more on that on [First Day with Vim](firstday.md). But you encounter some hindrances.
+By now you can edit a new text in Insert mode, switch back to Normal mode and issue some key command to move through the
+text and to perform some text modifications; more on that on [First Day with Vim](firstday.md). But you already
+encountered some hindrances.
 
 
 ## The Esc key is difficult to reach
@@ -79,7 +80,7 @@ If you hit <kbd>Ctrl c</kbd><kbd>Esc</kbd> (or <kbd>Ctrl c</kbd> <kbd>Ctrl c</kb
 
 ### Hide the Ex mode
 
-There is `Ex` mode and if you hit `Q` in normal mode Vim will switch to that odd mode. Remap the `Q` to the formatting
+There is `Ex` mode and if you hit `Q` in Normal mode Vim will switch to that odd mode. Remap the `Q` to the formatting
 command `gq` to avoid to go accidentally to the `Ex` mode.
 
 If you have no `vimrc` the Vim default is to hide the `Ex` mode key command `Q`.

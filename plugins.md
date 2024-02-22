@@ -110,7 +110,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Language Support (5.4):
 
-- [Vimspector](https://github.com/puremourning/vimspector)
 - [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
 ### Dashboard (5.2):
@@ -118,6 +117,12 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Startify](https://github.com/mhinz/vim-startify)
 
 ![Dashboard](graphs/Startup.png)
+
+### Debugging (4.5)
+
+- [Vimspector](https://github.com/puremourning/vimspector)
+
+![Debugging](graphs/Debugging.png)
 
 ### Search in Files (3.2):
 
@@ -165,7 +170,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Wilder](https://github.com/gelguy/wilder.nvim)
 
-    Improve the Vim command completion menu and in particular show the alternatives in a vertical menu.
+    Improve the Vim command completion menu.
+    Show the alternatives in a vertical menu.
 
 - [Traces](https://github.com/markonm/traces.vim)
 
@@ -174,7 +180,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Visual-Star-Search](https://github.com/nelstrom/vim-visual-star-search)
 
-    Extend the `*` search to the visual selection (useful if you need to search text containing spaces)
+    Extend the `*` search to the visual selection.
+    Useful if you need to search text containing spaces or punctuation.
 
 - [Vim-Rooter](https://github.com/airblade/vim-rooter)
 
@@ -183,7 +190,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Unimpaired](https://github.com/tpope/vim-unimpaired)
 
-    Add additional `[` mapping recommended by Tim Pope.
+    Add additional `[` mappings recommended by Tim Pope.
 
 - [Vim-Signature](https://github.com/kshenoy/vim-signature)
 
@@ -196,9 +203,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Context](https://github.com/wellle/context.vim)
 
-    Make sure the key line code (e.g. class name, function name, ...) remain visible in the screen to give you the context.
+![Context](videos/Context.mp4)
+
+    Make sure the context lines (class name, function name, if, for) related to the cursor line remains visible.
 
 - [Vim-AnyFold](https://github.com/pseewald/vim-anyfold)
+
+    Introduce fold based on indentation.
 
 - [Vim-Remotions](https://github.com/vds2212/vim-remotions)
 
