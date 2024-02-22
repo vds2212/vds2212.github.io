@@ -9,7 +9,7 @@
 
 ## How to replace the text of a region by the content of the clipboard?
 
-One of the big difference with other text editor is that Vim has not delete action but only a cut action.
+One of the big difference with other text editor is that Vim has no delete action but only a cut action.
 This mean that when you want to replace the content of a region the standard approach of copy, delete, past fails. It
 will be translated in Vim into copy, cut, past, the cut action will cancel the copy action and the operation will be
 blank (unless you use another register for the cut action e.g.: `"_x`)
@@ -18,7 +18,7 @@ blank (unless you use another register for the cut action e.g.: `"_x`)
 ### Solution:
 
 - Copy the text you want to use
-- Visually select the region want to replace
+- Visually select the region you want to replace
 - Use the key command `P` to replace the region by the content of the clipboard
 
 

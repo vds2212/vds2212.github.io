@@ -171,7 +171,12 @@ It gives you confidence to yank without first selecting.
 ### [Wilder](https://github.com/gelguy/wilder.nvim)
 
 Improve the Vim command completion menu.
+
+<img src="screenshots/Wilder-1.png" context="Wilder Command Completion" width="320"/>
+
 Show the alternatives in a vertical menu.
+
+<img src="screenshots/Wilder-2.png" context="Wilder File Completion" width="320"/>
 
 ### [Traces](https://github.com/markonm/traces.vim)
 
@@ -198,7 +203,7 @@ Add a sign in the margin to visualize where the marks are.
 
 ### [UndoTree](https://github.com/kshenoy/vim-signature)
 
-Give you easy access to the full Vim undo tree.
+Gives you easy access to the full Vim undo tree.
 Help you recovering the version of the file you want (even when you didn't commit it)
 
 ### [Context](https://github.com/wellle/context.vim)
@@ -211,7 +216,11 @@ Make sure the context lines (class name, function name, if, for) related to the 
 
 ### [Vim-AnyFold](https://github.com/pseewald/vim-anyfold)
 
-Introduce fold based on indentation.
+<img src="screenshots/AnyFold.png" context="AnyFold" width="320"/>
+
+Introduces fold based on indentation.
+
+It allows you to see your full script at glance.
 
 ### [Vim-Remotions](https://github.com/vds2212/vim-remotions)
 
