@@ -207,6 +207,10 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <source src="https://github.com/vds2212/vds2212.github.io/raw/main/videos/Context.mp4" type="video/mp4">
 </video>
 
+<video width="536" heigh="336" controls>
+<source src="/videos/Context.mp4" type="video/mp4">
+</video>
+
 Make sure the context lines (class name, function name, if, for) related to the cursor line remains visible.
 
 - [Vim-AnyFold](https://github.com/pseewald/vim-anyfold)
