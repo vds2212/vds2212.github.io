@@ -15,27 +15,27 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
 - [Vim-Pathogen](https://github.com/tpope/vim-pathogen)
 
-![Plugin-Manager](graphs/Plugin-Manager.png)
+
 
 ### Code Completion (25.0):
 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) [my favorite]
 
-![Code Completion](graphs/Completion.png)
+
 
 ### File Browser (18.8):
 
 - [NerdTree](https://github.com/preservim/nerdtree)
 
-![File Browser](graphs/File-Explorer.png)
+
 
 ### Git (18.2):
 
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive)
 - [Vim-GitGutter](https://github.com/airblade/vim-gitgutter)
 
-![Git](graphs/Git.png)
+
 
 ### Status Line (17.4):
 
@@ -43,14 +43,14 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [PowerLine](https://github.com/powerline/powerline)
 - [LightLine](https://github.com/itchyny/lightline.vim)
 
-![Status Bar](graphs/Status-Line.png)
+
 
 ### Colorscheme (12.5)
 
 - [gruvbox](https://github.com/morhetz/gruvbox)
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 
-![Colorscheme](graphs/Colorscheme.png)
+
 
 ### Fuzzy Finding (8.9):
 
@@ -58,55 +58,55 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim)
 - [Vim-Clap](https://github.com/liuchengxu/vim-clap) [my favorite]
 
-![Fuzzy Finding](graphs/Fuzzy-Finder.png)
+
 
 ### Linting (12.9):
 
 - [ALE](https://github.com/dense-analysis/ale)
 - [Syntastic](https://github.com/vim-syntastic/syntastic)
 
-![Linting](graphs/Linting.png)
+
 
 ### Parenthesis (12.5):
 
 - [Vim-Surround](https://github.com/tpope/vim-surround)
 - [Auto-Pairs](https://github.com/jiangmiao/auto-pairs)
 
-![Parenthesis](graphs/Parenthesis.png)
+
 
 ### Note Taking (8.1):
 
 - [VimWiki](https://github.com/vimwiki/vimwiki)
 
-![Note Taking](graphs/Note-Taking.png)
+
 
 ### Snippet (7.3):
 
 - [UltiSnips](https://github.com/SirVer/ultisnips)
 - [Emmet-vim](https://github.com/mattn/emmet-vim)
 
-![Snippet](graphs/Snippet.png)
+
 
 ### Motion (7.2):
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak)
 
-![Motion](graphs/Motion.png)
+
 
 ### Tag List (6.0):
 
 - [TagBar](https://github.com/preservim/tagbar)
 - [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags)
 
-![Tag List](graphs/Tag-List.png)
+
 
 ### Code Commenting (5.5):
 
 - [Vim-Commentary](https://github.com/tpope/vim-commentary)
 - [NerdCommenter](https://github.com/preservim/nerdcommenter)
 
-![Code Commenting](graphs/Comment.png)
+
 
 ### Language Support (5.4):
 
@@ -116,47 +116,47 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Startify](https://github.com/mhinz/vim-startify)
 
-![Dashboard](graphs/Startup.png)
+
 
 ### Debugging (4.5)
 
 - [Vimspector](https://github.com/puremourning/vimspector)
 
-![Debugging](graphs/Debugging.png)
+
 
 ### Search in Files (3.2):
 
 - [Ack.vim](https://github.com/mileszs/ack.vim)
 - [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) [my favorite]
 
-![Search in Files](graphs/Search-in-Files.png)
+
 
 ### Undo Tree (3.1):
 
 - [UndoTree](https://github.com/mbbill/undotree)
 - [gUndo](https://github.com/sjl/gundo.vim)
 
-![Undo Tree](graphs/Undo-Tree.png)
+
 
 ### Test (2.7):
 
 - [Vim-Test](https://github.com/vim-test/vim-test)
 
-![Tests](graphs/Test.png)
+
 <img src="graphs/Test.png" context="Tests" width="357"/>
 
 ### Indicators (2.7):
 
 - [Vim-Signify](https://github.com/mhinz/vim-signify)
 
-![Indicators](graphs/Indicators.png)
+
 
 ### Asynchronous Tasks (2.5):
 
 - [Vim-Dispatch](https://github.com/tpope/vim-dispatch)
 - [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
 
-![Asynchronous Tasks](graphs/Asynchronous-Execution.png)
+
 
 ### Text Objects (2.3):
 
