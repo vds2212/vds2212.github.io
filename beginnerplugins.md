@@ -21,6 +21,7 @@ A plugin manager to install the plugins.
 Look and feel is so important to me I need that the editor looks good:
 
 [gruvbox](https://github.com/morhetz/gruvbox) [The most popular one]
+
 [nord-vim](https://github.com/nordtheme/vim) [My Favorite]
 
 

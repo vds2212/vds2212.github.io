@@ -21,7 +21,7 @@ You are about to quit Vim every seconds.
 
 ## Advices
 
-This period lasted about a week or two for me :-|
+This period lasted about a week or two for me.
 
 Don't give up. Keep trying.
 
