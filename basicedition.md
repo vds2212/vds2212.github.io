@@ -53,16 +53,5 @@ Insert a State [Diagram](Diagram)
 
 Ctrl-\^ Equivalent to <kbd>esc</kbd>
 
-Keyboard mistakes and unexpected consequences
-
-Solutions:
-
--   Show the current command (:set showcmd)
--   Lean how to undo
-    -   Go home: Ctrl-c Ctrl-c
-    -   Undo: u
-    -   Move back to your place: Ctrl-o or Ctrl-i
--   Get more precise in your usage of the keyboard
-
 
 <!-- vim: set tw=120 : -->

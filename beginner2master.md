@@ -49,6 +49,8 @@ You are eager for plugins for all the tasks.
 
 You discover that a number of program/website supports `j`, `k`, `/`
 
+Use the `t` and `f` motions
+
 You search for program plugin that let you use these key commands.
 
 

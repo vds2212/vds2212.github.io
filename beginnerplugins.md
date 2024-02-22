@@ -18,16 +18,31 @@ A plugin manager to install the plugins.
 
 ## Colorscheme
 
-Look and feel is so important to me I need that the editor looks good:
+
+Look and feel is so important to me. I need that the editor looks good.
+
+You can use the [VimColorSchemes](https://vimcolorschemes.com/) to help you finding a color scheme that fit your taste
+and that is mature enough.
 
 [gruvbox](https://github.com/morhetz/gruvbox) [The most popular one]
 
+<img src="screenshots/GruvBox.png" context="GruvBox" width="320"/>
+
+[solarized](https://github.com/altercation/vim-colors-solarized)
+
+<img src="screenshots/Solarized.png" context="Solarized" width="320"/>
+
+[onedark](https://github.com/joshdick/onedark.vim)
+
+<img src="screenshots/OneDark.png" context="OneDark" width="320"/>
+
 [nord-vim](https://github.com/nordtheme/vim) [My Favorite]
 
+<img src="screenshots/Nord.png" context="Nord" width="320"/>
 
 ## Status Line
 
-Look and feel is so important to me I need that the editor looks good:
+Look and feel is so important to me. I need that the editor looks good.
 
 [LightLine](https://github.com/itchyny/lightline.vim)
 
