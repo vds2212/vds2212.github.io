@@ -143,7 +143,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Test](https://github.com/vim-test/vim-test)
 
 
-<img src="graphs/Test.png" context="Tests" width="357"/>
+<img src="graphs/Test.png" context="Tests" width="300"/>
 
 ### Indicators (2.7):
 
@@ -204,7 +204,7 @@ Help you recovering the version of the file you want (even when you didn't commi
 
 ### [Context](https://github.com/wellle/context.vim)
 
-<video width="357" heigh="224" controls>
+<video width="300" controls>
 <source src="/videos/Context.mp4" type="video/mp4">
 </video>
 
