@@ -77,6 +77,10 @@ Useful if you need to search text containing spaces or punctuation.
 Shortly highlight the text you just yank (copy).
 It gives you confidence to yank without first selecting.
 
+<video width="320" heigh="200" controls>
+<source src="/videos/HighligthedYank.mp4" type="video/mp4">
+</video>
+
 
 ### Fuzzy Finding
 
