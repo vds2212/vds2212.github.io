@@ -21,7 +21,7 @@ particular for beginners but probably also for experts.
 
 ## Survive the first day in Vim
 
-Vim is quite different from other text editor and when migrating from another text editor you can be confronted to a number of hindrances.
+Vim is quite different from other text editors and when migrating from another text editors you can be confronted to a number of hindrances.
 In this text I have listed a number of these hindrances and how to mitigate them.
 
 [How to survive the first day in Vim](firstday.md).
@@ -53,8 +53,8 @@ In this text I try to give an overview of what you can expect from Vim: what Vim
 
 ## Master Vim in steps
 
-Vim is vast and you can get easily lost if you try grab it all at once. Numerous author advice to eat it bite per bite.
-In this text I describe the steps I read and that resonate with my own learning curves. The idea is focus and enjoy a
+Vim is vast and you can get easily lost if you try to grab it all at once. Numerous authors advice eating it bite per bite.
+In this text I describe the steps I read and that resonate with my own learning curve. The idea is to focus and enjoy a
 subset of functionalities before getting lost to the next subset.
 
 [The steps from beginner to master](beginner2master.md)

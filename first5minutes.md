@@ -95,7 +95,7 @@ The key commands of Vim sometime includes more than one key and sometime some sp
 By default if you don't type the sequence fast enough Vim interpret it as two key commands instead of one.
 
 If you add `set showcmd` to your `vimrc` file Vim will display in the right corner the current interpretation buffer
-(see [Basic Configuration](basicconfig.md)). This make it easier to understand where is Vim in it interpretation of the
+(see [Basic Configuration](basicconfig.md)). This make it easier to understand where is Vim in its interpretation of the
 key command.
 
 If you want to get more time to enter the key command you can add `set timeoutlen=2000` to your `vimrc` file
