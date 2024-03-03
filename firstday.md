@@ -40,6 +40,6 @@ blank (unless you use another register for the cut action e.g.: `"_x`)
 ### Solution:
 
 -   Switch more often between the Insert mode and the Normal mode
--   Accept it :-|
+-   Accept it.
 
 <!-- vim: set tw=120 : -->
