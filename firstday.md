@@ -5,6 +5,11 @@
 ## Summary
 
 - To replace a region of text by the clipboard content use Visual select and the key command: `P`.
+- To open a file or switch to another buffer a Fuzzy finder like
+  [Fzf.vim](https://github.com/junegunn/fzf.vim) or
+  [Vim-Clap](https://github.com/liuchengxu/vim-clap)
+  if helping a lot
+- But the standard `:e` and `:b` with <kbd>Ctrl D</kbd> is a nice start
 
 
 ## How to replace the text of a region by the content of the clipboard?
@@ -22,17 +27,24 @@ blank (unless you use another register for the cut action e.g.: `"_x`)
 - Use the key command `P` to replace the region by the content of the clipboard
 
 
-## How to open a new file, switch between buffers?
-
-
+## How to open a new file?
 
 ### Solutions:
 
-- Use a fuzzy browser (like []())
+- Use a fuzzy browser (like [Fzf.vim](https://github.com/junegunn/fzf.vim) or [Vim-Clap](https://github.com/liuchengxu/vim-clap))
 - Use `'0` to open the last opened file at the start of the session
 - Use `:e ` <kbd>Ctrl d</kbd> to get suggestions of file to open
+  (works best with [Wilder](https://github.com/gelguy/wilder.nvim))
+
+
+## How to switch between buffers?
+
+### Solutions:
+
+- Use a fuzzy browser (like [Fzf.vim](https://github.com/junegunn/fzf.vim) or [Vim-Clap](https://github.com/liuchengxu/vim-clap))
 - Use `:b#` to switch to the previous buffer
 - Use `:b ` <kbd>Ctrl d</kbd> to get suggestions of buffers to switch to
+  (works best with [Wilder](https://github.com/gelguy/wilder.nvim))
 
 
 ## The undo function is quit coarse
