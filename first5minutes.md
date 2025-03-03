@@ -64,6 +64,9 @@ You can redo a modification using the <kbd>Ctrl r</kbd> key command.
 
 ### Undo / Redo motions
 
+Hello
+Todo this is a change
+
 You can undo a motion using the <kbd>Ctrl o</kbd> key command.
 
 You can redo a motion using the <kbd>Ctrl i</kbd> key command.

@@ -51,12 +51,12 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status Bar" width="320"/>
 
 
-### Colorscheme (12.5)
+### Color Schemes (12.5)
 
 - [gruvbox](https://github.com/morhetz/gruvbox)
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
 
-<img src="graphs/Colorscheme.png" context="Colorscheme" width="320"/>
+<img src="graphs/Colorschemes.png" context="Colorscheme" width="320"/>
 
 
 ### Fuzzy Finding (8.9):
