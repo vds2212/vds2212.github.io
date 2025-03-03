@@ -10,7 +10,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ## Popular Choices
 
-### Plugin-Manager (32.0):
+### Plugin-Manager (34.6):
 
 - [vim-Plug](https://github.com/junegunn/vim-plug)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
@@ -19,7 +19,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Plugin-Manager.png" context="Plugin-Manager" width="320"/>
 
 
-### Code Completion (25.0):
+### Code Completion (25.6):
 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) [my favorite]
@@ -27,14 +27,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Completion.png" context="Code Completion" width="320"/>
 
 
-### File Browser (18.8):
-
-- [NerdTree](https://github.com/preservim/nerdtree)
-
-<img src="graphs/File-Explorer.png" context="File Browser" width="320"/>
-
-
-### Git (18.2):
+### Git (20.4):
 
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive)
 - [Vim-GitGutter](https://github.com/airblade/vim-gitgutter)
@@ -42,7 +35,14 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Git.png" context="Git" width="320"/>
 
 
-### Status Line (17.4):
+### File Browser (19.8):
+
+- [NerdTree](https://github.com/preservim/nerdtree)
+
+<img src="graphs/File-Explorer.png" context="File Browser" width="320"/>
+
+
+### Status Line (17.9):
 
 - [Vim-Airline](https://github.com/vim-airline/vim-airline)
 - [PowerLine](https://github.com/powerline/powerline)
@@ -51,15 +51,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status Bar" width="320"/>
 
 
-### Color Schemes (12.5)
-
-- [gruvbox](https://github.com/morhetz/gruvbox)
-- [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
-
-<img src="graphs/Colorschemes.png" context="Colorscheme" width="320"/>
-
-
-### Fuzzy Finding (8.9):
+### Fuzzy Finding (16.9):
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim)
@@ -68,7 +60,15 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy Finding" width="320"/>
 
 
-### Linting (12.9):
+### Color Schemes (14.2)
+
+- [gruvbox](https://github.com/morhetz/gruvbox)
+- [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
+
+<img src="graphs/Colorschemes.png" context="Colorscheme" width="320"/>
+
+
+### Linting (13.7):
 
 - [ALE](https://github.com/dense-analysis/ale)
 - [Syntastic](https://github.com/vim-syntastic/syntastic)
@@ -76,7 +76,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Linting.png" context="Linting" width="320"/>
 
 
-### Parenthesis (12.5):
+### Parenthesis (13.6):
 
 - [Vim-Surround](https://github.com/tpope/vim-surround)
 - [Auto-Pairs](https://github.com/jiangmiao/auto-pairs)
@@ -84,14 +84,28 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Parenthesis.png" context="Parenthesis" width="320"/>
 
 
-### Note Taking (8.1):
+### AI (9.4)
+
+- [copilot.vim](https://github.com/github/copilot.vim)
+- [codeium.vim](https://github.com/Exafunction/codeium.vim)
+
+<img src="graphs/AI.png" context="AI" width="320"/>
+
+
+### Note Taking (8.9):
 
 - [VimWiki](https://github.com/vimwiki/vimwiki)
 
 <img src="graphs/Note-Taking.png" context="Note Taking" width="320"/>
 
+### Marks (7.6)
 
-### Snippet (7.3):
+- [Harpoon](https://github.com/ThePrimeagen/harpoon/tree/harpoon2) [Neovim]
+
+<img src="graphs/Marks.png" context="Marks" width="320"/>
+
+
+### Snippet (7.6):
 
 - [UltiSnips](https://github.com/SirVer/ultisnips)
 - [Emmet-vim](https://github.com/mattn/emmet-vim)
@@ -99,7 +113,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
 
-### Motion (7.2):
+### Motion (7.6):
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak)
@@ -107,7 +121,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
 
 
-### Tag List (6.0):
+### Tag List (6.2):
 
 - [TagBar](https://github.com/preservim/tagbar)
 - [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags)
@@ -115,7 +129,14 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Tag-List.png" context="Tag List" width="320"/>
 
 
-### Code Commenting (5.5):
+### Debugging (6.0)
+
+- [Vimspector](https://github.com/puremourning/vimspector)
+
+<img src="graphs/Debugging.png" context="Debugging" width="320"/>
+
+
+### Code Commenting (6.0):
 
 - [Vim-Commentary](https://github.com/tpope/vim-commentary)
 - [NerdCommenter](https://github.com/preservim/nerdcommenter)
@@ -123,34 +144,19 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Comment.png" context="Code Commenting" width="320"/>
 
 
-### Language Support (5.4):
+### Language Support (5.6):
 
 - [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
 
-### Dashboard (5.2):
+### Dashboard (5.4):
 
 - [Vim-Startify](https://github.com/mhinz/vim-startify)
 
 <img src="graphs/Startup.png" context="Dashboard" width="320"/>
 
 
-### Debugging (4.5)
-
-- [Vimspector](https://github.com/puremourning/vimspector)
-
-<img src="graphs/Debugging.png" context="Debugging" width="320"/>
-
-
-### Search in Files (3.2):
-
-- [Ack.vim](https://github.com/mileszs/ack.vim)
-- [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) [my favorite]
-
-<img src="graphs/Search-in-Files.png" context="Search in Files" width="320"/>
-
-
-### Undo Tree (3.1):
+### Undo Tree (4.1):
 
 - [UndoTree](https://github.com/mbbill/undotree)
 - [gUndo](https://github.com/sjl/gundo.vim)
@@ -158,7 +164,15 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Undo-Tree.png" context="Undo Tree" width="320"/>
 
 
-### Test (2.7):
+### Search in Files (3.1):
+
+- [Ack.vim](https://github.com/mileszs/ack.vim)
+- [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) [my favorite]
+
+<img src="graphs/Search-in-Files.png" context="Search in Files" width="320"/>
+
+
+### Test (3.1):
 
 - [Vim-Test](https://github.com/vim-test/vim-test)
 
@@ -172,7 +186,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Indicators.png" context="Indicators" width="320"/>
 
 
-### Asynchronous Tasks (2.5):
+### Asynchronous Tasks (2.7):
 
 - [Vim-Dispatch](https://github.com/tpope/vim-dispatch)
 - [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
@@ -180,7 +194,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Asynchronous-Execution.png" context="Asynchronous Tasks" width="320"/>
 
 
-### Text Objects (2.3):
+### Text Objects (2.6):
 
 - [Targets](https://github.com/wellle/targets.vim)
 
