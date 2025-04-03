@@ -55,7 +55,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim)
-- [Vim-Clap](https://github.com/liuchengxu/vim-clap) [my favorite]
+- [Vim-Clap](https://github.com/liuchengxu/vim-clap) [my favorite on Windows]
 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy Finding" width="320"/>
 
@@ -89,14 +89,22 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [copilot.vim](https://github.com/github/copilot.vim)
 - [codeium.vim](https://github.com/Exafunction/codeium.vim)
 
-<img src="graphs/AI.png" context="AI" width="320"/>
+<img src="graphs/Parenthesis.png" context="AI" width="320"/>
 
 
-### Note Taking (8.9):
+### Note Taking (9.0):
 
 - [VimWiki](https://github.com/vimwiki/vimwiki)
 
 <img src="graphs/Note-Taking.png" context="Note Taking" width="320"/>
+
+
+### Multiple Cursors (8.0)
+
+- [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi)
+
+<img src="graphs/Multiple-Cursors.png" context="Multiple Cursors" width="320"/>
+
 
 ### Marks (7.6)
 
@@ -129,9 +137,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Tag-List.png" context="Tag List" width="320"/>
 
 
-### Debugging (6.0)
+### Debugging (6.1):
 
-- [Vimspector](https://github.com/puremourning/vimspector)
+- [Vimspector](vimspector)
 
 <img src="graphs/Debugging.png" context="Debugging" width="320"/>
 
@@ -156,12 +164,33 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Startup.png" context="Dashboard" width="320"/>
 
 
+### Zen (4.6):
+
+- [Goyo](https://github.com/junegunn/goyo.vim)
+
+<img src="graphs/Zen.png" context="Zen" width="320"/>
+
+
 ### Undo Tree (4.1):
 
 - [UndoTree](https://github.com/mbbill/undotree)
 - [gUndo](https://github.com/sjl/gundo.vim)
 
 <img src="graphs/Undo-Tree.png" context="Undo Tree" width="320"/>
+
+
+### Databases (3.7):
+
+- [Vim-DadBod](https://github.com/tpope/vim-dadbod)
+
+<img src="graphs/Databases.png" context="Databases" width="320"/>
+
+
+### Learning (3.6):
+
+- [Hardmode](https://github.com/wikitopian/hardmode)
+
+<img src="graphs/Learning.png" context="Learning" width="320"/>
 
 
 ### Search in Files (3.1):
@@ -192,6 +221,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
 
 <img src="graphs/Asynchronous-Execution.png" context="Asynchronous Tasks" width="320"/>
+
+
+### Context (2.5):
+
+- [Context](https://github.com/wellle/context.vim)
+
+<img src="graphs/Context.png" context="Asynchronous Tasks" width="320"/>
 
 
 ### Text Objects (2.6):
