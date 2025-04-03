@@ -177,14 +177,26 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Go](https://github.com/fatih/vim-go)
 
-<img src="graphs/Startup.png" context="Dashboard" width="320"/>
+<img src="graphs/Go.png" context="Go" width="320"/>
 
+
+#### Python (5.5)
+
+- [Python-Mode](https://github.com/python-mode/python-mode)
+
+<img src="graphs/Python.png" context="Python" width="320"/>
+
+#### TeX (5.5)
+
+- [VimTeX](https://github.com/lervag/vimtex)
+
+<img src="graphs/Python.png" context="Python" width="320"/>
 
 #### Rust (4.0)
 
 - [Rust](https://github.com/rust-lang/rust.vim)
 
-<img src="graphs/Startup.png" context="Dashboard" width="320"/>
+<img src="graphs/Rust.png" context="Rust" width="320"/>
 
 
 ### Dashboard (5.4)
