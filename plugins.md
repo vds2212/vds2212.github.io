@@ -190,7 +190,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [VimTeX](https://github.com/lervag/vimtex)
 
-<img src="graphs/Python.png" context="Python" width="320"/>
+<img src="graphs/TeX.png" context="TeX" width="320"/>
 
 #### Rust (4.0)
 
