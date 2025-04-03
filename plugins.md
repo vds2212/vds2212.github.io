@@ -22,7 +22,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Code Completion (25.6)
 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
-- [Coc.nvim](https://github.com/neoclide/coc.nvim) [my favorite]
+- [Coc.nvim](https://github.com/neoclide/coc.nvim) [My favorite]
 
 <img src="graphs/Completion.png" context="Code Completion" width="320"/>
 
@@ -38,6 +38,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### File Browser (19.8)
 
 - [NerdTree](https://github.com/preservim/nerdtree)
+- [Vim-Vinegar](https://github.com/tpope/vim-vinegar)
+- [Vim-Enuch](https://github.com/tpope/vim-eunuch)
+- [Vim-Fern](https://github.com/lambdalisue/vim-fern)
 
 <img src="graphs/File-Explorer.png" context="File Browser" width="320"/>
 
@@ -56,15 +59,19 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim)
 - [Skim](https://github.com/skim-rs/skim)
-- [Vim-Clap](https://github.com/liuchengxu/vim-clap) [my favorite on Windows]
+- [Vim-Clap](https://github.com/liuchengxu/vim-clap) [My favorite on Windows]
 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy Finding" width="320"/>
 
 
 ### Color Schemes (14.3)
 
-- [gruvbox](https://github.com/morhetz/gruvbox)
-- [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
+- [Gruvbox](https://github.com/morhetz/gruvbox)
+- [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized)
+- [Onedark](https://github.com/joshdick/onedark.vim)
+- [Molokai](https://github.com/tomasr/molokai)
+- [Everforest](https://github.com/sainnhe/everforest)
+- [Papercolor-Theme](https://github.com/NLKNguyen/papercolor-theme)
 
 <img src="graphs/Colorschemes.png" context="Colorscheme" width="320"/>
 
@@ -87,8 +94,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### AI (9.6)
 
-- [copilot.vim](https://github.com/github/copilot.vim)
-- [codeium.vim](https://github.com/Exafunction/codeium.vim)
+- [Copilot.vim](https://github.com/github/copilot.vim)
+- [Codeium.vim](https://github.com/Exafunction/codeium.vim)
 
 <img src="graphs/Parenthesis.png" context="AI" width="320"/>
 
@@ -126,6 +133,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak)
+- [Clever-F](https://github.com/rhysd/clever-f.vim)
+- [Quick-Scope](https://github.com/unblevable/quick-scope)
 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
 
@@ -163,6 +172,19 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Language Support (5.6)
 
 - [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
+
+#### Go (16.0)
+
+- [Vim-Go](https://github.com/fatih/vim-go)
+
+<img src="graphs/Startup.png" context="Dashboard" width="320"/>
+
+
+#### Rust (4.0)
+
+- [Rust](https://github.com/rust-lang/rust.vim)
+
+<img src="graphs/Startup.png" context="Dashboard" width="320"/>
 
 
 ### Dashboard (5.4)
@@ -245,7 +267,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Search in Files (3.1)
 
 - [Ack.vim](https://github.com/mileszs/ack.vim)
-- [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) [my favorite]
+- [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) [My favorite]
 
 <img src="graphs/Search-in-Files.png" context="Search in Files" width="320"/>
 
