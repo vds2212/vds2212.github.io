@@ -48,7 +48,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [PowerLine](https://github.com/powerline/powerline)
 - [LightLine](https://github.com/itchyny/lightline.vim)
 
-<img src="graphs/Status-Line.png" context="Status Bar" width="320"/>
+<img src="graphs/Status-Line.png" context="Status Line" width="320"/>
 
 
 ### Fuzzy Finding (17.1):
@@ -224,24 +224,26 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Indicators.png" context="Indicators" width="320"/>
 
 
-### Asynchronous Tasks (2.7):
+### Asynchronous Execution (2.7):
 
 - [Vim-Dispatch](https://github.com/tpope/vim-dispatch)
 - [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
 
-<img src="graphs/Asynchronous-Execution.png" context="Asynchronous Tasks" width="320"/>
+<img src="graphs/Asynchronous-Execution.png" context="Asynchronous Execution" width="320"/>
 
 
 ### Context (2.7):
 
 - [Context](https://github.com/wellle/context.vim)
 
-<img src="graphs/Context.png" context="Asynchronous Tasks" width="320"/>
+<img src="graphs/Context.png" context="Context" width="320"/>
 
 
 ### Text Objects (2.6):
 
 - [Targets](https://github.com/wellle/targets.vim)
+
+<img src="graphs/Text-Objects.png" context="Text Objects" width="320"/>
 
 
 ## My Recommendations
