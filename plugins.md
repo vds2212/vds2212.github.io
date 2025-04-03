@@ -144,6 +144,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Debugging.png" context="Debugging" width="320"/>
 
 
+### Keybinding (6.0):
+
+- [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key)
+
+<img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
+
+
 ### Code Commenting (6.0):
 
 - [Vim-Commentary](https://github.com/tpope/vim-commentary)
@@ -171,12 +178,30 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Zen.png" context="Zen" width="320"/>
 
 
+### Align (4.6):
+
+- [Vim-Easy-Align](https://github.com/junegunn/vim-easy-align)
+- [Tabular](https://github.com/godlygeek/tabular)
+
+<img src="graphs/Align.png" context="Align" width="320"/>
+
+
 ### Undo Tree (4.1):
 
 - [UndoTree](https://github.com/mbbill/undotree)
 - [gUndo](https://github.com/sjl/gundo.vim)
 
 <img src="graphs/Undo-Tree.png" context="Undo Tree" width="320"/>
+
+
+### Indent (4.1):
+
+- [IndentLine](https://github.com/Yggdroot/indentLine)
+- [EditorConfig](https://github.com/editorconfig/editorconfig-vim)
+- [Vim-Indent-Guides](https://github.com/preservim/vim-indent-guides)
+- [Vim-Sleuth](https://github.com/tpope/vim-sleuth)
+
+<img src="graphs/Indent.png" context="Indent" width="320"/>
 
 
 ### Databases (3.7):
@@ -244,6 +269,14 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Targets](https://github.com/wellle/targets.vim)
 
 <img src="graphs/Text-Objects.png" context="Text Objects" width="320"/>
+
+
+### Folding (2.6):
+
+- [FastFold](https://github.com/Konfekt/FastFold)
+- [Vim-Anyfold](https://github.com/pseewald/vim-anyfold)
+
+<img src="graphs/Folding.png" context="Text Objects" width="320"/>
 
 
 ## My Recommendations
