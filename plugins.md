@@ -193,6 +193,14 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Learning.png" context="Learning" width="320"/>
 
 
+### Formatting (3.5):
+
+- [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat)
+- [Vim-Prettier](https://github.com/prettier/vim-prettier)
+
+<img src="graphs/Formatting.png" context="Formatting" width="320"/>
+
+
 ### Search in Files (3.1):
 
 - [Ack.vim](https://github.com/mileszs/ack.vim)
