@@ -172,6 +172,14 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Startup.png" context="Dashboard" width="320"/>
 
 
+### Terminal Integration (4.6)
+
+- [Vim-Floaterm](https://github.com/voldikss/vim-floaterm)
+- [Neoterm](https://github.com/kassio/neoterm)
+
+<img src="graphs/Terminal-Integration.png" context="Terminal Integration" width="320"/>
+
+
 ### Zen (4.6)
 
 - [Goyo](https://github.com/junegunn/goyo.vim)
