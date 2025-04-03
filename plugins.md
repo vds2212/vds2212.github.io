@@ -10,7 +10,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ## Popular Choices
 
-### Plugin-Manager (34.6):
+### Plugin-Manager (34.7):
 
 - [vim-Plug](https://github.com/junegunn/vim-plug)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
@@ -27,7 +27,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Completion.png" context="Code Completion" width="320"/>
 
 
-### Git (20.4):
+### Git (20.5):
 
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive)
 - [Vim-GitGutter](https://github.com/airblade/vim-gitgutter)
@@ -51,7 +51,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status Bar" width="320"/>
 
 
-### Fuzzy Finding (16.9):
+### Fuzzy Finding (17.1):
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim)
@@ -60,7 +60,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy Finding" width="320"/>
 
 
-### Color Schemes (14.2)
+### Color Schemes (14.3)
 
 - [gruvbox](https://github.com/morhetz/gruvbox)
 - [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized)
@@ -76,7 +76,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Linting.png" context="Linting" width="320"/>
 
 
-### Parenthesis (13.6):
+### Parenthesis (13.7):
 
 - [Vim-Surround](https://github.com/tpope/vim-surround)
 - [Auto-Pairs](https://github.com/jiangmiao/auto-pairs)
@@ -84,7 +84,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Parenthesis.png" context="Parenthesis" width="320"/>
 
 
-### AI (9.4)
+### AI (9.6)
 
 - [copilot.vim](https://github.com/github/copilot.vim)
 - [codeium.vim](https://github.com/Exafunction/codeium.vim)
@@ -108,7 +108,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Marks (7.6)
 
-- [Harpoon](https://github.com/ThePrimeagen/harpoon/tree/harpoon2) [Neovim]
+- [Vim-Signature](https://github.com/kshenoy/vim-signature)
 
 <img src="graphs/Marks.png" context="Marks" width="320"/>
 
@@ -204,6 +204,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Test (3.1):
 
 - [Vim-Test](https://github.com/vim-test/vim-test)
+- [Vader.Vim](https://github.com/junegunn/vader.vim)
 
 <img src="graphs/Test.png" context="Tests" width="320"/>
 
@@ -223,7 +224,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Asynchronous-Execution.png" context="Asynchronous Tasks" width="320"/>
 
 
-### Context (2.5):
+### Context (2.7):
 
 - [Context](https://github.com/wellle/context.vim)
 
@@ -328,3 +329,6 @@ My review is based on months of collecting plugins via blogs but also via plugin
 - [trending Neovim plugins](https://dotfyle.com/neovim/plugins/trending)
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
+
+Last update: 2025-04-03
+
