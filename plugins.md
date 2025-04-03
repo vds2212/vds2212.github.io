@@ -55,6 +55,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim)
+- [Skim](https://github.com/skim-rs/skim)
 - [Vim-Clap](https://github.com/liuchengxu/vim-clap) [my favorite on Windows]
 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy Finding" width="320"/>
