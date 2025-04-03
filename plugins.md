@@ -227,6 +227,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Formatting.png" context="Formatting" width="320"/>
 
 
+### TODO (3.2)
+
+- [Todo.Txt-Vim](https://github.com/freitass/todo.txt-vim)
+
+<img src="graphs/Todo.png" context="Todo" width="320"/>
+
+
 ### Search in Files (3.1)
 
 - [Ack.vim](https://github.com/mileszs/ack.vim)
