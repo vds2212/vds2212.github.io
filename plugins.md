@@ -12,7 +12,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Plugin-Manager (34.7)
 
-- [vim-Plug](https://github.com/junegunn/vim-plug)
+- [Vim-Plug](https://github.com/junegunn/vim-plug)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
 - [Vim-Pathogen](https://github.com/tpope/vim-pathogen)
 
@@ -117,6 +117,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Marks (7.6)
 
 - [Vim-Signature](https://github.com/kshenoy/vim-signature)
+- [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
 
 <img src="graphs/Marks.png" context="Marks" width="320"/>
 
