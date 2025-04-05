@@ -415,7 +415,7 @@ It allows you to see your full script at glance:
 
 ### [Vim-Remotions](https://github.com/vds2212/vim-remotions)
 
-Make it possible to repeat motions or actions behind edition `.`, substitution `&` or command `@:` repetition.
+Make it possible to repeat motions or actions behind edition (`.`), substitution (`&`) or command (`@:`) repetition.
 
 
 ## Remarks
