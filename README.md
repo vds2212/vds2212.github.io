@@ -21,7 +21,7 @@ particular for beginners but probably also for experts.
 
 ## Survive the first day in Vim
 
-Vim is quite different from other text editors and when migrating from another text editors you can be confronted to a number of hindrances.
+Vim is quite different from other text editors and, when migrating from another text editors, you can be confronted to a number of hindrances.
 In this text I have listed a number of these hindrances and how to mitigate them.
 
 [How to survive the first day in Vim](firstday.md).
@@ -67,8 +67,8 @@ subset of functionalities before getting lost to the next subset.
 
 ## Plugins
 
-Vim plugin mechanism is very powerful and cover a number of needs that Vim doesn't cover that well.
+Vim plugin mechanism is very powerful and covers a number of needs that Vim doesn't cover that well.
 
-Here is an overview of the most popular plugin [plugins](plugins.md) with some additions that I found convincing.
+Here is an overview of the most popular [plugins](plugins.md) with some additions that I found convincing.
 
 <!-- vim: set tw=120 : -->
