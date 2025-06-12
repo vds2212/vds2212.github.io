@@ -338,6 +338,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Folding.png" context="Text Objects" width="320"/>
 
 
+### Colorizer (2.5)
+
+- [Vim-Css-Color](https://github.com/ap/vim-css-color)
+
+<img src="graphs/Colorizer.png" context="Text Objects" width="320"/>
+
+
 ## My Recommendations
 
 ### [Vim-HighlightedYank](https://github.com/machakann/vim-highlightedyank)
