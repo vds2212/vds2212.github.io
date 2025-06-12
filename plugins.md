@@ -10,7 +10,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ## Popular Choices
 
-### Plugin-Manager (34.7)
+### Plugin-Manager (35.0)
 
 - [Vim-Plug](https://github.com/junegunn/vim-plug)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
@@ -19,7 +19,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Plugin-Manager.png" context="Plugin-Manager" width="320"/>
 
 
-### Code Completion (25.6)
+### Code Completion (25.7)
 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) [My favorite]
@@ -27,7 +27,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Completion.png" context="Code Completion" width="320"/>
 
 
-### Git (20.5)
+### Git (20.8)
 
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive)
 - [Vim-GitGutter](https://github.com/airblade/vim-gitgutter)
@@ -35,7 +35,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Git.png" context="Git" width="320"/>
 
 
-### File Browser (19.8)
+### File Browser (19.9)
 
 - [NerdTree](https://github.com/preservim/nerdtree)
 - [Vim-Vinegar](https://github.com/tpope/vim-vinegar)
@@ -54,7 +54,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status Line" width="320"/>
 
 
-### Fuzzy Finding (17.1)
+### Fuzzy Finding (17.7)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim)
@@ -64,7 +64,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy Finding" width="320"/>
 
 
-### Color Schemes (14.3)
+### Color Schemes (14.5)
 
 - [Gruvbox](https://github.com/morhetz/gruvbox)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized)
@@ -76,23 +76,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Colorschemes.png" context="Colorscheme" width="320"/>
 
 
-### Linting (13.7)
-
-- [ALE](https://github.com/dense-analysis/ale)
-- [Syntastic](https://github.com/vim-syntastic/syntastic)
-
-<img src="graphs/Linting.png" context="Linting" width="320"/>
-
-
-### Parenthesis (13.7)
-
-- [Vim-Surround](https://github.com/tpope/vim-surround)
-- [Auto-Pairs](https://github.com/jiangmiao/auto-pairs)
-
-<img src="graphs/Parenthesis.png" context="Parenthesis" width="320"/>
-
-
-### AI (9.6)
+### AI (14.4)
 
 - [Copilot.vim](https://github.com/github/copilot.vim)
 - [Codeium.vim](https://github.com/Exafunction/codeium.vim)
@@ -100,11 +84,35 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Parenthesis.png" context="AI" width="320"/>
 
 
-### Note Taking (9.0)
+### Linting (13.8)
+
+- [ALE](https://github.com/dense-analysis/ale)
+- [Syntastic](https://github.com/vim-syntastic/syntastic)
+
+<img src="graphs/Linting.png" context="Linting" width="320"/>
+
+
+### Parenthesis (13.8)
+
+- [Vim-Surround](https://github.com/tpope/vim-surround)
+- [Auto-Pairs](https://github.com/jiangmiao/auto-pairs)
+
+<img src="graphs/Parenthesis.png" context="Parenthesis" width="320"/>
+
+
+### Note Taking (9.1)
 
 - [VimWiki](https://github.com/vimwiki/vimwiki)
 
 <img src="graphs/Note-Taking.png" context="Note Taking" width="320"/>
+
+
+### Marks (8.1)
+
+- [Vim-Signature](https://github.com/kshenoy/vim-signature)
+- [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
+
+<img src="graphs/Marks.png" context="Marks" width="320"/>
 
 
 ### Multiple Cursors (8.0)
@@ -112,14 +120,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi)
 
 <img src="graphs/Multiple-Cursors.png" context="Multiple Cursors" width="320"/>
-
-
-### Marks (7.6)
-
-- [Vim-Signature](https://github.com/kshenoy/vim-signature)
-- [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
-
-<img src="graphs/Marks.png" context="Marks" width="320"/>
 
 
 ### Snippet (7.6)
@@ -140,19 +140,19 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
 
 
+### Debugging (6.4)
+
+- [Vimspector](vimspector)
+
+<img src="graphs/Debugging.png" context="Debugging" width="320"/>
+
+
 ### Tag List (6.2)
 
 - [TagBar](https://github.com/preservim/tagbar)
 - [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags)
 
 <img src="graphs/Tag-List.png" context="Tag List" width="320"/>
-
-
-### Debugging (6.1)
-
-- [Vimspector](vimspector)
-
-<img src="graphs/Debugging.png" context="Debugging" width="320"/>
 
 
 ### Keybinding (6.0)
@@ -174,7 +174,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
-#### Go (16.0)
+#### Go (16.1)
 
 - [Vim-Go](https://github.com/fatih/vim-go)
 
