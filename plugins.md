@@ -200,14 +200,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Rust.png" context="Rust" width="320"/>
 
 
-#### Read Eval Print Loop (REPL) (4.0)
-
-- [Codi.Vim](https://github.com/metakirby5/codi.vim) [Only for Unix based OS]
-- [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) [My favorite]
-
-<img src="graphs/REPL.png" context="REPL" width="320"/>
-
-
 ### Dashboard (5.4)
 
 - [Vim-Startify](https://github.com/mhinz/vim-startify)
@@ -299,6 +291,14 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vader.Vim](https://github.com/junegunn/vader.vim)
 
 <img src="graphs/Test.png" context="Tests" width="320"/>
+
+
+#### Read Eval Print Loop (REPL) (3.0)
+
+- [Codi.Vim](https://github.com/metakirby5/codi.vim) [Only for Unix based OS]
+- [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) [My favorite]
+
+<img src="graphs/REPL.png" context="REPL" width="320"/>
 
 
 ### Indicators (2.7)
