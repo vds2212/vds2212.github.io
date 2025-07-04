@@ -202,7 +202,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 #### Read Eval Print Loop (REPL) (4.0)
 
-- [Codi.Vim](https://github.com/metakirby5/codi.vim)
+- [Codi.Vim](https://github.com/metakirby5/codi.vim) [Only for Unix based OS]
 - [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) [My favorite]
 
 <img src="graphs/REPL.png" context="REPL" width="320"/>
