@@ -79,7 +79,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### AI (14.4)
 
 - [Copilot.vim](https://github.com/github/copilot.vim)
-- [Codeium.vim](https://github.com/Exafunction/codeium.vim)
+- [Windsurf.vim](https://github.com/Exafunction/windsurf.vim)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
 
