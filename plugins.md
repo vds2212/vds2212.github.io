@@ -81,7 +81,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Copilot.vim](https://github.com/github/copilot.vim)
 - [Codeium.vim](https://github.com/Exafunction/codeium.vim)
 
-<img src="graphs/Parenthesis.png" context="AI" width="320"/>
+<img src="graphs/AI.png" context="AI" width="320"/>
 
 
 ### Linting (13.8)
