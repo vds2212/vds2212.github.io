@@ -439,5 +439,5 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2025-04-03
+Last update: 2025-10-17
 
