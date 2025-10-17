@@ -10,7 +10,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ## Popular Choices
 
-### Plugin-Manager (35.0)
+### Plugin-Manager (35.3)
 
 - [Vim-Plug](https://github.com/junegunn/vim-plug)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
@@ -19,7 +19,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Plugin-Manager.png" context="Plugin-Manager" width="320"/>
 
 
-### Code Completion (25.7)
+### Code Completion (26.2)
 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) [My favorite]
@@ -27,7 +27,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Completion.png" context="Code Completion" width="320"/>
 
 
-### Git (20.8)
+### Git (21.3)
 
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive)
 - [Vim-GitGutter](https://github.com/airblade/vim-gitgutter)
@@ -35,7 +35,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Git.png" context="Git" width="320"/>
 
 
-### File Browser (19.9)
+### File Browser (20.0)
 
 - [NerdTree](https://github.com/preservim/nerdtree)
 - [Vim-Vinegar](https://github.com/tpope/vim-vinegar)
@@ -54,7 +54,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status Line" width="320"/>
 
 
-### Fuzzy Finding (17.7)
+### Fuzzy Finding (18.4)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim)
@@ -64,7 +64,15 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy Finding" width="320"/>
 
 
-### Color Schemes (14.5)
+### AI (16.2)
+
+- [Copilot.vim](https://github.com/github/copilot.vim)
+- [Windsurf.vim](https://github.com/Exafunction/windsurf.vim)
+
+<img src="graphs/AI.png" context="AI" width="320"/>
+
+
+### Color Schemes (14.9)
 
 - [Gruvbox](https://github.com/morhetz/gruvbox)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized)
@@ -76,15 +84,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Colorschemes.png" context="Colorscheme" width="320"/>
 
 
-### AI (14.4)
-
-- [Copilot.vim](https://github.com/github/copilot.vim)
-- [Windsurf.vim](https://github.com/Exafunction/windsurf.vim)
-
-<img src="graphs/AI.png" context="AI" width="320"/>
-
-
-### Linting (13.8)
+### Linting (13.9)
 
 - [ALE](https://github.com/dense-analysis/ale)
 - [Syntastic](https://github.com/vim-syntastic/syntastic)
@@ -92,7 +92,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Linting.png" context="Linting" width="320"/>
 
 
-### Parenthesis (13.8)
+### Parenthesis (13.9)
 
 - [Vim-Surround](https://github.com/tpope/vim-surround)
 - [Auto-Pairs](https://github.com/jiangmiao/auto-pairs)
@@ -100,14 +100,14 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Parenthesis.png" context="Parenthesis" width="320"/>
 
 
-### Note Taking (9.1)
+### Note Taking (9.3)
 
 - [VimWiki](https://github.com/vimwiki/vimwiki)
 
 <img src="graphs/Note-Taking.png" context="Note Taking" width="320"/>
 
 
-### Marks (8.1)
+### Marks (8.6)
 
 - [Vim-Signature](https://github.com/kshenoy/vim-signature)
 - [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
@@ -122,7 +122,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Multiple-Cursors.png" context="Multiple Cursors" width="320"/>
 
 
-### Snippet (7.6)
+### Snippet (7.7)
 
 - [UltiSnips](https://github.com/SirVer/ultisnips)
 - [Emmet-vim](https://github.com/mattn/emmet-vim)
@@ -130,7 +130,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
 
-### Motion (7.6)
+### Motion (7.7)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak)
@@ -138,6 +138,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Quick-Scope](https://github.com/unblevable/quick-scope)
 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
+
+
+### Keybinding (6.6)
+
+- [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key)
+
+<img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
 
 
 ### Debugging (6.4)
@@ -155,14 +162,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Tag-List.png" context="Tag List" width="320"/>
 
 
-### Keybinding (6.0)
-
-- [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key)
-
-<img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
-
-
-### Code Commenting (6.0)
+### Code Commenting (6.1)
 
 - [Vim-Commentary](https://github.com/tpope/vim-commentary)
 - [NerdCommenter](https://github.com/preservim/nerdcommenter)
@@ -170,16 +170,22 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Comment.png" context="Code Commenting" width="320"/>
 
 
-### Language Support (5.6)
+### Language Support (5.7)
 
 - [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
-#### Go (16.1)
+#### Go (16.2)
 
 - [Vim-Go](https://github.com/fatih/vim-go)
 
 <img src="graphs/Go.png" context="Go" width="320"/>
 
+
+#### TeX (6.0)
+
+- [VimTeX](https://github.com/lervag/vimtex)
+
+<img src="graphs/TeX.png" context="TeX" width="320"/>
 
 #### Python (5.5)
 
@@ -187,13 +193,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 <img src="graphs/Python.png" context="Python" width="320"/>
 
-#### TeX (5.5)
-
-- [VimTeX](https://github.com/lervag/vimtex)
-
-<img src="graphs/TeX.png" context="TeX" width="320"/>
-
-#### Rust (4.0)
+#### Rust (4.1)
 
 - [Rust](https://github.com/rust-lang/rust.vim)
 
@@ -207,7 +207,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Startup.png" context="Dashboard" width="320"/>
 
 
-### Terminal Integration (4.6)
+### Terminal Integration (5.2)
 
 - [Vim-Floaterm](https://github.com/voldikss/vim-floaterm)
 - [Neoterm](https://github.com/kassio/neoterm)
@@ -222,7 +222,30 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Zen.png" context="Zen" width="320"/>
 
 
-### Align (4.6)
+### Formatting (4.6)
+
+- [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat)
+- [Vim-Prettier](https://github.com/prettier/vim-prettier)
+
+<img src="graphs/Formatting.png" context="Formatting" width="320"/>
+
+
+### Undo Tree (4.4)
+
+- [UndoTree](https://github.com/mbbill/undotree)
+- [gUndo](https://github.com/sjl/gundo.vim)
+
+<img src="graphs/Undo-Tree.png" context="Undo Tree" width="320"/>
+
+
+### Databases (4.2)
+
+- [Vim-DadBod](https://github.com/tpope/vim-dadbod)
+
+<img src="graphs/Databases.png" context="Databases" width="320"/>
+
+
+### Align (4.2)
 
 - [Vim-Easy-Align](https://github.com/junegunn/vim-easy-align)
 - [Tabular](https://github.com/godlygeek/tabular)
@@ -230,12 +253,11 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Align.png" context="Align" width="320"/>
 
 
-### Undo Tree (4.1)
+### Learning (4.1)
 
-- [UndoTree](https://github.com/mbbill/undotree)
-- [gUndo](https://github.com/sjl/gundo.vim)
+- [Hardmode](https://github.com/wikitopian/hardmode)
 
-<img src="graphs/Undo-Tree.png" context="Undo Tree" width="320"/>
+<img src="graphs/Learning.png" context="Learning" width="320"/>
 
 
 ### Indent (4.1)
@@ -248,29 +270,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Indent.png" context="Indent" width="320"/>
 
 
-### Databases (3.7)
-
-- [Vim-DadBod](https://github.com/tpope/vim-dadbod)
-
-<img src="graphs/Databases.png" context="Databases" width="320"/>
-
-
-### Learning (3.6)
-
-- [Hardmode](https://github.com/wikitopian/hardmode)
-
-<img src="graphs/Learning.png" context="Learning" width="320"/>
-
-
-### Formatting (3.5)
-
-- [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat)
-- [Vim-Prettier](https://github.com/prettier/vim-prettier)
-
-<img src="graphs/Formatting.png" context="Formatting" width="320"/>
-
-
-### TODO (3.2)
+### TODO (3.9)
 
 - [Todo.Txt-Vim](https://github.com/freitass/todo.txt-vim)
 
@@ -293,12 +293,27 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Test.png" context="Tests" width="320"/>
 
 
-#### Read Eval Print Loop (REPL) (3.0)
+#### Read Eval Print Loop (REPL) (3.1)
 
 - [Codi.Vim](https://github.com/metakirby5/codi.vim) [Only for Unix based OS]
 - [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) [My favorite]
 
 <img src="graphs/REPL.png" context="REPL" width="320"/>
+
+
+### Context (3.0)
+
+- [Context](https://github.com/wellle/context.vim)
+
+<img src="graphs/Context.png" context="Context" width="320"/>
+
+
+### Folding (2.8)
+
+- [FastFold](https://github.com/Konfekt/FastFold)
+- [Vim-Anyfold](https://github.com/pseewald/vim-anyfold)
+
+<img src="graphs/Folding.png" context="Text Objects" width="320"/>
 
 
 ### Indicators (2.7)
@@ -316,11 +331,11 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Asynchronous-Execution.png" context="Asynchronous Execution" width="320"/>
 
 
-### Context (2.7)
+### Colorizer (2.6)
 
-- [Context](https://github.com/wellle/context.vim)
+- [Vim-Css-Color](https://github.com/ap/vim-css-color)
 
-<img src="graphs/Context.png" context="Context" width="320"/>
+<img src="graphs/Colorizer.png" context="Text Objects" width="320"/>
 
 
 ### Text Objects (2.6)
@@ -328,21 +343,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Targets](https://github.com/wellle/targets.vim)
 
 <img src="graphs/Text-Objects.png" context="Text Objects" width="320"/>
-
-
-### Folding (2.6)
-
-- [FastFold](https://github.com/Konfekt/FastFold)
-- [Vim-Anyfold](https://github.com/pseewald/vim-anyfold)
-
-<img src="graphs/Folding.png" context="Text Objects" width="320"/>
-
-
-### Colorizer (2.5)
-
-- [Vim-Css-Color](https://github.com/ap/vim-css-color)
-
-<img src="graphs/Colorizer.png" context="Text Objects" width="320"/>
 
 
 ## My Recommendations
