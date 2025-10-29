@@ -424,12 +424,14 @@ It allows you to see your full script at glance:
 
 Make it possible to repeat motions or actions behind edition (`.`), substitution (`&`) or command (`@:`) repetition.
 
+In response of the following StackExchange question: [Repeat last navigation command](https://vi.stackexchange.com/a/45637/23502).
+
 
 ## Remarks
 
 There are a lot of plugins.
 [VimAwesome](https://vimawesome.com/) mentions about 19.000.
-I follow about 1.700.
+I follow about 1.850.
 
 My review is based on months of collecting plugins via blogs but also via plugin directories:
 - [vimawesome](https://vimawesome.com/)
@@ -439,5 +441,5 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2025-10-17
+Last update: 2025-10-29
 
