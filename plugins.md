@@ -10,292 +10,312 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ## Popular Choices
 
-### Plugin-Manager (35.3)
+### Plugin-Manager (35.4)
 
-- [Vim-Plug](https://github.com/junegunn/vim-plug)
-- [Vundle](https://github.com/VundleVim/Vundle.vim)
-- [Vim-Pathogen](https://github.com/tpope/vim-pathogen)
+- [Vim-Plug](https://github.com/junegunn/vim-plug) (35.4k)
+- [Vundle.vim](https://github.com/VundleVim/Vundle.vim) (24.0k)
+- [Vim-Pathogen](https://github.com/tpope/vim-pathogen) (12.1k)
 
 <img src="graphs/Plugin-Manager.png" context="Plugin-Manager" width="320"/>
 
 
-### Code Completion (26.2)
+### Completion (26.3)
 
-- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
-- [Coc.nvim](https://github.com/neoclide/coc.nvim) [My favorite]
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.3k)
+- [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.1k)
 
-<img src="graphs/Completion.png" context="Code Completion" width="320"/>
+<img src="graphs/Completion.png" context="Completion" width="320"/>
 
 
-### Git (21.3)
+### Git (21.5)
 
-- [Vim-Fugitive](https://github.com/tpope/vim-fugitive)
-- [Vim-GitGutter](https://github.com/airblade/vim-gitgutter)
+- [Vim-Fugitive](https://github.com/tpope/vim-fugitive) (21.5k)
+- [Vim-Gitgutter](https://github.com/airblade/vim-gitgutter) (8.5k)
 
 <img src="graphs/Git.png" context="Git" width="320"/>
 
 
-### File Browser (20.0)
+### File-Explorer (20.0)
 
-- [NerdTree](https://github.com/preservim/nerdtree)
-- [Vim-Vinegar](https://github.com/tpope/vim-vinegar)
-- [Vim-Enuch](https://github.com/tpope/vim-eunuch)
-- [Vim-Fern](https://github.com/lambdalisue/vim-fern)
+- [Nerdtree](https://github.com/preservim/nerdtree) (20.0k)
+- [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.3k)
+- [Nerdtree-Git-Plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) (2.1k)
+- [Vim-Eunuch](https://github.com/tpope/vim-eunuch) (1.9k)
+- [Vim-Fern](https://github.com/lambdalisue/vim-fern) (1.3k)
 
-<img src="graphs/File-Explorer.png" context="File Browser" width="320"/>
-
-
-### Status Line (17.9)
-
-- [Vim-Airline](https://github.com/vim-airline/vim-airline)
-- [PowerLine](https://github.com/powerline/powerline)
-- [LightLine](https://github.com/itchyny/lightline.vim)
-
-<img src="graphs/Status-Line.png" context="Status Line" width="320"/>
+<img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy Finding (18.4)
+### Fuzzy-Finder (18.7)
 
-- [Fzf.vim](https://github.com/junegunn/fzf.vim)
-- [Ctrlp.vim](https://github.com/kien/ctrlp.vim)
-- [Skim](https://github.com/skim-rs/skim)
-- [Vim-Clap](https://github.com/liuchengxu/vim-clap) [My favorite on Windows]
+- [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.1k)
+- [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.3k)
+- [Skim](https://github.com/skim-rs/skim) (6.2k)
+- [Vim-Clap](https://github.com/liuchengxu/vim-clap) (2.2k) [My favorite on Windows]
 
-<img src="graphs/Fuzzy-Finder.png" context="Fuzzy Finding" width="320"/>
+<img src="graphs/Fuzzy-Finder.png" context="Fuzzy-Finder" width="320"/>
 
 
-### AI (16.2)
+### Status-Line (17.9)
 
-- [Copilot.vim](https://github.com/github/copilot.vim)
-- [Windsurf.vim](https://github.com/Exafunction/windsurf.vim)
+- [Vim-Airline](https://github.com/vim-airline/vim-airline) (17.9k)
+- [Powerline](https://github.com/powerline/powerline) (14.7k)
+- [Lightline.vim](https://github.com/itchyny/lightline.vim) (6.9k)
+
+<img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
+
+
+### AI (16.7)
+
+- [Copilot.vim](https://github.com/github/copilot.vim) (11.1k)
+- [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
 
 
-### Color Schemes (14.9)
+### Go (16.2)
 
-- [Gruvbox](https://github.com/morhetz/gruvbox)
-- [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized)
-- [Onedark](https://github.com/joshdick/onedark.vim)
-- [Molokai](https://github.com/tomasr/molokai)
-- [Everforest](https://github.com/sainnhe/everforest)
-- [Papercolor-Theme](https://github.com/NLKNguyen/papercolor-theme)
+- [Vim-Go](https://github.com/fatih/vim-go) (16.2k)
 
-<img src="graphs/Colorschemes.png" context="Colorscheme" width="320"/>
+<img src="graphs/Go.png" context="Go" width="320"/>
 
 
-### Linting (13.9)
+### Colorschemes (15.0)
 
-- [ALE](https://github.com/dense-analysis/ale)
-- [Syntastic](https://github.com/vim-syntastic/syntastic)
+- [Gruvbox](https://github.com/morhetz/gruvbox) (15.0k)
+- [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized) (6.6k)
+- [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
+- [Everforest](https://github.com/sainnhe/everforest) (3.7k)
+- [Molokai](https://github.com/tomasr/molokai) (3.6k)
+- [Papercolor-Theme](https://github.com/NLKNguyen/papercolor-theme) (2.8k)
 
-<img src="graphs/Linting.png" context="Linting" width="320"/>
+<img src="graphs/Colorschemes.png" context="Colorschemes" width="320"/>
 
 
-### Parenthesis (13.9)
+### Parenthesis (14.0)
 
-- [Vim-Surround](https://github.com/tpope/vim-surround)
-- [Auto-Pairs](https://github.com/jiangmiao/auto-pairs)
+- [Vim-Surround](https://github.com/tpope/vim-surround) (14.0k)
+- [Auto-Pairs](https://github.com/jiangmiao/auto-pairs) (4.2k)
 
 <img src="graphs/Parenthesis.png" context="Parenthesis" width="320"/>
 
 
-### Note Taking (9.3)
+### Linting (13.9)
 
-- [VimWiki](https://github.com/vimwiki/vimwiki)
+- [Ale](https://github.com/dense-analysis/ale) (13.9k)
+- [Syntastic](https://github.com/vim-syntastic/syntastic) (11.2k)
 
-<img src="graphs/Note-Taking.png" context="Note Taking" width="320"/>
+<img src="graphs/Linting.png" context="Linting" width="320"/>
 
 
-### Marks (8.6)
 
-- [Vim-Signature](https://github.com/kshenoy/vim-signature)
-- [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
+### Note-Taking (9.3)
+
+- [Vimwiki](https://github.com/vimwiki/vimwiki) (9.3k)
+
+<img src="graphs/Note-Taking.png" context="Note-Taking" width="320"/>
+
+
+### Marks (8.8)
+
+- [Vim-Signature](https://github.com/kshenoy/vim-signature) (1.4k)
+- [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks) (1.1k)
 
 <img src="graphs/Marks.png" context="Marks" width="320"/>
 
 
-### Multiple Cursors (8.0)
+### Multiple-Cursors (8.0)
 
-- [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi)
+- [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi) (4.7k)
 
-<img src="graphs/Multiple-Cursors.png" context="Multiple Cursors" width="320"/>
-
-
-### Snippet (7.7)
-
-- [UltiSnips](https://github.com/SirVer/ultisnips)
-- [Emmet-vim](https://github.com/mattn/emmet-vim)
-
-<img src="graphs/Snippet.png" context="Snippet" width="320"/>
+<img src="graphs/Multiple-Cursors.png" context="Multiple-Cursors" width="320"/>
 
 
 ### Motion (7.7)
 
-- [Vim-Easymotion](https://github.com/easymotion/vim-easymotion)
-- [Vim-Sneak](https://github.com/justinmk/vim-sneak)
-- [Clever-F](https://github.com/rhysd/clever-f.vim)
-- [Quick-Scope](https://github.com/unblevable/quick-scope)
+- [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
+- [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
+- [Quick-Scope](https://github.com/unblevable/quick-scope) (1.6k)
+- [Clever-F.vim](https://github.com/rhysd/clever-f.vim) (1.1k)
 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
 
 
-### Keybinding (6.6)
+### Snippet (7.7)
 
-- [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key)
+- [Ultisnips](https://github.com/SirVer/ultisnips) (7.7k)
+- [Emmet-Vim](https://github.com/mattn/emmet-vim) (6.5k)
 
-<img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
+<img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
 
-### Debugging (6.4)
+### Markdown (7.6)
 
-- [Vimspector](vimspector)
+- [Vim-Markdown](https://github.com/preservim/vim-markdown) (4.8k)
+- [Vim-Instant-Markdown](https://github.com/instant-markdown/vim-instant-markdown) (2.8k)
+- [Vim-Table-Mode](https://github.com/dhruvasagar/vim-table-mode) (2.2k)
+- [Vim-Pencil](https://github.com/preservim/vim-pencil) (1.7k)
+- [Glow.nvim](https://github.com/ellisonleao/glow.nvim) (1.3k)
+- [Vim-Markdown](https://github.com/tpope/vim-markdown) (1.2k)
+- [Vim-Grammarous](https://github.com/rhysd/vim-grammarous) (1.1k)
+
+<img src="graphs/Markdown.png" context="Markdown" width="320"/>
+
+
+### Debugging (6.8)
+
+- [Vimspector](https://github.com/puremourning/vimspector) (4.3k)
 
 <img src="graphs/Debugging.png" context="Debugging" width="320"/>
 
 
-### Tag List (6.2)
+### Keybinding (6.8)
 
-- [TagBar](https://github.com/preservim/tagbar)
-- [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags)
+- [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key) (2.0k)
 
-<img src="graphs/Tag-List.png" context="Tag List" width="320"/>
+<img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
 
 
-### Code Commenting (6.1)
+### Tag-List (6.2)
 
-- [Vim-Commentary](https://github.com/tpope/vim-commentary)
-- [NerdCommenter](https://github.com/preservim/nerdcommenter)
+- [Tagbar](https://github.com/preservim/tagbar) (6.2k)
+- [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags) (2.3k)
 
-<img src="graphs/Comment.png" context="Code Commenting" width="320"/>
+<img src="graphs/Tag-List.png" context="Tag-List" width="320"/>
+
+
+### Comment (6.1)
+
+- [Vim-Commentary](https://github.com/tpope/vim-commentary) (6.1k)
+- [Nerdcommenter](https://github.com/preservim/nerdcommenter) (5.0k)
+
+<img src="graphs/Comment.png" context="Comment" width="320"/>
+
+
+### TeX (6.1)
+
+- [Vimtex](https://github.com/lervag/vimtex) (6.1k)
+
+<img src="graphs/TeX.png" context="TeX" width="320"/>
 
 
 ### Language Support (5.7)
 
 - [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
-#### Go (16.2)
 
-- [Vim-Go](https://github.com/fatih/vim-go)
+### Python (5.5)
 
-<img src="graphs/Go.png" context="Go" width="320"/>
-
-
-#### TeX (6.0)
-
-- [VimTeX](https://github.com/lervag/vimtex)
-
-<img src="graphs/TeX.png" context="TeX" width="320"/>
-
-#### Python (5.5)
-
-- [Python-Mode](https://github.com/python-mode/python-mode)
+- [Python-Mode](https://github.com/python-mode/python-mode) (5.5k)
+- [Vim-Flake8](https://github.com/nvie/vim-flake8) (1.1k)
 
 <img src="graphs/Python.png" context="Python" width="320"/>
 
-#### Rust (4.1)
 
-- [Rust](https://github.com/rust-lang/rust.vim)
+### Startup (5.4)
 
-<img src="graphs/Rust.png" context="Rust" width="320"/>
+- [Vim-Startify](https://github.com/mhinz/vim-startify) (5.4k)
 
-
-### Dashboard (5.4)
-
-- [Vim-Startify](https://github.com/mhinz/vim-startify)
-
-<img src="graphs/Startup.png" context="Dashboard" width="320"/>
+<img src="graphs/Startup.png" context="Startup" width="320"/>
 
 
-### Terminal Integration (5.2)
+### Terminal-Integration (5.3)
 
-- [Vim-Floaterm](https://github.com/voldikss/vim-floaterm)
-- [Neoterm](https://github.com/kassio/neoterm)
+- [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.6k)
+- [Neoterm](https://github.com/kassio/neoterm) (1.3k)
 
-<img src="graphs/Terminal-Integration.png" context="Terminal Integration" width="320"/>
-
-
-### Zen (4.6)
-
-- [Goyo](https://github.com/junegunn/goyo.vim)
-
-<img src="graphs/Zen.png" context="Zen" width="320"/>
+<img src="graphs/Terminal-Integration.png" context="Terminal-Integration" width="320"/>
 
 
-### Formatting (4.6)
+### Indent (4.8)
 
-- [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat)
-- [Vim-Prettier](https://github.com/prettier/vim-prettier)
-
-<img src="graphs/Formatting.png" context="Formatting" width="320"/>
-
-
-### Undo Tree (4.4)
-
-- [UndoTree](https://github.com/mbbill/undotree)
-- [gUndo](https://github.com/sjl/gundo.vim)
-
-<img src="graphs/Undo-Tree.png" context="Undo Tree" width="320"/>
-
-
-### Databases (4.2)
-
-- [Vim-DadBod](https://github.com/tpope/vim-dadbod)
-
-<img src="graphs/Databases.png" context="Databases" width="320"/>
-
-
-### Align (4.2)
-
-- [Vim-Easy-Align](https://github.com/junegunn/vim-easy-align)
-- [Tabular](https://github.com/godlygeek/tabular)
-
-<img src="graphs/Align.png" context="Align" width="320"/>
-
-
-### Learning (4.1)
-
-- [Hardmode](https://github.com/wikitopian/hardmode)
-
-<img src="graphs/Learning.png" context="Learning" width="320"/>
-
-
-### Indent (4.1)
-
-- [IndentLine](https://github.com/Yggdroot/indentLine)
-- [EditorConfig](https://github.com/editorconfig/editorconfig-vim)
-- [Vim-Indent-Guides](https://github.com/preservim/vim-indent-guides)
-- [Vim-Sleuth](https://github.com/tpope/vim-sleuth)
+- [IndentLine](https://github.com/Yggdroot/indentLine) (4.1k)
+- [Editorconfig-Vim](https://github.com/editorconfig/editorconfig-vim) (3.2k)
+- [Vim-Indent-Guides](https://github.com/preservim/vim-indent-guides) (2.7k)
+- [Vim-Sleuth](https://github.com/tpope/vim-sleuth) (2.1k)
 
 <img src="graphs/Indent.png" context="Indent" width="320"/>
 
 
-### TODO (3.9)
+### Formatting (4.7)
 
-- [Todo.Txt-Vim](https://github.com/freitass/todo.txt-vim)
+- [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat) (2.3k)
+- [Vim-Prettier](https://github.com/prettier/vim-prettier) (1.8k)
+
+<img src="graphs/Formatting.png" context="Formatting" width="320"/>
+
+
+### Zen (4.6)
+
+- [Goyo.vim](https://github.com/junegunn/goyo.vim) (4.6k)
+
+<img src="graphs/Zen.png" context="Zen" width="320"/>
+
+
+### Undo-Tree (4.5)
+
+- [Undotree](https://github.com/mbbill/undotree) (4.5k)
+- [Gundo.vim](https://github.com/sjl/gundo.vim) (1.5k)
+
+<img src="graphs/Undo-Tree.png" context="Undo-Tree" width="320"/>
+
+
+### Databases (4.2)
+
+- [Vim-Dadbod](https://github.com/tpope/vim-dadbod) (4.2k)
+
+<img src="graphs/Databases.png" context="Databases" width="320"/>
+
+
+### Learning (4.2)
+
+- [Hardmode](https://github.com/wikitopian/hardmode) (0.6k)
+
+<img src="graphs/Learning.png" context="Learning" width="320"/>
+
+
+### Align (4.2)
+
+- [Vim-Easy-Align](https://github.com/junegunn/vim-easy-align) (4.2k)
+- [Tabular](https://github.com/godlygeek/tabular) (2.6k)
+
+<img src="graphs/Align.png" context="Align" width="320"/>
+
+
+### Rust (4.1)
+
+- [Rust.vim](https://github.com/rust-lang/rust.vim) (4.1k)
+
+<img src="graphs/Rust.png" context="Rust" width="320"/>
+
+
+### Todo (4.0)
+
+- [Todo.Txt-Vim](https://github.com/freitass/todo.txt-vim) (0.5k)
 
 <img src="graphs/Todo.png" context="Todo" width="320"/>
 
 
-### Search in Files (3.1)
-
-- [Ack.vim](https://github.com/mileszs/ack.vim)
-- [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) [My favorite]
-
-<img src="graphs/Search-in-Files.png" context="Search in Files" width="320"/>
-
-
 ### Test (3.1)
 
-- [Vim-Test](https://github.com/vim-test/vim-test)
-- [Vader.Vim](https://github.com/junegunn/vader.vim)
+- [Vim-Test](https://github.com/vim-test/vim-test) (3.1k)
+- [Vader.vim](https://github.com/junegunn/vader.vim) (0.6k)
 
-<img src="graphs/Test.png" context="Tests" width="320"/>
+<img src="graphs/Test.png" context="Test" width="320"/>
 
 
-#### Read Eval Print Loop (REPL) (3.1)
+### Search-in-Files (3.1)
 
-- [Codi.Vim](https://github.com/metakirby5/codi.vim) [Only for Unix based OS]
+- [Ack.vim](https://github.com/mileszs/ack.vim) (3.1k)
+- [Ag.vim](https://github.com/rking/ag.vim) (1.7k)
+- [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) (1.6k)
+
+<img src="graphs/Search-in-Files.png" context="Search-in-Files" width="320"/>
+
+
+### REPL (3.1)
+
+- [Codi.vim](https://github.com/metakirby5/codi.vim) (3.1k)
 - [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) [My favorite]
 
 <img src="graphs/REPL.png" context="REPL" width="320"/>
@@ -303,46 +323,49 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Context (3.0)
 
-- [Context](https://github.com/wellle/context.vim)
+- [Context.vim](https://github.com/wellle/context.vim) (1.4k)
 
 <img src="graphs/Context.png" context="Context" width="320"/>
 
 
 ### Folding (2.8)
 
-- [FastFold](https://github.com/Konfekt/FastFold)
-- [Vim-Anyfold](https://github.com/pseewald/vim-anyfold)
+- [FastFold](https://github.com/Konfekt/FastFold) (0.7k)
+- [Vim-Anyfold](https://github.com/pseewald/vim-anyfold) (0.3k)
 
-<img src="graphs/Folding.png" context="Text Objects" width="320"/>
+<img src="graphs/Folding.png" context="Folding" width="320"/>
+
+
+### Asynchronous-Execution (2.7)
+
+- [Vim-Dispatch](https://github.com/tpope/vim-dispatch) (2.7k)
+- [Neomake](https://github.com/neomake/neomake) (2.7k)
+- [Asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) (1.9k)
+
+<img src="graphs/Asynchronous-Execution.png" context="Asynchronous-Execution" width="320"/>
 
 
 ### Indicators (2.7)
 
-- [Vim-Signify](https://github.com/mhinz/vim-signify)
+- [Vim-Signify](https://github.com/mhinz/vim-signify) (2.7k)
 
 <img src="graphs/Indicators.png" context="Indicators" width="320"/>
 
 
-### Asynchronous Execution (2.7)
+### Text-Objects (2.6)
 
-- [Vim-Dispatch](https://github.com/tpope/vim-dispatch)
-- [AsyncRun](https://github.com/skywind3000/asyncrun.vim)
+- [Targets.vim](https://github.com/wellle/targets.vim) (2.6k)
+- [Vim-Textobj-User](https://github.com/kana/vim-textobj-user) (1.5k)
+- [Vim-Indent-Object](https://github.com/michaeljsmith/vim-indent-object) (0.8k)
 
-<img src="graphs/Asynchronous-Execution.png" context="Asynchronous Execution" width="320"/>
+<img src="graphs/Text-Objects.png" context="Text-Objects" width="320"/>
 
 
 ### Colorizer (2.6)
 
-- [Vim-Css-Color](https://github.com/ap/vim-css-color)
+- [Vim-Css-Color](https://github.com/ap/vim-css-color) (1.8k)
 
-<img src="graphs/Colorizer.png" context="Text Objects" width="320"/>
-
-
-### Text Objects (2.6)
-
-- [Targets](https://github.com/wellle/targets.vim)
-
-<img src="graphs/Text-Objects.png" context="Text Objects" width="320"/>
+<img src="graphs/Colorizer.png" context="Colorizer" width="320"/>
 
 
 ## My Recommendations
@@ -441,5 +464,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2025-12-12
-
+Last update: 2025/12/20 11:55:31
