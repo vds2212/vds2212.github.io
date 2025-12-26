@@ -10,9 +10,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ## Popular Choices
 
-### Plugin-Manager (35.4)
+### Plugin-Manager (35.5)
 
-- [Vim-Plug](https://github.com/junegunn/vim-plug) (35.4k)
+- [Vim-Plug](https://github.com/junegunn/vim-plug) (35.5k)
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) (24.0k)
 - [Vim-Pathogen](https://github.com/tpope/vim-pathogen) (12.1k)
 
@@ -46,7 +46,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy-Finder (18.7)
+### Fuzzy-Finder (18.8)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.1k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.3k)
@@ -65,7 +65,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
 
 
-### AI (16.7)
+### AI (16.9)
 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.1k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
@@ -124,14 +124,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Marks.png" context="Marks" width="320"/>
 
 
-### Multiple-Cursors (8.0)
-
-- [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi) (4.7k)
-
-<img src="graphs/Multiple-Cursors.png" context="Multiple-Cursors" width="320"/>
-
-
-### Motion (7.7)
+### Motion (8.5)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
@@ -139,6 +132,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Clever-F.vim](https://github.com/rhysd/clever-f.vim) (1.1k)
 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
+
+
+### Multiple-Cursors (8.0)
+
+- [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi) (4.7k)
+
+<img src="graphs/Multiple-Cursors.png" context="Multiple-Cursors" width="320"/>
 
 
 ### Snippet (7.7)
@@ -237,7 +237,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Indent.png" context="Indent" width="320"/>
 
 
-### Formatting (4.7)
+### Formatting (4.8)
 
 - [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat) (2.3k)
 - [Vim-Prettier](https://github.com/prettier/vim-prettier) (1.8k)
@@ -260,9 +260,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Undo-Tree.png" context="Undo-Tree" width="320"/>
 
 
-### Databases (4.2)
+### Databases (4.3)
 
-- [Vim-Dadbod](https://github.com/tpope/vim-dadbod) (4.2k)
+- [Vim-Dadbod](https://github.com/tpope/vim-dadbod) (4.3k)
 
 <img src="graphs/Databases.png" context="Databases" width="320"/>
 
@@ -321,7 +321,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/REPL.png" context="REPL" width="320"/>
 
 
-### Context (3.0)
+### Context (3.1)
 
 - [Context.vim](https://github.com/wellle/context.vim) (1.4k)
 
@@ -464,4 +464,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2025/12/20 11:55:31
+Last update: 2025/12/26 10:48:14
