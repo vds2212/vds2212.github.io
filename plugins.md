@@ -27,9 +27,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Completion.png" context="Completion" width="320"/>
 
 
-### Git (21.5)
+### Git (21.6)
 
-- [Vim-Fugitive](https://github.com/tpope/vim-fugitive) (21.5k)
+- [Vim-Fugitive](https://github.com/tpope/vim-fugitive) (21.6k)
 - [Vim-Gitgutter](https://github.com/airblade/vim-gitgutter) (8.5k)
 
 <img src="graphs/Git.png" context="Git" width="320"/>
@@ -65,9 +65,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
 
 
-### AI (16.9)
+### AI (17.0)
 
-- [Copilot.vim](https://github.com/github/copilot.vim) (11.1k)
+- [Copilot.vim](https://github.com/github/copilot.vim) (11.2k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
@@ -80,12 +80,12 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Go.png" context="Go" width="320"/>
 
 
-### Colorschemes (15.0)
+### Colorschemes (15.1)
 
-- [Gruvbox](https://github.com/morhetz/gruvbox) (15.0k)
+- [Gruvbox](https://github.com/morhetz/gruvbox) (15.1k)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized) (6.6k)
 - [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
-- [Everforest](https://github.com/sainnhe/everforest) (3.7k)
+- [Everforest](https://github.com/sainnhe/everforest) (3.8k)
 - [Molokai](https://github.com/tomasr/molokai) (3.6k)
 - [Papercolor-Theme](https://github.com/NLKNguyen/papercolor-theme) (2.8k)
 
@@ -162,7 +162,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Markdown.png" context="Markdown" width="320"/>
 
 
-### Debugging (6.8)
+### Debugging (6.9)
 
 - [Vimspector](https://github.com/puremourning/vimspector) (4.3k)
 
@@ -260,18 +260,18 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Undo-Tree.png" context="Undo-Tree" width="320"/>
 
 
+### Learning (4.3)
+
+- [Hardmode](https://github.com/wikitopian/hardmode) (0.6k)
+
+<img src="graphs/Learning.png" context="Learning" width="320"/>
+
+
 ### Databases (4.3)
 
 - [Vim-Dadbod](https://github.com/tpope/vim-dadbod) (4.3k)
 
 <img src="graphs/Databases.png" context="Databases" width="320"/>
-
-
-### Learning (4.2)
-
-- [Hardmode](https://github.com/wikitopian/hardmode) (0.6k)
-
-<img src="graphs/Learning.png" context="Learning" width="320"/>
 
 
 ### Align (4.2)
@@ -313,19 +313,19 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Search-in-Files.png" context="Search-in-Files" width="320"/>
 
 
+### Context (3.1)
+
+- [Context.vim](https://github.com/wellle/context.vim) (1.4k)
+
+<img src="graphs/Context.png" context="Context" width="320"/>
+
+
 ### REPL (3.1)
 
 - [Codi.vim](https://github.com/metakirby5/codi.vim) (3.1k)
 - [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) [My favorite]
 
 <img src="graphs/REPL.png" context="REPL" width="320"/>
-
-
-### Context (3.1)
-
-- [Context.vim](https://github.com/wellle/context.vim) (1.4k)
-
-<img src="graphs/Context.png" context="Context" width="320"/>
 
 
 ### Folding (2.8)
@@ -336,6 +336,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Folding.png" context="Folding" width="320"/>
 
 
+### Indicators (2.7)
+
+- [Vim-Signify](https://github.com/mhinz/vim-signify) (2.7k)
+
+<img src="graphs/Indicators.png" context="Indicators" width="320"/>
+
+
 ### Asynchronous-Execution (2.7)
 
 - [Vim-Dispatch](https://github.com/tpope/vim-dispatch) (2.7k)
@@ -343,13 +350,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) (1.9k)
 
 <img src="graphs/Asynchronous-Execution.png" context="Asynchronous-Execution" width="320"/>
-
-
-### Indicators (2.7)
-
-- [Vim-Signify](https://github.com/mhinz/vim-signify) (2.7k)
-
-<img src="graphs/Indicators.png" context="Indicators" width="320"/>
 
 
 ### Text-Objects (2.6)
@@ -464,4 +464,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2025/12/26 10:48:14
+Last update: 2026/01/02 16:38:29
