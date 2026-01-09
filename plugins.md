@@ -23,6 +23,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.3k)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.1k)
+  [My Favorite]
 - [Deoplete.nvim](https://github.com/Shougo/deoplete.nvim) (5.9k)
 - [Jedi-Vim](https://github.com/davidhalter/jedi-vim) (5.3k)
 - [Null-Ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) (3.6k)
@@ -57,7 +58,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
 - [Command-T](https://github.com/wincent/command-t) (2.8k)
 - [LeaderF](https://github.com/Yggdroot/LeaderF) (2.2k)
-- [Vim-Clap](https://github.com/liuchengxu/vim-clap) (2.1k) [My favorite on Windows]
+- [Vim-Clap](https://github.com/liuchengxu/vim-clap) (2.1k)
+  [My favorite on Windows]
 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy-Finder" width="320"/>
 
@@ -198,7 +200,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Tagbar](https://github.com/preservim/tagbar) (6.2k)
 - [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags) (2.3k)
-- [Vista.vim](https://github.com/liuchengxu/vista.vim) (1.9k)
+- [Vista.vim](https://github.com/liuchengxu/vista.vim) (1.9k) [My Favorite]
 - [Vim-Easytags](https://github.com/xolox/vim-easytags) (1.0k)
 - [Taglist.vim](https://github.com/vim-scripts/taglist.vim) (0.7k)
 
@@ -232,7 +234,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Flake8](https://github.com/nvie/vim-flake8) (1.1k)
 - [Semshi](https://github.com/numirias/semshi) (1.0k)
 - [Vim-Python-Pep8-Indent](https://github.com/Vimjas/vim-python-pep8-indent) (0.8k)
-- [SimpylFold](https://github.com/tmhedberg/SimpylFold) (0.7k)
+- [SimpylFold](https://github.com/tmhedberg/SimpylFold) (0.7k) [My Favorite]
 - [Vim-Virtualenv](https://github.com/jmcantrell/vim-virtualenv) (0.6k)
 - [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) (0.6k)
 
@@ -348,7 +350,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Ack.vim](https://github.com/mileszs/ack.vim) (3.1k)
 - [Ag.vim](https://github.com/rking/ag.vim) (1.7k)
-- [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) (1.6k)
+- [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) (1.6k) [My Favorite]
 - [Vim-Grepper](https://github.com/mhinz/vim-grepper) (1.2k)
 - [Far.vim](https://github.com/brooth/far.vim) (0.9k)
 - [Ferret](https://github.com/wincent/ferret) (0.7k)
