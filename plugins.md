@@ -23,6 +23,11 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.3k)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.1k)
+- [Deoplete.nvim](https://github.com/Shougo/deoplete.nvim) (5.9k)
+- [Jedi-Vim](https://github.com/davidhalter/jedi-vim) (5.3k)
+- [Null-Ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) (3.6k)
+- [Vim-Lsp](https://github.com/prabirshrestha/vim-lsp) (3.3k)
+- [Supertab](https://github.com/ervandew/supertab) (3.2k)
 
 <img src="graphs/Completion.png" context="Completion" width="320"/>
 
@@ -40,18 +45,19 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Nerdtree](https://github.com/preservim/nerdtree) (20.0k)
 - [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.3k)
 - [Nerdtree-Git-Plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) (2.1k)
-- [Vim-Eunuch](https://github.com/tpope/vim-eunuch) (1.9k)
-- [Vim-Fern](https://github.com/lambdalisue/vim-fern) (1.3k)
 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy-Finder (18.8)
+### Fuzzy-Finder (18.9)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.1k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.3k)
-- [Skim](https://github.com/skim-rs/skim) (6.2k)
-- [Vim-Clap](https://github.com/liuchengxu/vim-clap) (2.2k) [My favorite on Windows]
+- [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
+- [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
+- [Command-T](https://github.com/wincent/command-t) (2.8k)
+- [LeaderF](https://github.com/Yggdroot/LeaderF) (2.2k)
+- [Vim-Clap](https://github.com/liuchengxu/vim-clap) (2.1k) [My favorite on Windows]
 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy-Finder" width="320"/>
 
@@ -65,10 +71,11 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
 
 
-### AI (17.0)
+### AI (17.1)
 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.2k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
+- [Llama.vim](https://github.com/ggml-org/llama.vim) (1.8k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
 
@@ -88,6 +95,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Everforest](https://github.com/sainnhe/everforest) (3.8k)
 - [Molokai](https://github.com/tomasr/molokai) (3.6k)
 - [Papercolor-Theme](https://github.com/NLKNguyen/papercolor-theme) (2.8k)
+- [Nordtheme](https://github.com/nordtheme/vim) (2.6k)
 
 <img src="graphs/Colorschemes.png" context="Colorschemes" width="320"/>
 
@@ -96,6 +104,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Surround](https://github.com/tpope/vim-surround) (14.0k)
 - [Auto-Pairs](https://github.com/jiangmiao/auto-pairs) (4.2k)
+- [DelimitMate](https://github.com/Raimondi/delimitMate) (2.0k)
+- [Rainbow](https://github.com/luochen1990/rainbow) (1.8k)
+- [Vim-Sandwich](https://github.com/machakann/vim-sandwich) (1.5k)
 
 <img src="graphs/Parenthesis.png" context="Parenthesis" width="320"/>
 
@@ -108,10 +119,11 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Linting.png" context="Linting" width="320"/>
 
 
-
 ### Note-Taking (9.3)
 
 - [Vimwiki](https://github.com/vimwiki/vimwiki) (9.3k)
+- [Vim-Orgmode](https://github.com/jceb/vim-orgmode) (3.2k)
+- [Vim-Notes](https://github.com/xolox/vim-notes) (1.6k)
 
 <img src="graphs/Note-Taking.png" context="Note-Taking" width="320"/>
 
@@ -124,12 +136,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Marks.png" context="Marks" width="320"/>
 
 
-### Motion (8.5)
+### Motion (8.6)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
 - [Quick-Scope](https://github.com/unblevable/quick-scope) (1.6k)
 - [Clever-F.vim](https://github.com/rhysd/clever-f.vim) (1.1k)
+- [Vim-Wordmotion](https://github.com/chaoren/vim-wordmotion) (0.9k)
 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
 
@@ -145,6 +158,11 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Ultisnips](https://github.com/SirVer/ultisnips) (7.7k)
 - [Emmet-Vim](https://github.com/mattn/emmet-vim) (6.5k)
+- [Vim-Snippets](https://github.com/honza/vim-snippets) (4.9k)
+- [Vim-Snipmate](https://github.com/garbas/vim-snipmate) (2.0k)
+- [Snipmate.vim](https://github.com/msanders/snipmate.vim) (2.0k)
+- [Neosnippet.vim](https://github.com/Shougo/neosnippet.vim) (1.1k)
+- [Coc-Snippets](https://github.com/neoclide/coc-snippets) (1.0k)
 
 <img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
@@ -180,6 +198,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Tagbar](https://github.com/preservim/tagbar) (6.2k)
 - [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags) (2.3k)
+- [Vista.vim](https://github.com/liuchengxu/vista.vim) (1.9k)
+- [Vim-Easytags](https://github.com/xolox/vim-easytags) (1.0k)
+- [Taglist.vim](https://github.com/vim-scripts/taglist.vim) (0.7k)
 
 <img src="graphs/Tag-List.png" context="Tag-List" width="320"/>
 
@@ -188,6 +209,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Commentary](https://github.com/tpope/vim-commentary) (6.1k)
 - [Nerdcommenter](https://github.com/preservim/nerdcommenter) (5.0k)
+- [Tcomment_vim](https://github.com/tomtom/tcomment_vim) (1.4k)
 
 <img src="graphs/Comment.png" context="Comment" width="320"/>
 
@@ -208,6 +230,11 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Python-Mode](https://github.com/python-mode/python-mode) (5.5k)
 - [Vim-Flake8](https://github.com/nvie/vim-flake8) (1.1k)
+- [Semshi](https://github.com/numirias/semshi) (1.0k)
+- [Vim-Python-Pep8-Indent](https://github.com/Vimjas/vim-python-pep8-indent) (0.8k)
+- [SimpylFold](https://github.com/tmhedberg/SimpylFold) (0.7k)
+- [Vim-Virtualenv](https://github.com/jmcantrell/vim-virtualenv) (0.6k)
+- [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) (0.6k)
 
 <img src="graphs/Python.png" context="Python" width="320"/>
 
@@ -222,6 +249,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Terminal-Integration (5.3)
 
 - [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.6k)
+- [Vimux](https://github.com/preservim/vimux) (2.3k)
+- [Vim-Slime](https://github.com/jpalardy/vim-slime) (2.0k)
 - [Neoterm](https://github.com/kassio/neoterm) (1.3k)
 
 <img src="graphs/Terminal-Integration.png" context="Terminal-Integration" width="320"/>
@@ -241,6 +270,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat) (2.3k)
 - [Vim-Prettier](https://github.com/prettier/vim-prettier) (1.8k)
+- [Vim-Codefmt](https://github.com/google/vim-codefmt) (1.1k)
+- [Coc-Prettier](https://github.com/neoclide/coc-prettier) (0.5k)
 
 <img src="graphs/Formatting.png" context="Formatting" width="320"/>
 
@@ -248,6 +279,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Zen (4.6)
 
 - [Goyo.vim](https://github.com/junegunn/goyo.vim) (4.6k)
+- [Limelight.vim](https://github.com/junegunn/limelight.vim) (2.4k)
+- [True-Zen.nvim](https://github.com/Pocco81/true-zen.nvim) (1.0k)
 
 <img src="graphs/Zen.png" context="Zen" width="320"/>
 
@@ -256,6 +289,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Undotree](https://github.com/mbbill/undotree) (4.5k)
 - [Gundo.vim](https://github.com/sjl/gundo.vim) (1.5k)
+- [Vim-Mundo](https://github.com/simnalamburt/vim-mundo) (0.8k)
 
 <img src="graphs/Undo-Tree.png" context="Undo-Tree" width="320"/>
 
@@ -270,6 +304,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Databases (4.3)
 
 - [Vim-Dadbod](https://github.com/tpope/vim-dadbod) (4.3k)
+- [Vim-Dadbod-Ui](https://github.com/kristijanhusak/vim-dadbod-ui) (1.9k)
+- [Vim-Dadbod-Completion](https://github.com/kristijanhusak/vim-dadbod-completion) (0.8k)
 
 <img src="graphs/Databases.png" context="Databases" width="320"/>
 
@@ -278,6 +314,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Easy-Align](https://github.com/junegunn/vim-easy-align) (4.2k)
 - [Tabular](https://github.com/godlygeek/tabular) (2.6k)
+- [Vim-Lion](https://github.com/tommcdo/vim-lion) (0.5k)
 
 <img src="graphs/Align.png" context="Align" width="320"/>
 
@@ -285,6 +322,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Rust (4.1)
 
 - [Rust.vim](https://github.com/rust-lang/rust.vim) (4.1k)
+- [Rust-Tools.nvim](https://github.com/simrat39/rust-tools.nvim) (2.1k)
+- [Coc-Rust-Analyzer](https://github.com/fannheyward/coc-rust-analyzer) (1.1k)
 
 <img src="graphs/Rust.png" context="Rust" width="320"/>
 
@@ -300,6 +339,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Test](https://github.com/vim-test/vim-test) (3.1k)
 - [Vader.vim](https://github.com/junegunn/vader.vim) (0.6k)
+- [Vim-Ultest](https://github.com/rcarriga/vim-ultest) (0.4k)
 
 <img src="graphs/Test.png" context="Test" width="320"/>
 
@@ -309,6 +349,10 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Ack.vim](https://github.com/mileszs/ack.vim) (3.1k)
 - [Ag.vim](https://github.com/rking/ag.vim) (1.7k)
 - [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) (1.6k)
+- [Vim-Grepper](https://github.com/mhinz/vim-grepper) (1.2k)
+- [Far.vim](https://github.com/brooth/far.vim) (0.9k)
+- [Ferret](https://github.com/wincent/ferret) (0.7k)
+- [Vim-Ripgrep](https://github.com/jremmen/vim-ripgrep) (0.6k)
 
 <img src="graphs/Search-in-Files.png" context="Search-in-Files" width="320"/>
 
@@ -328,12 +372,23 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/REPL.png" context="REPL" width="320"/>
 
 
-### Folding (2.8)
+### Folding (2.9)
 
 - [FastFold](https://github.com/Konfekt/FastFold) (0.7k)
 - [Vim-Anyfold](https://github.com/pseewald/vim-anyfold) (0.3k)
 
 <img src="graphs/Folding.png" context="Folding" width="320"/>
+
+
+### Asynchronous-Execution (2.7)
+
+- [Vim-Dispatch](https://github.com/tpope/vim-dispatch) (2.7k)
+- [Neomake](https://github.com/neomake/neomake) (2.7k)
+- [Asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) (1.9k)
+- [Vimproc.vim](https://github.com/Shougo/vimproc.vim) (1.1k)
+- [Asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) (0.9k)
+
+<img src="graphs/Asynchronous-Execution.png" context="Asynchronous-Execution" width="320"/>
 
 
 ### Indicators (2.7)
@@ -343,20 +398,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Indicators.png" context="Indicators" width="320"/>
 
 
-### Asynchronous-Execution (2.7)
-
-- [Vim-Dispatch](https://github.com/tpope/vim-dispatch) (2.7k)
-- [Neomake](https://github.com/neomake/neomake) (2.7k)
-- [Asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) (1.9k)
-
-<img src="graphs/Asynchronous-Execution.png" context="Asynchronous-Execution" width="320"/>
-
-
 ### Text-Objects (2.6)
 
 - [Targets.vim](https://github.com/wellle/targets.vim) (2.6k)
 - [Vim-Textobj-User](https://github.com/kana/vim-textobj-user) (1.5k)
 - [Vim-Indent-Object](https://github.com/michaeljsmith/vim-indent-object) (0.8k)
+- [Wildfire.vim](https://github.com/gcmt/wildfire.vim) (0.6k)
+- [Braceless.vim](https://github.com/tweekmonster/braceless.vim) (0.4k)
 
 <img src="graphs/Text-Objects.png" context="Text-Objects" width="320"/>
 
@@ -364,6 +412,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Colorizer (2.6)
 
 - [Vim-Css-Color](https://github.com/ap/vim-css-color) (1.8k)
+- [Vim-Hexokinase](https://github.com/RRethy/vim-hexokinase) (1.0k)
+- [Colorizer](https://github.com/chrisbra/Colorizer) (0.6k)
+- [Colorizer](https://github.com/lilydjwg/colorizer) (0.4k)
 
 <img src="graphs/Colorizer.png" context="Colorizer" width="320"/>
 
@@ -464,4 +515,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/01/02 16:38:29
+Last update: 2026/01/09 11:02:12
