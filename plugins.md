@@ -200,7 +200,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Tagbar](https://github.com/preservim/tagbar) (6.2k)
 - [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags) (2.3k)
-- [Vista.vim](https://github.com/liuchengxu/vista.vim) (1.9k) [My Favorite]
+- [Vista.vim](https://github.com/liuchengxu/vista.vim) (1.9k)
+  [My Favorite]
 - [Vim-Easytags](https://github.com/xolox/vim-easytags) (1.0k)
 - [Taglist.vim](https://github.com/vim-scripts/taglist.vim) (0.7k)
 
@@ -234,7 +235,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Flake8](https://github.com/nvie/vim-flake8) (1.1k)
 - [Semshi](https://github.com/numirias/semshi) (1.0k)
 - [Vim-Python-Pep8-Indent](https://github.com/Vimjas/vim-python-pep8-indent) (0.8k)
-- [SimpylFold](https://github.com/tmhedberg/SimpylFold) (0.7k) [My Favorite]
+- [SimpylFold](https://github.com/tmhedberg/SimpylFold) (0.7k)
+  [My Favorite]
 - [Vim-Virtualenv](https://github.com/jmcantrell/vim-virtualenv) (0.6k)
 - [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) (0.6k)
 
@@ -350,7 +352,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Ack.vim](https://github.com/mileszs/ack.vim) (3.1k)
 - [Ag.vim](https://github.com/rking/ag.vim) (1.7k)
-- [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) (1.6k) [My Favorite]
+- [Ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) (1.6k)
+  [My Favorite]
 - [Vim-Grepper](https://github.com/mhinz/vim-grepper) (1.2k)
 - [Far.vim](https://github.com/brooth/far.vim) (0.9k)
 - [Ferret](https://github.com/wincent/ferret) (0.7k)
@@ -369,7 +372,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### REPL (3.1)
 
 - [Codi.vim](https://github.com/metakirby5/codi.vim) (3.1k)
-- [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) [My favorite]
+- [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim)
+  [My favorite]
 
 <img src="graphs/REPL.png" context="REPL" width="320"/>
 
