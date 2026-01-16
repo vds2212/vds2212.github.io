@@ -26,9 +26,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
   [My Favorite]
 - [Deoplete.nvim](https://github.com/Shougo/deoplete.nvim) (5.9k)
 - [Jedi-Vim](https://github.com/davidhalter/jedi-vim) (5.3k)
-- [Null-Ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) (3.6k)
 - [Vim-Lsp](https://github.com/prabirshrestha/vim-lsp) (3.3k)
 - [Supertab](https://github.com/ervandew/supertab) (3.2k)
+- [Neocomplete.vim](https://github.com/Shougo/neocomplete.vim) (2.7k)
 
 <img src="graphs/Completion.png" context="Completion" width="320"/>
 
@@ -174,6 +174,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Markdown](https://github.com/preservim/vim-markdown) (4.8k)
 - [Vim-Instant-Markdown](https://github.com/instant-markdown/vim-instant-markdown) (2.8k)
 - [Vim-Table-Mode](https://github.com/dhruvasagar/vim-table-mode) (2.2k)
+- [Markdown-Toc](https://github.com/jonschlinkert/markdown-toc) (1.7k)
 - [Vim-Pencil](https://github.com/preservim/vim-pencil) (1.7k)
 - [Glow.nvim](https://github.com/ellisonleao/glow.nvim) (1.3k)
 - [Vim-Markdown](https://github.com/tpope/vim-markdown) (1.2k)
@@ -189,7 +190,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Debugging.png" context="Debugging" width="320"/>
 
 
-### Keybinding (6.8)
+### Keybinding (6.9)
 
 - [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key) (2.0k)
 
@@ -260,16 +261,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Terminal-Integration.png" context="Terminal-Integration" width="320"/>
 
 
-### Indent (4.8)
-
-- [IndentLine](https://github.com/Yggdroot/indentLine) (4.1k)
-- [Editorconfig-Vim](https://github.com/editorconfig/editorconfig-vim) (3.2k)
-- [Vim-Indent-Guides](https://github.com/preservim/vim-indent-guides) (2.7k)
-- [Vim-Sleuth](https://github.com/tpope/vim-sleuth) (2.1k)
-
-<img src="graphs/Indent.png" context="Indent" width="320"/>
-
-
 ### Formatting (4.8)
 
 - [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat) (2.3k)
@@ -278,6 +269,16 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Coc-Prettier](https://github.com/neoclide/coc-prettier) (0.5k)
 
 <img src="graphs/Formatting.png" context="Formatting" width="320"/>
+
+
+### Indent (4.8)
+
+- [IndentLine](https://github.com/Yggdroot/indentLine) (4.1k)
+- [Editorconfig-Vim](https://github.com/editorconfig/editorconfig-vim) (3.2k)
+- [Vim-Indent-Guides](https://github.com/preservim/vim-indent-guides) (2.7k)
+- [Vim-Sleuth](https://github.com/tpope/vim-sleuth) (2.1k)
+
+<img src="graphs/Indent.png" context="Indent" width="320"/>
 
 
 ### Zen (4.6)
@@ -386,6 +387,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Folding.png" context="Folding" width="320"/>
 
 
+### Indicators (2.7)
+
+- [Vim-Signify](https://github.com/mhinz/vim-signify) (2.7k)
+
+<img src="graphs/Indicators.png" context="Indicators" width="320"/>
+
+
 ### Asynchronous-Execution (2.7)
 
 - [Vim-Dispatch](https://github.com/tpope/vim-dispatch) (2.7k)
@@ -395,13 +403,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) (0.9k)
 
 <img src="graphs/Asynchronous-Execution.png" context="Asynchronous-Execution" width="320"/>
-
-
-### Indicators (2.7)
-
-- [Vim-Signify](https://github.com/mhinz/vim-signify) (2.7k)
-
-<img src="graphs/Indicators.png" context="Indicators" width="320"/>
 
 
 ### Text-Objects (2.6)
