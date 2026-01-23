@@ -41,9 +41,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Git.png" context="Git" width="320"/>
 
 
-### File-Explorer (20.0)
+### File-Explorer (20.1)
 
-- [Nerdtree](https://github.com/preservim/nerdtree) (20.0k)
+- [Nerdtree](https://github.com/preservim/nerdtree) (20.1k)
 - [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.3k)
 - [Nerdtree-Git-Plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) (2.1k)
 
@@ -53,7 +53,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Fuzzy-Finder (18.9)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.1k)
-- [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.3k)
+- [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
 - [Command-T](https://github.com/wincent/command-t) (2.8k)
@@ -73,9 +73,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
 
 
-### AI (17.1)
+### AI (17.2)
 
-- [Copilot.vim](https://github.com/github/copilot.vim) (11.2k)
+- [Copilot.vim](https://github.com/github/copilot.vim) (11.3k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
 - [Llama.vim](https://github.com/ggml-org/llama.vim) (1.8k)
 
@@ -261,7 +261,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Terminal-Integration.png" context="Terminal-Integration" width="320"/>
 
 
-### Formatting (4.8)
+### Formatting (4.9)
 
 - [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat) (2.3k)
 - [Vim-Prettier](https://github.com/prettier/vim-prettier) (1.8k)
@@ -349,6 +349,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Test.png" context="Test" width="320"/>
 
 
+### Context (3.1)
+
+- [Context.vim](https://github.com/wellle/context.vim) (1.4k)
+
+<img src="graphs/Context.png" context="Context" width="320"/>
+
+
 ### Search-in-Files (3.1)
 
 - [Ack.vim](https://github.com/mileszs/ack.vim) (3.1k)
@@ -361,13 +368,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Ripgrep](https://github.com/jremmen/vim-ripgrep) (0.6k)
 
 <img src="graphs/Search-in-Files.png" context="Search-in-Files" width="320"/>
-
-
-### Context (3.1)
-
-- [Context.vim](https://github.com/wellle/context.vim) (1.4k)
-
-<img src="graphs/Context.png" context="Context" width="320"/>
 
 
 ### REPL (3.1)
@@ -387,13 +387,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Folding.png" context="Folding" width="320"/>
 
 
-### Indicators (2.7)
-
-- [Vim-Signify](https://github.com/mhinz/vim-signify) (2.7k)
-
-<img src="graphs/Indicators.png" context="Indicators" width="320"/>
-
-
 ### Asynchronous-Execution (2.7)
 
 - [Vim-Dispatch](https://github.com/tpope/vim-dispatch) (2.7k)
@@ -403,6 +396,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) (0.9k)
 
 <img src="graphs/Asynchronous-Execution.png" context="Asynchronous-Execution" width="320"/>
+
+
+### Indicators (2.7)
+
+- [Vim-Signify](https://github.com/mhinz/vim-signify) (2.7k)
+
+<img src="graphs/Indicators.png" context="Indicators" width="320"/>
 
 
 ### Text-Objects (2.6)
@@ -522,4 +522,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/01/09 11:02:12
+Last update: 2026/01/23 07:56:53
