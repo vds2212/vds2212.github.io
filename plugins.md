@@ -19,14 +19,14 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Plugin-Manager.png" context="Plugin-Manager" width="320"/>
 
 
-### Completion (26.3)
+### Completion (26.4)
 
-- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.3k)
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.4k)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.1k)
   [My Favorite]
 - [Deoplete.nvim](https://github.com/Shougo/deoplete.nvim) (5.9k)
 - [Jedi-Vim](https://github.com/davidhalter/jedi-vim) (5.3k)
-- [Vim-Lsp](https://github.com/prabirshrestha/vim-lsp) (3.3k)
+- [Vim-Lsp](https://github.com/prabirshrestha/vim-lsp) (3.4k)
 - [Supertab](https://github.com/ervandew/supertab) (3.2k)
 - [Neocomplete.vim](https://github.com/Shougo/neocomplete.vim) (2.7k)
 
@@ -50,10 +50,10 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy-Finder (18.9)
+### Fuzzy-Finder (19.0)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.1k)
-- [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
+- [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.3k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
 - [Command-T](https://github.com/wincent/command-t) (2.8k)
@@ -73,7 +73,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
 
 
-### AI (17.2)
+### AI (17.3)
 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.3k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
@@ -130,7 +130,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Note-Taking.png" context="Note-Taking" width="320"/>
 
 
-### Marks (8.8)
+### Marks (8.9)
 
 - [Vim-Signature](https://github.com/kshenoy/vim-signature) (1.4k)
 - [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks) (1.1k)
@@ -138,7 +138,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Marks.png" context="Marks" width="320"/>
 
 
-### Motion (8.6)
+### Motion (8.7)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
@@ -169,7 +169,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
 
-### Markdown (7.6)
+### Markdown (7.7)
 
 - [Vim-Markdown](https://github.com/preservim/vim-markdown) (4.8k)
 - [Vim-Instant-Markdown](https://github.com/instant-markdown/vim-instant-markdown) (2.8k)
@@ -209,15 +209,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Tag-List.png" context="Tag-List" width="320"/>
 
 
-### Comment (6.1)
-
-- [Vim-Commentary](https://github.com/tpope/vim-commentary) (6.1k)
-- [Nerdcommenter](https://github.com/preservim/nerdcommenter) (5.0k)
-- [Tcomment_vim](https://github.com/tomtom/tcomment_vim) (1.4k)
-
-<img src="graphs/Comment.png" context="Comment" width="320"/>
-
-
 ### TeX (6.1)
 
 - [Vimtex](https://github.com/lervag/vimtex) (6.1k)
@@ -225,9 +216,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/TeX.png" context="TeX" width="320"/>
 
 
-### Language Support (5.7)
+### Comment (6.1)
 
-- [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
+- [Vim-Commentary](https://github.com/tpope/vim-commentary) (6.1k)
+- [Nerdcommenter](https://github.com/preservim/nerdcommenter) (5.0k)
+- [Tcomment_vim](https://github.com/tomtom/tcomment_vim) (1.4k)
+
+<img src="graphs/Comment.png" context="Comment" width="320"/>
 
 
 ### Python (5.5)
@@ -242,6 +237,11 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) (0.6k)
 
 <img src="graphs/Python.png" context="Python" width="320"/>
+
+
+### Language Support (5.7)
+
+- [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
 
 ### Startup (5.4)
@@ -522,4 +522,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/01/23 07:56:53
+Last update: 2026/01/30 07:26:38
