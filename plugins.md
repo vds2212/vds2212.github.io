@@ -19,9 +19,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Plugin-Manager.png" context="Plugin-Manager" width="320"/>
 
 
-### Completion (26.4)
+### Completion (26.3)
 
-- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.4k)
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.3k)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.1k)
   [My Favorite]
 - [Deoplete.nvim](https://github.com/Shougo/deoplete.nvim) (5.9k)
@@ -53,7 +53,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Fuzzy-Finder (19.0)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.1k)
-- [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.3k)
+- [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
 - [Command-T](https://github.com/wincent/command-t) (2.8k)
@@ -77,7 +77,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.3k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
-- [Llama.vim](https://github.com/ggml-org/llama.vim) (1.8k)
+- [Llama.vim](https://github.com/ggml-org/llama.vim) (1.9k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
 
@@ -89,9 +89,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Go.png" context="Go" width="320"/>
 
 
-### Colorschemes (15.1)
+### Colorschemes (15.2)
 
-- [Gruvbox](https://github.com/morhetz/gruvbox) (15.1k)
+- [Gruvbox](https://github.com/morhetz/gruvbox) (15.2k)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized) (6.6k)
 - [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
 - [Everforest](https://github.com/sainnhe/everforest) (3.8k)
@@ -113,9 +113,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Parenthesis.png" context="Parenthesis" width="320"/>
 
 
-### Linting (13.9)
+### Linting (14.0)
 
-- [Ale](https://github.com/dense-analysis/ale) (13.9k)
+- [Ale](https://github.com/dense-analysis/ale) (14.0k)
 - [Syntastic](https://github.com/vim-syntastic/syntastic) (11.2k)
 
 <img src="graphs/Linting.png" context="Linting" width="320"/>
@@ -151,7 +151,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Multiple-Cursors (8.0)
 
-- [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi) (4.7k)
+- [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi) (4.8k)
 
 <img src="graphs/Multiple-Cursors.png" context="Multiple-Cursors" width="320"/>
 
@@ -209,9 +209,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Tag-List.png" context="Tag-List" width="320"/>
 
 
-### TeX (6.1)
+### TeX (6.2)
 
-- [Vimtex](https://github.com/lervag/vimtex) (6.1k)
+- [Vimtex](https://github.com/lervag/vimtex) (6.2k)
 
 <img src="graphs/TeX.png" context="TeX" width="320"/>
 
@@ -318,7 +318,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Align (4.2)
 
 - [Vim-Easy-Align](https://github.com/junegunn/vim-easy-align) (4.2k)
-- [Tabular](https://github.com/godlygeek/tabular) (2.6k)
+- [Tabular](https://github.com/godlygeek/tabular) (2.7k)
 - [Vim-Lion](https://github.com/tommcdo/vim-lion) (0.5k)
 
 <img src="graphs/Align.png" context="Align" width="320"/>
@@ -522,4 +522,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/01/30 07:26:38
+Last update: 2026/02/06 07:11:24
