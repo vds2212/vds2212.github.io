@@ -122,9 +122,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Linting.png" context="Linting" width="320"/>
 
 
-### Note-Taking (9.3)
+### Note-Taking (9.4)
 
-- [Vimwiki](https://github.com/vimwiki/vimwiki) (9.3k)
+- [Vimwiki](https://github.com/vimwiki/vimwiki) (9.4k)
 - [Vim-Orgmode](https://github.com/jceb/vim-orgmode) (3.2k)
 - [Vim-Notes](https://github.com/xolox/vim-notes) (1.6k)
 
@@ -191,7 +191,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Debugging.png" context="Debugging" width="320"/>
 
 
-### Keybinding (6.9)
+### Keybinding (7.0)
 
 - [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key) (2.0k)
 
@@ -245,13 +245,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
 
-### Startup (5.4)
-
-- [Vim-Startify](https://github.com/mhinz/vim-startify) (5.4k)
-
-<img src="graphs/Startup.png" context="Startup" width="320"/>
-
-
 ### Terminal-Integration (5.4)
 
 - [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.6k)
@@ -260,6 +253,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Neoterm](https://github.com/kassio/neoterm) (1.3k)
 
 <img src="graphs/Terminal-Integration.png" context="Terminal-Integration" width="320"/>
+
+
+### Startup (5.4)
+
+- [Vim-Startify](https://github.com/mhinz/vim-startify) (5.4k)
+
+<img src="graphs/Startup.png" context="Startup" width="320"/>
 
 
 ### Formatting (4.9)
@@ -319,7 +319,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Align (4.2)
 
 - [Vim-Easy-Align](https://github.com/junegunn/vim-easy-align) (4.2k)
-- [Tabular](https://github.com/godlygeek/tabular) (2.6k)
+- [Tabular](https://github.com/godlygeek/tabular) (2.7k)
 - [Vim-Lion](https://github.com/tommcdo/vim-lion) (0.5k)
 
 <img src="graphs/Align.png" context="Align" width="320"/>
@@ -329,7 +329,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Rust.vim](https://github.com/rust-lang/rust.vim) (4.1k)
 - [Rust-Tools.nvim](https://github.com/simrat39/rust-tools.nvim) (2.1k)
-- [Coc-Rust-Analyzer](https://github.com/fannheyward/coc-rust-analyzer) (1.1k)
+- [Coc-Rust-Analyzer](https://github.com/fannheyward/coc-rust-analyzer) (1.2k)
 
 <img src="graphs/Rust.png" context="Rust" width="320"/>
 
@@ -523,4 +523,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/02/20 08:34:51
+Last update: 2026/02/27 06:47:23
