@@ -50,9 +50,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy-Finder (19.1)
+### Fuzzy-Finder (19.2)
 
-- [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.1k)
+- [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
@@ -73,11 +73,11 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
 
 
-### AI (17.4)
+### AI (17.5)
 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.4k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
-- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.3k)
+- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.4k)
 - [Llama.vim](https://github.com/ggml-org/llama.vim) (1.9k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
@@ -165,7 +165,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Pencil](https://github.com/preservim/vim-pencil) (1.9k)
 - [Markdown-Toc](https://github.com/jonschlinkert/markdown-toc) (1.7k)
 - [Glow.nvim](https://github.com/ellisonleao/glow.nvim) (1.3k)
-- [Vim-Markdown](https://github.com/tpope/vim-markdown) (1.2k)
+- [Vim-Markdown](https://github.com/tpope/vim-markdown) (1.3k)
 - [Vim-Grammarous](https://github.com/rhysd/vim-grammarous) (1.1k)
 
 <img src="graphs/Markdown.png" context="Markdown" width="320"/>
@@ -184,18 +184,18 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
 
-### Debugging (7.0)
-
-- [Vimspector](https://github.com/puremourning/vimspector) (4.3k)
-
-<img src="graphs/Debugging.png" context="Debugging" width="320"/>
-
-
 ### Keybinding (7.0)
 
 - [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key) (2.0k)
 
 <img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
+
+
+### Debugging (7.0)
+
+- [Vimspector](https://github.com/puremourning/vimspector) (4.3k)
+
+<img src="graphs/Debugging.png" context="Debugging" width="320"/>
 
 
 ### Tag-List (6.2)
@@ -262,7 +262,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Startup.png" context="Startup" width="320"/>
 
 
-### Formatting (4.9)
+### Formatting (5.0)
 
 - [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat) (2.3k)
 - [Vim-Prettier](https://github.com/prettier/vim-prettier) (1.8k)
@@ -417,7 +417,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Text-Objects.png" context="Text-Objects" width="320"/>
 
 
-### Colorizer (2.6)
+### Colorizer (2.7)
 
 - [Vim-Css-Color](https://github.com/ap/vim-css-color) (1.8k)
 - [Vim-Hexokinase](https://github.com/RRethy/vim-hexokinase) (1.0k)
@@ -523,4 +523,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/02/27 06:47:23
+Last update: 2026/03/11 10:25:36
