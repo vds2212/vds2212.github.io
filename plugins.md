@@ -54,7 +54,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
-- [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
+- [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.7k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
 - [Command-T](https://github.com/wincent/command-t) (2.8k)
 - [LeaderF](https://github.com/Yggdroot/LeaderF) (2.2k)
@@ -64,21 +64,21 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy-Finder" width="320"/>
 
 
-### Status-Line (18.0)
+### Status-Line (17.9)
 
-- [Vim-Airline](https://github.com/vim-airline/vim-airline) (18.0k)
+- [Vim-Airline](https://github.com/vim-airline/vim-airline) (17.9k)
 - [Powerline](https://github.com/powerline/powerline) (14.7k)
 - [Lightline.vim](https://github.com/itchyny/lightline.vim) (6.9k)
 
 <img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
 
 
-### AI (17.6)
+### AI (17.7)
 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.5k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
 - [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.4k)
-- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.3k)
+- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.4k)
 - [Llama.vim](https://github.com/ggml-org/llama.vim) (1.9k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
@@ -91,9 +91,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Go.png" context="Go" width="320"/>
 
 
-### Colorschemes (15.3)
+### Colorschemes (15.4)
 
-- [Gruvbox](https://github.com/morhetz/gruvbox) (15.3k)
+- [Gruvbox](https://github.com/morhetz/gruvbox) (15.4k)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized) (6.6k)
 - [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
 - [Everforest](https://github.com/sainnhe/everforest) (3.9k)
@@ -104,9 +104,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Colorschemes.png" context="Colorschemes" width="320"/>
 
 
-### Parenthesis (14.0)
+### Parenthesis (14.1)
 
-- [Vim-Surround](https://github.com/tpope/vim-surround) (14.0k)
+- [Vim-Surround](https://github.com/tpope/vim-surround) (14.1k)
 - [Auto-Pairs](https://github.com/jiangmiao/auto-pairs) (4.2k)
 - [DelimitMate](https://github.com/Raimondi/delimitMate) (2.0k)
 - [Rainbow](https://github.com/luochen1990/rainbow) (1.8k)
@@ -132,7 +132,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Note-Taking.png" context="Note-Taking" width="320"/>
 
 
-### Marks (8.9)
+### Marks (9.0)
 
 - [Vim-Signature](https://github.com/kshenoy/vim-signature) (1.4k)
 - [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks) (1.1k)
@@ -186,19 +186,19 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
 
-### Keybinding (7.0)
-
-- [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key) (2.0k)
-
-<img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
-
-
 ### Debugging (7.0)
 
 - [Vimspector](https://github.com/puremourning/vimspector) (4.3k)
 - [Vdebug](https://github.com/vim-vdebug/vdebug) (1.3k)
 
 <img src="graphs/Debugging.png" context="Debugging" width="320"/>
+
+
+### Keybinding (7.0)
+
+- [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key) (2.0k)
+
+<img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
 
 
 ### Tag-List (6.2)
@@ -535,4 +535,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/03/20 06:30:15
+Last update: 2026/03/27 09:11:17
