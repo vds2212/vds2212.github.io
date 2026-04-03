@@ -19,9 +19,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Plugin-Manager.png" context="Plugin-Manager" width="320"/>
 
 
-### Completion (26.3)
+### Completion (26.2)
 
-- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.3k)
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.2k)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.1k)
   [My favorite]
 - [Deoplete.nvim](https://github.com/Shougo/deoplete.nvim) (5.9k)
@@ -64,9 +64,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy-Finder" width="320"/>
 
 
-### Status-Line (17.9)
+### Status-Line (18.0)
 
-- [Vim-Airline](https://github.com/vim-airline/vim-airline) (17.9k)
+- [Vim-Airline](https://github.com/vim-airline/vim-airline) (18.0k)
 - [Powerline](https://github.com/powerline/powerline) (14.7k)
 - [Lightline.vim](https://github.com/itchyny/lightline.vim) (6.9k)
 
@@ -77,8 +77,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.5k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
-- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.4k)
-- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.4k)
+- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.5k)
+- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.5k)
 - [Llama.vim](https://github.com/ggml-org/llama.vim) (1.9k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
@@ -167,7 +167,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Pencil](https://github.com/preservim/vim-pencil) (1.9k)
 - [Markdown-Toc](https://github.com/jonschlinkert/markdown-toc) (1.7k)
 - [Glow.nvim](https://github.com/ellisonleao/glow.nvim) (1.3k)
-- [Vim-Markdown](https://github.com/tpope/vim-markdown) (1.2k)
+- [Vim-Markdown](https://github.com/tpope/vim-markdown) (1.3k)
 - [Vim-Grammarous](https://github.com/rhysd/vim-grammarous) (1.1k)
 
 <img src="graphs/Markdown.png" context="Markdown" width="320"/>
@@ -336,9 +336,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Ruby.png" context="Ruby" width="320"/>
 
 
-### Rust (4.1)
+### Rust (4.2)
 
-- [Rust.vim](https://github.com/rust-lang/rust.vim) (4.1k)
+- [Rust.vim](https://github.com/rust-lang/rust.vim) (4.2k)
 - [Rust-Tools.nvim](https://github.com/simrat39/rust-tools.nvim) (2.1k)
 - [Coc-Rust-Analyzer](https://github.com/fannheyward/coc-rust-analyzer) (1.2k)
 
@@ -352,7 +352,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Todo.png" context="Todo" width="320"/>
 
 
-### Context (3.1)
+### Context (3.2)
 
 - [Context.vim](https://github.com/wellle/context.vim) (1.4k)
 
@@ -432,9 +432,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Colorizer (2.7)
 
 - [Vim-Css-Color](https://github.com/ap/vim-css-color) (1.8k)
-- [Vim-Hexokinase](https://github.com/RRethy/vim-hexokinase) (1.0k)
 - [Colorizer](https://github.com/chrisbra/Colorizer) (0.6k)
-- [Colorizer](https://github.com/lilydjwg/colorizer) (0.4k)
 
 <img src="graphs/Colorizer.png" context="Colorizer" width="320"/>
 
@@ -535,4 +533,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/03/27 09:11:17
+Last update: 2026/04/03 06:59:24
