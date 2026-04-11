@@ -19,10 +19,10 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Plugin-Manager.png" context="Plugin-Manager" width="320"/>
 
 
-### Completion (26.2)
+### Completion (26.1)
 
-- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.2k)
-- [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.1k)
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.1k)
+- [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.2k)
   [My favorite]
 - [Deoplete.nvim](https://github.com/Shougo/deoplete.nvim) (5.9k)
 - [Jedi-Vim](https://github.com/davidhalter/jedi-vim) (5.3k)
@@ -50,7 +50,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy-Finder (19.2)
+### Fuzzy-Finder (19.3)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
@@ -77,8 +77,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.5k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
-- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.5k)
 - [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.5k)
+- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.5k)
 - [Llama.vim](https://github.com/ggml-org/llama.vim) (1.9k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
@@ -140,7 +140,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Marks.png" context="Marks" width="320"/>
 
 
-### Motion (8.9)
+### Motion (9.0)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
@@ -186,7 +186,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
 
-### Debugging (7.0)
+### Debugging (7.1)
 
 - [Vimspector](https://github.com/puremourning/vimspector) (4.3k)
 - [Vdebug](https://github.com/vim-vdebug/vdebug) (1.3k)
@@ -249,7 +249,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Python.png" context="Python" width="320"/>
 
 
-### Terminal-Integration (5.4)
+### Terminal-Integration (5.5)
 
 - [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.6k)
 - [Vimux](https://github.com/preservim/vimux) (2.3k)
@@ -311,9 +311,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Learning.png" context="Learning" width="320"/>
 
 
-### Databases (4.3)
+### Databases (4.4)
 
-- [Vim-Dadbod](https://github.com/tpope/vim-dadbod) (4.3k)
+- [Vim-Dadbod](https://github.com/tpope/vim-dadbod) (4.4k)
 - [Vim-Dadbod-Ui](https://github.com/kristijanhusak/vim-dadbod-ui) (2.0k)
 - [Vim-Dadbod-Completion](https://github.com/kristijanhusak/vim-dadbod-completion) (0.8k)
 
@@ -533,4 +533,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/04/03 06:59:24
+Last update: 2026/04/10 07:48:22
