@@ -19,9 +19,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Plugin-Manager.png" context="Plugin-Manager" width="320"/>
 
 
-### Completion (26.1)
+### Completion (26.0)
 
-- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.1k)
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.0k)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.1k)
   [My favorite]
 - [Deoplete.nvim](https://github.com/Shougo/deoplete.nvim) (5.9k)
@@ -37,6 +37,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive) (21.6k)
 - [Vim-Gitgutter](https://github.com/airblade/vim-gitgutter) (8.5k)
+- [Diffview.nvim](https://github.com/sindrets/diffview.nvim) (5.5k)
 
 <img src="graphs/Git.png" context="Git" width="320"/>
 
@@ -64,9 +65,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy-Finder" width="320"/>
 
 
-### Status-Line (18.0)
+### Status-Line (17.9)
 
-- [Vim-Airline](https://github.com/vim-airline/vim-airline) (18.0k)
+- [Vim-Airline](https://github.com/vim-airline/vim-airline) (17.9k)
 - [Powerline](https://github.com/powerline/powerline) (14.7k)
 - [Lightline.vim](https://github.com/itchyny/lightline.vim) (6.9k)
 
@@ -75,10 +76,10 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### AI (17.8)
 
-- [Copilot.vim](https://github.com/github/copilot.vim) (11.5k)
+- [Copilot.vim](https://github.com/github/copilot.vim) (11.6k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
-- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.5k)
-- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.5k)
+- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.6k)
+- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.6k)
 - [Llama.vim](https://github.com/ggml-org/llama.vim) (2.0k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
@@ -132,15 +133,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Note-Taking.png" context="Note-Taking" width="320"/>
 
 
-### Marks (9.0)
-
-- [Vim-Signature](https://github.com/kshenoy/vim-signature) (1.4k)
-- [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks) (1.1k)
-
-<img src="graphs/Marks.png" context="Marks" width="320"/>
-
-
-### Motion (9.0)
+### Motion (9.1)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
@@ -150,6 +143,14 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Wordmotion](https://github.com/chaoren/vim-wordmotion) (0.9k)
 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
+
+
+### Marks (9.0)
+
+- [Vim-Signature](https://github.com/kshenoy/vim-signature) (1.4k)
+- [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks) (1.1k)
+
+<img src="graphs/Marks.png" context="Marks" width="320"/>
 
 
 ### Multiple-Cursors (8.0)
@@ -235,6 +236,16 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
 
+### Terminal-Integration (5.5)
+
+- [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.6k)
+- [Vimux](https://github.com/preservim/vimux) (2.3k)
+- [Vim-Slime](https://github.com/jpalardy/vim-slime) (2.1k)
+- [Neoterm](https://github.com/kassio/neoterm) (1.3k)
+
+<img src="graphs/Terminal-Integration.png" context="Terminal-Integration" width="320"/>
+
+
 ### Python (5.5)
 
 - [Python-Mode](https://github.com/python-mode/python-mode) (5.5k)
@@ -247,16 +258,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Jupyter-Vim](https://github.com/jupyter-vim/jupyter-vim) (0.6k)
 
 <img src="graphs/Python.png" context="Python" width="320"/>
-
-
-### Terminal-Integration (5.5)
-
-- [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.6k)
-- [Vimux](https://github.com/preservim/vimux) (2.3k)
-- [Vim-Slime](https://github.com/jpalardy/vim-slime) (2.0k)
-- [Neoterm](https://github.com/kassio/neoterm) (1.3k)
-
-<img src="graphs/Terminal-Integration.png" context="Terminal-Integration" width="320"/>
 
 
 ### Startup (5.4)
@@ -533,4 +534,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/04/17 08:07:51
+Last update: 2026/04/24 09:22:10
