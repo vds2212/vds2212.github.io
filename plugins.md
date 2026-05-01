@@ -51,7 +51,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy-Finder (19.3)
+### Fuzzy-Finder (19.4)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
@@ -92,9 +92,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Go.png" context="Go" width="320"/>
 
 
-### Colorschemes (15.4)
+### Colorschemes (15.5)
 
-- [Gruvbox](https://github.com/morhetz/gruvbox) (15.4k)
+- [Gruvbox](https://github.com/morhetz/gruvbox) (15.5k)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized) (6.6k)
 - [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
 - [Everforest](https://github.com/sainnhe/everforest) (4.0k)
@@ -145,7 +145,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
 
 
-### Marks (9.0)
+### Marks (9.1)
 
 - [Vim-Signature](https://github.com/kshenoy/vim-signature) (1.4k)
 - [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks) (1.1k)
@@ -339,9 +339,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Rust.png" context="Rust" width="320"/>
 
 
-### Ruby (4.2)
+### Ruby (4.1)
 
-- [Vim-Rails](https://github.com/tpope/vim-rails) (4.2k)
+- [Vim-Rails](https://github.com/tpope/vim-rails) (4.1k)
 
 <img src="graphs/Ruby.png" context="Ruby" width="320"/>
 
@@ -396,12 +396,12 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Folding (2.9)
 
 - [FastFold](https://github.com/Konfekt/FastFold) (0.7k)
-- [Vim-Anyfold](https://github.com/pseewald/vim-anyfold) (0.3k)
+- [Vim-Anyfold](https://github.com/pseewald/vim-anyfold)
 
 <img src="graphs/Folding.png" context="Folding" width="320"/>
 
 
-### Text-Objects (2.7)
+### Text-Objects (2.8)
 
 - [Targets.vim](https://github.com/wellle/targets.vim) (2.6k)
 - [Vim-Textobj-User](https://github.com/kana/vim-textobj-user) (1.5k)
@@ -534,4 +534,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/04/24 09:22:10
+Last update: 2026/05/01 10:04:52
