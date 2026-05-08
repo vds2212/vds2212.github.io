@@ -19,9 +19,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Plugin-Manager.png" context="Plugin-Manager" width="320"/>
 
 
-### Completion (26.0)
+### Completion (25.9)
 
-- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (26.0k)
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (25.9k)
 - [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.1k)
   [My favorite]
 - [Deoplete.nvim](https://github.com/Shougo/deoplete.nvim) (5.9k)
@@ -74,11 +74,11 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
 
 
-### AI (17.8)
+### AI (17.9)
 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.6k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
-- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.6k)
+- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.7k)
 - [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.6k)
 - [Llama.vim](https://github.com/ggml-org/llama.vim) (2.0k)
 
@@ -96,8 +96,8 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Gruvbox](https://github.com/morhetz/gruvbox) (15.5k)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized) (6.6k)
-- [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
 - [Everforest](https://github.com/sainnhe/everforest) (4.0k)
+- [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
 - [Molokai](https://github.com/tomasr/molokai) (3.6k)
 - [Papercolor-Theme](https://github.com/NLKNguyen/papercolor-theme) (2.8k)
 - [Nordtheme](https://github.com/nordtheme/vim) (2.6k)
@@ -202,9 +202,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
 
 
-### TeX (6.2)
+### TeX (6.3)
 
-- [Vimtex](https://github.com/lervag/vimtex) (6.2k)
+- [Vimtex](https://github.com/lervag/vimtex) (6.3k)
 - [Vim-Latex-Live-Preview](https://github.com/xuhdev/vim-latex-live-preview) (0.9k)
 
 <img src="graphs/TeX.png" context="TeX" width="320"/>
@@ -222,9 +222,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Tag-List.png" context="Tag-List" width="320"/>
 
 
-### Comment (6.1)
+### Comment (6.2)
 
-- [Vim-Commentary](https://github.com/tpope/vim-commentary) (6.1k)
+- [Vim-Commentary](https://github.com/tpope/vim-commentary) (6.2k)
 - [Nerdcommenter](https://github.com/preservim/nerdcommenter) (5.0k)
 - [Tcomment_vim](https://github.com/tomtom/tcomment_vim) (1.4k)
 
@@ -305,7 +305,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Undo-Tree.png" context="Undo-Tree" width="320"/>
 
 
-### Learning (4.4)
+### Learning (4.5)
 
 - [Hardmode](https://github.com/wikitopian/hardmode) (0.6k)
 
@@ -534,4 +534,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/05/01 10:04:52
+Last update: 2026/05/08 06:30:08
