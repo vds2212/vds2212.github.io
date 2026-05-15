@@ -10,9 +10,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ## Popular Choices
 
-### Plugin-Manager (35.6)
+### Plugin-Manager (35.7)
 
-- [Vim-Plug](https://github.com/junegunn/vim-plug) (35.6k)
+- [Vim-Plug](https://github.com/junegunn/vim-plug) (35.7k)
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) (24.0k)
 - [Vim-Pathogen](https://github.com/tpope/vim-pathogen) (12.1k)
 
@@ -37,7 +37,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive) (21.6k)
 - [Vim-Gitgutter](https://github.com/airblade/vim-gitgutter) (8.5k)
-- [Diffview.nvim](https://github.com/sindrets/diffview.nvim) (5.5k)
+- [Diffview.nvim](https://github.com/sindrets/diffview.nvim) (5.6k)
 
 <img src="graphs/Git.png" context="Git" width="320"/>
 
@@ -166,7 +166,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Instant-Markdown](https://github.com/instant-markdown/vim-instant-markdown) (2.8k)
 - [Vim-Table-Mode](https://github.com/dhruvasagar/vim-table-mode) (2.2k)
 - [Vim-Pencil](https://github.com/preservim/vim-pencil) (1.9k)
-- [Markdown-Toc](https://github.com/jonschlinkert/markdown-toc) (1.7k)
+- [Markdown-Toc](https://github.com/jonschlinkert/markdown-toc) (1.8k)
 - [Glow.nvim](https://github.com/ellisonleao/glow.nvim) (1.3k)
 - [Vim-Markdown](https://github.com/tpope/vim-markdown) (1.3k)
 - [Vim-Grammarous](https://github.com/rhysd/vim-grammarous) (1.1k)
@@ -187,19 +187,19 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
 
+### Keybinding (7.1)
+
+- [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key) (2.0k)
+
+<img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
+
+
 ### Debugging (7.1)
 
 - [Vimspector](https://github.com/puremourning/vimspector) (4.3k)
 - [Vdebug](https://github.com/vim-vdebug/vdebug) (1.3k)
 
 <img src="graphs/Debugging.png" context="Debugging" width="320"/>
-
-
-### Keybinding (7.1)
-
-- [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key) (2.0k)
-
-<img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
 
 
 ### TeX (6.3)
@@ -360,9 +360,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Context.png" context="Context" width="320"/>
 
 
-### Test (3.1)
+### Test (3.2)
 
-- [Vim-Test](https://github.com/vim-test/vim-test) (3.1k)
+- [Vim-Test](https://github.com/vim-test/vim-test) (3.2k)
 - [Vader.vim](https://github.com/junegunn/vader.vim) (0.6k)
 - [Vim-Ultest](https://github.com/rcarriga/vim-ultest) (0.4k)
 
@@ -534,4 +534,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/05/08 06:30:08
+Last update: 2026/05/15 07:56:36
