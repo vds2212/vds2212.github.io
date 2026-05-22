@@ -68,7 +68,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Status-Line (17.9)
 
 - [Vim-Airline](https://github.com/vim-airline/vim-airline) (17.9k)
-- [Powerline](https://github.com/powerline/powerline) (14.7k)
+- [Powerline](https://github.com/powerline/powerline) (14.8k)
 - [Lightline.vim](https://github.com/itchyny/lightline.vim) (6.9k)
 
 <img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
@@ -133,7 +133,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Note-Taking.png" context="Note-Taking" width="320"/>
 
 
-### Motion (9.1)
+### Motion (9.2)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
@@ -160,7 +160,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Multiple-Cursors.png" context="Multiple-Cursors" width="320"/>
 
 
-### Markdown (7.8)
+### Markdown (7.9)
 
 - [Vim-Markdown](https://github.com/preservim/vim-markdown) (4.8k)
 - [Vim-Instant-Markdown](https://github.com/instant-markdown/vim-instant-markdown) (2.8k)
@@ -205,7 +205,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### TeX (6.3)
 
 - [Vimtex](https://github.com/lervag/vimtex) (6.3k)
-- [Vim-Latex-Live-Preview](https://github.com/xuhdev/vim-latex-live-preview) (0.9k)
+- [Vim-Latex-Live-Preview](https://github.com/xuhdev/vim-latex-live-preview) (0.8k)
 
 <img src="graphs/TeX.png" context="TeX" width="320"/>
 
@@ -213,7 +213,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Tag-List (6.2)
 
 - [Tagbar](https://github.com/preservim/tagbar) (6.2k)
-- [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags) (2.3k)
+- [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags) (2.4k)
 - [Vista.vim](https://github.com/liuchengxu/vista.vim) (1.9k)
   [My favorite]
 - [Vim-Easytags](https://github.com/xolox/vim-easytags) (1.0k)
@@ -339,9 +339,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Rust.png" context="Rust" width="320"/>
 
 
-### Ruby (4.1)
+### Ruby (4.2)
 
-- [Vim-Rails](https://github.com/tpope/vim-rails) (4.1k)
+- [Vim-Rails](https://github.com/tpope/vim-rails) (4.2k)
 
 <img src="graphs/Ruby.png" context="Ruby" width="320"/>
 
@@ -534,4 +534,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/05/15 07:56:36
+Last update: 2026/05/22 07:59:14
