@@ -22,7 +22,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Completion (25.9)
 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (25.9k)
-- [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.1k)
+- [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.2k)
   [My favorite]
 - [Deoplete.nvim](https://github.com/Shougo/deoplete.nvim) (5.9k)
 - [Jedi-Vim](https://github.com/davidhalter/jedi-vim) (5.3k)
@@ -51,7 +51,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy-Finder (19.4)
+### Fuzzy-Finder (19.5)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
@@ -65,9 +65,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy-Finder" width="320"/>
 
 
-### Status-Line (17.9)
+### Status-Line (18.0)
 
-- [Vim-Airline](https://github.com/vim-airline/vim-airline) (17.9k)
+- [Vim-Airline](https://github.com/vim-airline/vim-airline) (18.0k)
 - [Powerline](https://github.com/powerline/powerline) (14.8k)
 - [Lightline.vim](https://github.com/itchyny/lightline.vim) (6.9k)
 
@@ -78,16 +78,16 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.6k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
-- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.7k)
+- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.8k)
 - [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.6k)
 - [Llama.vim](https://github.com/ggml-org/llama.vim) (2.0k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
 
 
-### Go (16.2)
+### Go (16.3)
 
-- [Vim-Go](https://github.com/fatih/vim-go) (16.2k)
+- [Vim-Go](https://github.com/fatih/vim-go) (16.3k)
 
 <img src="graphs/Go.png" context="Go" width="320"/>
 
@@ -124,9 +124,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Linting.png" context="Linting" width="320"/>
 
 
-### Note-Taking (9.4)
+### Note-Taking (9.5)
 
-- [Vimwiki](https://github.com/vimwiki/vimwiki) (9.4k)
+- [Vimwiki](https://github.com/vimwiki/vimwiki) (9.5k)
 - [Vim-Orgmode](https://github.com/jceb/vim-orgmode) (3.2k)
 - [Vim-Notes](https://github.com/xolox/vim-notes) (1.6k)
 
@@ -187,7 +187,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
 
-### Keybinding (7.1)
+### Keybinding (7.2)
 
 - [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key) (2.0k)
 
@@ -267,7 +267,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Startup.png" context="Startup" width="320"/>
 
 
-### Formatting (5.1)
+### Formatting (5.2)
 
 - [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat) (2.3k)
 - [Vim-Prettier](https://github.com/prettier/vim-prettier) (1.8k)
@@ -534,4 +534,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/05/22 07:59:14
+Last update: 2026/05/29 07:46:46
