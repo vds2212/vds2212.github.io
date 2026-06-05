@@ -33,9 +33,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Completion.png" context="Completion" width="320"/>
 
 
-### Git (21.6)
+### Git (21.7)
 
-- [Vim-Fugitive](https://github.com/tpope/vim-fugitive) (21.6k)
+- [Vim-Fugitive](https://github.com/tpope/vim-fugitive) (21.7k)
 - [Vim-Gitgutter](https://github.com/airblade/vim-gitgutter) (8.5k)
 - [Diffview.nvim](https://github.com/sindrets/diffview.nvim) (5.6k)
 
@@ -85,16 +85,16 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/AI.png" context="AI" width="320"/>
 
 
-### Go (16.3)
+### Go (16.2)
 
-- [Vim-Go](https://github.com/fatih/vim-go) (16.3k)
+- [Vim-Go](https://github.com/fatih/vim-go) (16.2k)
 
 <img src="graphs/Go.png" context="Go" width="320"/>
 
 
-### Colorschemes (15.5)
+### Colorschemes (15.6)
 
-- [Gruvbox](https://github.com/morhetz/gruvbox) (15.5k)
+- [Gruvbox](https://github.com/morhetz/gruvbox) (15.6k)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized) (6.6k)
 - [Everforest](https://github.com/sainnhe/everforest) (4.0k)
 - [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
@@ -155,7 +155,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Multiple-Cursors (8.0)
 
-- [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi) (4.8k)
+- [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi) (4.9k)
 
 <img src="graphs/Multiple-Cursors.png" context="Multiple-Cursors" width="320"/>
 
@@ -205,7 +205,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### TeX (6.3)
 
 - [Vimtex](https://github.com/lervag/vimtex) (6.3k)
-- [Vim-Latex-Live-Preview](https://github.com/xuhdev/vim-latex-live-preview) (0.8k)
+- [Vim-Latex-Live-Preview](https://github.com/xuhdev/vim-latex-live-preview) (0.9k)
 
 <img src="graphs/TeX.png" context="TeX" width="320"/>
 
@@ -238,7 +238,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Terminal-Integration (5.5)
 
-- [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.6k)
+- [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.7k)
 - [Vimux](https://github.com/preservim/vimux) (2.3k)
 - [Vim-Slime](https://github.com/jpalardy/vim-slime) (2.1k)
 - [Neoterm](https://github.com/kassio/neoterm) (1.3k)
@@ -534,4 +534,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/05/29 07:46:46
+Last update: 2026/06/05 09:53:42
