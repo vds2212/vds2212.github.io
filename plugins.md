@@ -13,7 +13,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Plugin-Manager (35.7)
 
 - [Vim-Plug](https://github.com/junegunn/vim-plug) (35.7k)
-- [Vundle.vim](https://github.com/VundleVim/Vundle.vim) (24.0k)
+- [Vundle.vim](https://github.com/VundleVim/Vundle.vim) (23.9k)
 - [Vim-Pathogen](https://github.com/tpope/vim-pathogen) (12.1k)
 
 <img src="graphs/Plugin-Manager.png" context="Plugin-Manager" width="320"/>
@@ -65,6 +65,17 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy-Finder" width="320"/>
 
 
+### AI (18.0)
+
+- [Copilot.vim](https://github.com/github/copilot.vim) (11.6k)
+- [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
+- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.8k)
+- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.7k)
+- [Llama.vim](https://github.com/ggml-org/llama.vim) (2.1k)
+
+<img src="graphs/AI.png" context="AI" width="320"/>
+
+
 ### Status-Line (18.0)
 
 - [Vim-Airline](https://github.com/vim-airline/vim-airline) (18.0k)
@@ -72,17 +83,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Lightline.vim](https://github.com/itchyny/lightline.vim) (6.9k)
 
 <img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
-
-
-### AI (17.9)
-
-- [Copilot.vim](https://github.com/github/copilot.vim) (11.6k)
-- [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
-- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.8k)
-- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.6k)
-- [Llama.vim](https://github.com/ggml-org/llama.vim) (2.0k)
-
-<img src="graphs/AI.png" context="AI" width="320"/>
 
 
 ### Go (16.2)
@@ -133,7 +133,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Note-Taking.png" context="Note-Taking" width="320"/>
 
 
-### Motion (9.2)
+### Motion (9.3)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
@@ -194,7 +194,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
 
 
-### Debugging (7.1)
+### Debugging (7.2)
 
 - [Vimspector](https://github.com/puremourning/vimspector) (4.3k)
 - [Vdebug](https://github.com/vim-vdebug/vdebug) (1.3k)
@@ -277,7 +277,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Formatting.png" context="Formatting" width="320"/>
 
 
-### Indent (4.9)
+### Indent (5.0)
 
 - [IndentLine](https://github.com/Yggdroot/indentLine) (4.1k)
 - [Editorconfig-Vim](https://github.com/editorconfig/editorconfig-vim) (3.2k)
@@ -534,4 +534,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/06/05 09:53:42
+Last update: 2026/06/12 08:03:38
