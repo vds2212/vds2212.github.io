@@ -51,7 +51,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy-Finder (19.5)
+### Fuzzy-Finder (19.6)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
@@ -69,7 +69,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.6k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
-- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.8k)
+- [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (2.9k)
 - [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.7k)
 - [Llama.vim](https://github.com/ggml-org/llama.vim) (2.1k)
 
@@ -238,6 +238,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Terminal-Integration (5.5)
 
+- [Toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) (5.5k)
 - [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.7k)
 - [Vimux](https://github.com/preservim/vimux) (2.3k)
 - [Vim-Slime](https://github.com/jpalardy/vim-slime) (2.1k)
@@ -339,18 +340,18 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Rust.png" context="Rust" width="320"/>
 
 
+### Todo (4.2)
+
+- [Todo.Txt-Vim](https://github.com/freitass/todo.txt-vim) (0.5k)
+
+<img src="graphs/Todo.png" context="Todo" width="320"/>
+
+
 ### Ruby (4.2)
 
 - [Vim-Rails](https://github.com/tpope/vim-rails) (4.2k)
 
 <img src="graphs/Ruby.png" context="Ruby" width="320"/>
-
-
-### Todo (4.1)
-
-- [Todo.Txt-Vim](https://github.com/freitass/todo.txt-vim) (0.5k)
-
-<img src="graphs/Todo.png" context="Todo" width="320"/>
 
 
 ### Context (3.2)
@@ -534,4 +535,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/06/12 08:03:38
+Last update: 2026/06/19 06:27:00
