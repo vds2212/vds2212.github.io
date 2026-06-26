@@ -37,7 +37,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive) (21.7k)
 - [Vim-Gitgutter](https://github.com/airblade/vim-gitgutter) (8.5k)
-- [Diffview.nvim](https://github.com/sindrets/diffview.nvim) (5.6k)
+- [Diffview.nvim](https://github.com/sindrets/diffview.nvim) (5.7k)
 
 <img src="graphs/Git.png" context="Git" width="320"/>
 
@@ -54,8 +54,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Fuzzy-Finder (19.6)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (9.3k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
-- [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.7k)
+- [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
 - [Command-T](https://github.com/wincent/command-t) (2.8k)
 - [LeaderF](https://github.com/Yggdroot/LeaderF) (2.2k)
@@ -96,7 +97,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Gruvbox](https://github.com/morhetz/gruvbox) (15.6k)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized) (6.6k)
-- [Everforest](https://github.com/sainnhe/everforest) (4.0k)
+- [Everforest](https://github.com/sainnhe/everforest) (4.1k)
 - [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
 - [Molokai](https://github.com/tomasr/molokai) (3.6k)
 - [Papercolor-Theme](https://github.com/NLKNguyen/papercolor-theme) (2.8k)
@@ -139,7 +140,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
 - [Hop.nvim](https://github.com/hadronized/hop.nvim) (2.5k)
 - [Quick-Scope](https://github.com/unblevable/quick-scope) (1.6k)
-- [Clever-F.vim](https://github.com/rhysd/clever-f.vim) (1.1k)
+- [Clever-F.vim](https://github.com/rhysd/clever-f.vim) (1.2k)
 - [Vim-Wordmotion](https://github.com/chaoren/vim-wordmotion) (0.9k)
 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
@@ -168,7 +169,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Pencil](https://github.com/preservim/vim-pencil) (1.9k)
 - [Markdown-Toc](https://github.com/jonschlinkert/markdown-toc) (1.8k)
 - [Glow.nvim](https://github.com/ellisonleao/glow.nvim) (1.3k)
-- [Vim-Markdown](https://github.com/tpope/vim-markdown) (1.3k)
+- [Vim-Markdown](https://github.com/tpope/vim-markdown) (1.2k)
 - [Vim-Grammarous](https://github.com/rhysd/vim-grammarous) (1.1k)
 
 <img src="graphs/Markdown.png" context="Markdown" width="320"/>
@@ -239,7 +240,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Terminal-Integration (5.5)
 
 - [Toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) (5.5k)
-- [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.7k)
+- [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.6k)
 - [Vimux](https://github.com/preservim/vimux) (2.3k)
 - [Vim-Slime](https://github.com/jpalardy/vim-slime) (2.1k)
 - [Neoterm](https://github.com/kassio/neoterm) (1.3k)
@@ -535,4 +536,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/06/19 06:27:00
+Last update: 2026/06/26 07:42:37
