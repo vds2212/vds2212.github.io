@@ -54,7 +54,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Fuzzy-Finder (19.6)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (9.3k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (9.5k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
@@ -218,6 +218,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vista.vim](https://github.com/liuchengxu/vista.vim) (1.9k)
   [My favorite]
 - [Vim-Easytags](https://github.com/xolox/vim-easytags) (1.0k)
+- [Nvim-Navbuddy](https://github.com/SmiteshP/nvim-navbuddy) (0.9k)
 - [Taglist.vim](https://github.com/vim-scripts/taglist.vim) (0.7k)
 
 <img src="graphs/Tag-List.png" context="Tag-List" width="320"/>
@@ -240,7 +241,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Terminal-Integration (5.5)
 
 - [Toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) (5.5k)
-- [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.6k)
+- [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.7k)
 - [Vimux](https://github.com/preservim/vimux) (2.3k)
 - [Vim-Slime](https://github.com/jpalardy/vim-slime) (2.1k)
 - [Neoterm](https://github.com/kassio/neoterm) (1.3k)
@@ -536,4 +537,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/06/26 07:42:37
+Last update: 2026/07/03 08:05:12
