@@ -54,7 +54,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Fuzzy-Finder (19.6)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (9.5k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (9.6k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
@@ -134,7 +134,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Note-Taking.png" context="Note-Taking" width="320"/>
 
 
-### Motion (9.3)
+### Motion (9.4)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
@@ -146,7 +146,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
 
 
-### Marks (9.1)
+### Marks (9.2)
 
 - [Vim-Signature](https://github.com/kshenoy/vim-signature) (1.4k)
 - [Vim-Bookmarks](https://github.com/MattesGroeger/vim-bookmarks) (1.1k)
@@ -214,7 +214,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Tag-List (6.2)
 
 - [Tagbar](https://github.com/preservim/tagbar) (6.2k)
-- [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags) (2.4k)
+- [Vim-Gutentags](https://github.com/ludovicchabant/vim-gutentags) (2.3k)
 - [Vista.vim](https://github.com/liuchengxu/vista.vim) (1.9k)
   [My favorite]
 - [Vim-Easytags](https://github.com/xolox/vim-easytags) (1.0k)
@@ -238,7 +238,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Polyglot](https://github.com/sheerun/vim-polyglot)
 
 
-### Terminal-Integration (5.5)
+### Terminal-Integration (5.6)
 
 - [Toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) (5.5k)
 - [Vim-Floaterm](https://github.com/voldikss/vim-floaterm) (2.7k)
@@ -270,7 +270,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Startup.png" context="Startup" width="320"/>
 
 
-### Formatting (5.2)
+### Formatting (5.3)
 
 - [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat) (2.3k)
 - [Vim-Prettier](https://github.com/prettier/vim-prettier) (1.8k)
@@ -333,6 +333,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Align.png" context="Align" width="320"/>
 
 
+### Todo (4.2)
+
+- [Todo.Txt-Vim](https://github.com/freitass/todo.txt-vim) (0.5k)
+
+<img src="graphs/Todo.png" context="Todo" width="320"/>
+
+
 ### Rust (4.2)
 
 - [Rust.vim](https://github.com/rust-lang/rust.vim) (4.2k)
@@ -340,13 +347,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Coc-Rust-Analyzer](https://github.com/fannheyward/coc-rust-analyzer) (1.2k)
 
 <img src="graphs/Rust.png" context="Rust" width="320"/>
-
-
-### Todo (4.2)
-
-- [Todo.Txt-Vim](https://github.com/freitass/todo.txt-vim) (0.5k)
-
-<img src="graphs/Todo.png" context="Todo" width="320"/>
 
 
 ### Ruby (4.2)
@@ -537,4 +537,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/07/03 08:05:12
+Last update: 2026/07/10 07:27:58
