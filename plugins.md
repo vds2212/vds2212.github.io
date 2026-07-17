@@ -45,7 +45,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### File-Explorer (20.1)
 
 - [Nerdtree](https://github.com/preservim/nerdtree) (20.1k)
-- [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.3k)
+- [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.4k)
 - [Nerdtree-Git-Plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) (2.1k)
 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
@@ -54,7 +54,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Fuzzy-Finder (19.6)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (9.6k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (9.7k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
@@ -404,6 +404,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Folding.png" context="Folding" width="320"/>
 
 
+### Collaborative-Editing (2.9)
+
+- [CoVim](https://github.com/FredKSchott/CoVim) (2.9k)
+
+<img src="graphs/Collaborative-Editing.png" context="Collaborative-Editing" width="320"/>
+
+
 ### Text-Objects (2.8)
 
 - [Targets.vim](https://github.com/wellle/targets.vim) (2.6k)
@@ -537,4 +544,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/07/10 07:27:58
+Last update: 2026/07/17 08:42:48
