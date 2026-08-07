@@ -33,11 +33,11 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Completion.png" context="Completion" width="320"/>
 
 
-### Git (21.7)
+### Git (21.8)
 
-- [Vim-Fugitive](https://github.com/tpope/vim-fugitive) (21.7k)
+- [Vim-Fugitive](https://github.com/tpope/vim-fugitive) (21.8k)
 - [Vim-Gitgutter](https://github.com/airblade/vim-gitgutter) (8.5k)
-- [Diffview.nvim](https://github.com/sindrets/diffview.nvim) (5.7k)
+- [Diffview.nvim](https://github.com/sindrets/diffview.nvim) (5.8k)
 
 <img src="graphs/Git.png" context="Git" width="320"/>
 
@@ -51,7 +51,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy-Finder (19.6)
+### Fuzzy-Finder (19.7)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
 - [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (9.9k)
@@ -154,14 +154,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Marks.png" context="Marks" width="320"/>
 
 
-### Multiple-Cursors (7.9)
-
-- [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi) (4.9k)
-
-<img src="graphs/Multiple-Cursors.png" context="Multiple-Cursors" width="320"/>
-
-
-### Markdown (7.9)
+### Markdown (8.0)
 
 - [Vim-Markdown](https://github.com/preservim/vim-markdown) (4.8k)
 - [Vim-Instant-Markdown](https://github.com/instant-markdown/vim-instant-markdown) (2.8k)
@@ -173,6 +166,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Grammarous](https://github.com/rhysd/vim-grammarous) (1.1k)
 
 <img src="graphs/Markdown.png" context="Markdown" width="320"/>
+
+
+### Multiple-Cursors (7.9)
+
+- [Vim-Visual-Multi](https://github.com/mg979/vim-visual-multi) (4.9k)
+
+<img src="graphs/Multiple-Cursors.png" context="Multiple-Cursors" width="320"/>
 
 
 ### Snippet (7.7)
@@ -544,4 +544,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/08/02 07:59:20
+Last update: 2026/08/07 07:09:11
