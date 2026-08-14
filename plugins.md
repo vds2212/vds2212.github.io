@@ -10,9 +10,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ## Popular Choices
 
-### Plugin-Manager (35.7)
+### Plugin-Manager (35.8)
 
-- [Vim-Plug](https://github.com/junegunn/vim-plug) (35.7k)
+- [Vim-Plug](https://github.com/junegunn/vim-plug) (35.8k)
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) (23.9k)
 - [Vim-Pathogen](https://github.com/tpope/vim-pathogen) (12.1k)
 
@@ -54,7 +54,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Fuzzy-Finder (19.7)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (9.9k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.0k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
@@ -97,7 +97,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Gruvbox](https://github.com/morhetz/gruvbox) (15.7k)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized) (6.6k)
-- [Everforest](https://github.com/sainnhe/everforest) (4.1k)
+- [Everforest](https://github.com/sainnhe/everforest) (4.2k)
 - [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
 - [Molokai](https://github.com/tomasr/molokai) (3.6k)
 - [Papercolor-Theme](https://github.com/NLKNguyen/papercolor-theme) (2.8k)
@@ -188,7 +188,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
 
-### Keybinding (7.2)
+### Keybinding (7.3)
 
 - [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key) (2.0k)
 
@@ -544,4 +544,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/08/07 07:09:11
+Last update: 2026/08/14 05:25:10
