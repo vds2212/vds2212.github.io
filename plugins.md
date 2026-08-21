@@ -54,7 +54,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Fuzzy-Finder (19.7)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.0k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.1k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
@@ -134,7 +134,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Note-Taking.png" context="Note-Taking" width="320"/>
 
 
-### Motion (9.4)
+### Motion (9.5)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
@@ -299,6 +299,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Zen.png" context="Zen" width="320"/>
 
 
+### Learning (4.5)
+
+- [Hardmode](https://github.com/wikitopian/hardmode) (0.6k)
+
+<img src="graphs/Learning.png" context="Learning" width="320"/>
+
+
 ### Undo-Tree (4.5)
 
 - [Undotree](https://github.com/mbbill/undotree) (4.5k)
@@ -306,13 +313,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Mundo](https://github.com/simnalamburt/vim-mundo) (0.8k)
 
 <img src="graphs/Undo-Tree.png" context="Undo-Tree" width="320"/>
-
-
-### Learning (4.5)
-
-- [Hardmode](https://github.com/wikitopian/hardmode) (0.6k)
-
-<img src="graphs/Learning.png" context="Learning" width="320"/>
 
 
 ### Databases (4.4)
@@ -544,4 +544,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/08/14 05:25:10
+Last update: 2026/08/21 07:53:58
