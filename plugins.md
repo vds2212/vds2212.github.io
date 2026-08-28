@@ -54,7 +54,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Fuzzy-Finder (19.7)
 
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.1k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.2k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
@@ -68,11 +68,12 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### AI (18.1)
 
+- [Avante.nvim](https://github.com/yetone/avante.nvim) (18.1k)
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.7k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
 - [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (3.0k)
 - [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.7k)
-- [Llama.vim](https://github.com/ggml-org/llama.vim) (2.1k)
+- [Llama.vim](https://github.com/ggml-org/llama.vim) (2.2k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
 
@@ -203,9 +204,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Debugging.png" context="Debugging" width="320"/>
 
 
-### TeX (6.3)
+### TeX (6.4)
 
-- [Vimtex](https://github.com/lervag/vimtex) (6.3k)
+- [Vimtex](https://github.com/lervag/vimtex) (6.4k)
 - [Vim-Latex-Live-Preview](https://github.com/xuhdev/vim-latex-live-preview) (0.9k)
 
 <img src="graphs/TeX.png" context="TeX" width="320"/>
@@ -396,7 +397,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/REPL.png" context="REPL" width="320"/>
 
 
-### Folding (2.9)
+### Folding (3.0)
 
 - [FastFold](https://github.com/Konfekt/FastFold) (0.7k)
 - [Vim-Anyfold](https://github.com/pseewald/vim-anyfold)
@@ -544,4 +545,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/08/21 07:53:58
+Last update: 2026/08/28 05:24:39
