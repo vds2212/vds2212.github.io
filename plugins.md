@@ -51,10 +51,10 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy-Finder (19.7)
+### Fuzzy-Finder (19.8)
 
-- [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.2k)
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.2k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.4k)
+- [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.3k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
 - [Unite.vim](https://github.com/Shougo/unite.vim) (2.8k)
@@ -72,7 +72,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.7k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
 - [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (3.0k)
-- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.7k)
+- [Sidekick.nvim](https://github.com/folke/sidekick.nvim) (2.8k)
 - [Llama.vim](https://github.com/ggml-org/llama.vim) (2.2k)
 
 <img src="graphs/AI.png" context="AI" width="320"/>
@@ -300,7 +300,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Zen.png" context="Zen" width="320"/>
 
 
-### Learning (4.5)
+### Learning (4.6)
 
 - [Hardmode](https://github.com/wikitopian/hardmode) (0.6k)
 
@@ -397,7 +397,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/REPL.png" context="REPL" width="320"/>
 
 
-### Folding (3.0)
+### Folding (2.9)
 
 - [FastFold](https://github.com/Konfekt/FastFold) (0.7k)
 - [Vim-Anyfold](https://github.com/pseewald/vim-anyfold)
@@ -545,4 +545,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/08/28 05:24:39
+Last update: 2026/09/04 18:28:12
