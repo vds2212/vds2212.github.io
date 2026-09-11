@@ -53,7 +53,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Fuzzy-Finder (19.8)
 
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.4k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.7k)
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.3k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
@@ -66,9 +66,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Fuzzy-Finder.png" context="Fuzzy-Finder" width="320"/>
 
 
-### AI (18.1)
+### AI (18.2)
 
-- [Avante.nvim](https://github.com/yetone/avante.nvim) (18.1k)
+- [Avante.nvim](https://github.com/yetone/avante.nvim) (18.2k)
 - [Copilot.vim](https://github.com/github/copilot.vim) (11.7k)
 - [Windsurf.vim](https://github.com/Exafunction/windsurf.vim) (5.1k)
 - [Claudecode.nvim](https://github.com/coder/claudecode.nvim) (3.0k)
@@ -545,4 +545,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/09/04 18:28:12
+Last update: 2026/09/11 12:30:06
