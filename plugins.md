@@ -53,7 +53,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Fuzzy-Finder (19.8)
 
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.7k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.8k)
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.3k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
@@ -126,15 +126,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Linting.png" context="Linting" width="320"/>
 
 
-### Note-Taking (9.5)
-
-- [Vimwiki](https://github.com/vimwiki/vimwiki) (9.5k)
-- [Vim-Orgmode](https://github.com/jceb/vim-orgmode) (3.2k)
-- [Vim-Notes](https://github.com/xolox/vim-notes) (1.6k)
-
-<img src="graphs/Note-Taking.png" context="Note-Taking" width="320"/>
-
-
 ### Motion (9.5)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
@@ -145,6 +136,15 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Vim-Wordmotion](https://github.com/chaoren/vim-wordmotion) (0.9k)
 
 <img src="graphs/Motion.png" context="Motion" width="320"/>
+
+
+### Note-Taking (9.5)
+
+- [Vimwiki](https://github.com/vimwiki/vimwiki) (9.5k)
+- [Vim-Orgmode](https://github.com/jceb/vim-orgmode) (3.2k)
+- [Vim-Notes](https://github.com/xolox/vim-notes) (1.6k)
+
+<img src="graphs/Note-Taking.png" context="Note-Taking" width="320"/>
 
 
 ### Marks (9.2)
@@ -196,7 +196,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Keybinding.png" context="Keybinding" width="320"/>
 
 
-### Debugging (7.2)
+### Debugging (7.3)
 
 - [Vimspector](https://github.com/puremourning/vimspector) (4.3k)
 - [Vdebug](https://github.com/vim-vdebug/vdebug) (1.3k)
@@ -397,7 +397,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/REPL.png" context="REPL" width="320"/>
 
 
-### Folding (2.9)
+### Folding (3.0)
 
 - [FastFold](https://github.com/Konfekt/FastFold) (0.7k)
 - [Vim-Anyfold](https://github.com/pseewald/vim-anyfold)
@@ -545,4 +545,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/09/11 12:30:06
+Last update: 2026/09/18 06:49:54
