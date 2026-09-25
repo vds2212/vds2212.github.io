@@ -53,7 +53,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Fuzzy-Finder (19.8)
 
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.8k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (10.9k)
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.3k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
@@ -94,9 +94,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Go.png" context="Go" width="320"/>
 
 
-### Colorschemes (15.7)
+### Colorschemes (15.8)
 
-- [Gruvbox](https://github.com/morhetz/gruvbox) (15.7k)
+- [Gruvbox](https://github.com/morhetz/gruvbox) (15.8k)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized) (6.6k)
 - [Everforest](https://github.com/sainnhe/everforest) (4.2k)
 - [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
@@ -271,7 +271,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Startup.png" context="Startup" width="320"/>
 
 
-### Formatting (5.3)
+### Formatting (5.4)
 
 - [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat) (2.3k)
 - [Vim-Prettier](https://github.com/prettier/vim-prettier) (1.8k)
@@ -319,7 +319,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Databases (4.4)
 
 - [Vim-Dadbod](https://github.com/tpope/vim-dadbod) (4.4k)
-- [Vim-Dadbod-Ui](https://github.com/kristijanhusak/vim-dadbod-ui) (2.0k)
+- [Vim-Dadbod-Ui](https://github.com/kristijanhusak/vim-dadbod-ui) (2.1k)
 - [Vim-Dadbod-Completion](https://github.com/kristijanhusak/vim-dadbod-completion) (0.8k)
 
 <img src="graphs/Databases.png" context="Databases" width="320"/>
@@ -545,4 +545,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/09/18 06:49:54
+Last update: 2026/09/25 05:58:19
