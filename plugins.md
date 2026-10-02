@@ -126,7 +126,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Linting.png" context="Linting" width="320"/>
 
 
-### Motion (9.5)
+### Motion (9.6)
 
 - [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
 - [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
@@ -408,6 +408,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Collaborative-Editing (2.9)
 
 - [CoVim](https://github.com/FredKSchott/CoVim) (2.9k)
+- [Teamtype](https://github.com/teamtype/teamtype) (1.9k)
+- [Tandem](https://github.com/typeintandem/tandem) (0.7k)
+- [Nomad](https://github.com/nomad/nomad) (0.7k)
 
 <img src="graphs/Collaborative-Editing.png" context="Collaborative-Editing" width="320"/>
 
@@ -545,4 +548,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/09/25 05:58:19
+Last update: 2026/10/02 06:10:21
