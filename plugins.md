@@ -45,7 +45,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### File-Explorer (20.1)
 
 - [Nerdtree](https://github.com/preservim/nerdtree) (20.1k)
-- [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.3k)
+- [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.4k)
 - [Nerdtree-Git-Plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) (2.1k)
 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
@@ -53,7 +53,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Fuzzy-Finder (19.8)
 
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (11.0k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (11.1k)
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.3k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
@@ -98,7 +98,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Gruvbox](https://github.com/morhetz/gruvbox) (15.8k)
 - [Vim-Colors-Solarized](https://github.com/altercation/vim-colors-solarized) (6.6k)
-- [Everforest](https://github.com/sainnhe/everforest) (4.2k)
+- [Everforest](https://github.com/sainnhe/everforest) (4.3k)
 - [Onedark.vim](https://github.com/joshdick/onedark.vim) (4.0k)
 - [Molokai](https://github.com/tomasr/molokai) (3.6k)
 - [Papercolor-Theme](https://github.com/NLKNguyen/papercolor-theme) (2.8k)
@@ -307,18 +307,18 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Learning.png" context="Learning" width="320"/>
 
 
-### Undo-Tree (4.5)
+### Undo-Tree (4.6)
 
-- [Undotree](https://github.com/mbbill/undotree) (4.5k)
+- [Undotree](https://github.com/mbbill/undotree) (4.6k)
 - [Gundo.vim](https://github.com/sjl/gundo.vim) (1.5k)
 - [Vim-Mundo](https://github.com/simnalamburt/vim-mundo) (0.8k)
 
 <img src="graphs/Undo-Tree.png" context="Undo-Tree" width="320"/>
 
 
-### Databases (4.4)
+### Databases (4.5)
 
-- [Vim-Dadbod](https://github.com/tpope/vim-dadbod) (4.4k)
+- [Vim-Dadbod](https://github.com/tpope/vim-dadbod) (4.5k)
 - [Vim-Dadbod-Ui](https://github.com/kristijanhusak/vim-dadbod-ui) (2.1k)
 - [Vim-Dadbod-Completion](https://github.com/kristijanhusak/vim-dadbod-completion) (0.8k)
 
@@ -548,4 +548,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/10/09 12:13:43
+Last update: 2026/10/16 06:26:13
