@@ -22,7 +22,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Completion (25.9)
 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) (25.9k)
-- [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.2k)
+- [Coc.nvim](https://github.com/neoclide/coc.nvim) (25.1k)
   [My favorite]
 - [Deoplete.nvim](https://github.com/Shougo/deoplete.nvim) (5.9k)
 - [Jedi-Vim](https://github.com/davidhalter/jedi-vim) (5.3k)
@@ -37,7 +37,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive) (21.8k)
 - [Vim-Gitgutter](https://github.com/airblade/vim-gitgutter) (8.5k)
-- [Diffview.nvim](https://github.com/sindrets/diffview.nvim) (5.8k)
+- [Diffview.nvim](https://github.com/sindrets/diffview.nvim) (5.9k)
 
 <img src="graphs/Git.png" context="Git" width="320"/>
 
@@ -53,7 +53,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Fuzzy-Finder (19.8)
 
-- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (11.1k)
+- [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (11.2k)
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.3k)
 - [Ctrlp.vim](https://github.com/kien/ctrlp.vim) (7.2k)
 - [Ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) (5.6k)
@@ -126,18 +126,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Linting.png" context="Linting" width="320"/>
 
 
-### Motion (9.6)
-
-- [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
-- [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
-- [Hop.nvim](https://github.com/hadronized/hop.nvim) (2.5k)
-- [Quick-Scope](https://github.com/unblevable/quick-scope) (1.6k)
-- [Clever-F.vim](https://github.com/rhysd/clever-f.vim) (1.2k)
-- [Vim-Wordmotion](https://github.com/chaoren/vim-wordmotion) (0.9k)
-
-<img src="graphs/Motion.png" context="Motion" width="320"/>
-
-
 ### Note-Taking (9.5)
 
 - [Vimwiki](https://github.com/vimwiki/vimwiki) (9.5k)
@@ -155,9 +143,22 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Marks.png" context="Marks" width="320"/>
 
 
+### Motion (8.6)
+
+- [Vim-Easymotion](https://github.com/easymotion/vim-easymotion) (7.7k)
+- [Vim-Sneak](https://github.com/justinmk/vim-sneak) (3.5k)
+- [Hop.nvim](https://github.com/hadronized/hop.nvim) (2.5k)
+- [Quick-Scope](https://github.com/unblevable/quick-scope) (1.6k)
+- [Clever-F.vim](https://github.com/rhysd/clever-f.vim) (1.2k)
+- [Vim-Wordmotion](https://github.com/chaoren/vim-wordmotion) (0.9k)
+
+<img src="graphs/Motion.png" context="Motion" width="320"/>
+
+
 ### Markdown (8.0)
 
 - [Vim-Markdown](https://github.com/preservim/vim-markdown) (4.8k)
+- [Marksman](https://github.com/artempyanykh/marksman) (3.4k)
 - [Vim-Instant-Markdown](https://github.com/instant-markdown/vim-instant-markdown) (2.8k)
 - [Vim-Table-Mode](https://github.com/dhruvasagar/vim-table-mode) (2.2k)
 - [Vim-Pencil](https://github.com/preservim/vim-pencil) (1.9k)
@@ -264,13 +265,6 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Python.png" context="Python" width="320"/>
 
 
-### Startup (5.4)
-
-- [Vim-Startify](https://github.com/mhinz/vim-startify) (5.4k)
-
-<img src="graphs/Startup.png" context="Startup" width="320"/>
-
-
 ### Formatting (5.4)
 
 - [Vim-Autoformat](https://github.com/vim-autoformat/vim-autoformat) (2.3k)
@@ -279,6 +273,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Coc-Prettier](https://github.com/neoclide/coc-prettier) (0.5k)
 
 <img src="graphs/Formatting.png" context="Formatting" width="320"/>
+
+
+### Startup (5.4)
+
+- [Vim-Startify](https://github.com/mhinz/vim-startify) (5.4k)
+
+<img src="graphs/Startup.png" context="Startup" width="320"/>
 
 
 ### Indent (5.0)
@@ -548,4 +549,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/10/16 06:26:13
+Last update: 2026/10/23 08:26:43
