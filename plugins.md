@@ -45,7 +45,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### File-Explorer (20.1)
 
 - [Nerdtree](https://github.com/preservim/nerdtree) (20.1k)
-- [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.4k)
+- [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.3k)
 - [Nerdtree-Git-Plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) (2.1k)
 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
@@ -409,7 +409,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Collaborative-Editing (2.9)
 
 - [CoVim](https://github.com/FredKSchott/CoVim) (2.9k)
-- [Teamtype](https://github.com/teamtype/teamtype) (1.9k)
+- [Teamtype](https://github.com/teamtype/teamtype) (2.0k)
 - [Tandem](https://github.com/typeintandem/tandem) (0.7k)
 - [Nomad](https://github.com/nomad/nomad) (0.7k)
 
@@ -549,4 +549,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/10/23 08:26:43
+Last update: 2026/10/30 10:28:05
