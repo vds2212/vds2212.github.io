@@ -45,13 +45,13 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### File-Explorer (20.1)
 
 - [Nerdtree](https://github.com/preservim/nerdtree) (20.1k)
-- [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.3k)
+- [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.4k)
 - [Nerdtree-Git-Plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) (2.1k)
 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
 
 
-### Fuzzy-Finder (19.8)
+### Fuzzy-Finder (19.9)
 
 - [Fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) (11.2k)
 - [Fzf.vim](https://github.com/junegunn/fzf.vim) (10.3k)
@@ -157,9 +157,10 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 
 ### Markdown (8.0)
 
+- [Markdown-Preview.nvim](https://github.com/iamcco/markdown-preview.nvim) (8.0k)
 - [Vim-Markdown](https://github.com/preservim/vim-markdown) (4.8k)
 - [Marksman](https://github.com/artempyanykh/marksman) (3.4k)
-- [Vim-Instant-Markdown](https://github.com/instant-markdown/vim-instant-markdown) (2.8k)
+- [Vim-Instant-Markdown](https://github.com/instant-markdown/vim-instant-markdown) (2.7k)
 - [Vim-Table-Mode](https://github.com/dhruvasagar/vim-table-mode) (2.2k)
 - [Vim-Pencil](https://github.com/preservim/vim-pencil) (1.9k)
 - [Markdown-Toc](https://github.com/jonschlinkert/markdown-toc) (1.8k)
@@ -351,9 +352,9 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Rust.png" context="Rust" width="320"/>
 
 
-### Ruby (4.2)
+### Ruby (4.1)
 
-- [Vim-Rails](https://github.com/tpope/vim-rails) (4.2k)
+- [Vim-Rails](https://github.com/tpope/vim-rails) (4.1k)
 
 <img src="graphs/Ruby.png" context="Ruby" width="320"/>
 
@@ -549,4 +550,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/10/30 10:28:05
+Last update: 2026/11/06 06:31:51
