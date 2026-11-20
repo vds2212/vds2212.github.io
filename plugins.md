@@ -45,7 +45,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### File-Explorer (20.1)
 
 - [Nerdtree](https://github.com/preservim/nerdtree) (20.1k)
-- [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.4k)
+- [Vim-Vinegar](https://github.com/tpope/vim-vinegar) (2.3k)
 - [Nerdtree-Git-Plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) (2.1k)
 
 <img src="graphs/File-Explorer.png" context="File-Explorer" width="320"/>
@@ -81,7 +81,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 ### Status-Line (18.0)
 
 - [Vim-Airline](https://github.com/vim-airline/vim-airline) (18.0k)
-- [Powerline](https://github.com/powerline/powerline) (14.8k)
+- [Powerline](https://github.com/powerline/powerline) (14.9k)
 - [Lightline.vim](https://github.com/itchyny/lightline.vim) (6.9k)
 
 <img src="graphs/Status-Line.png" context="Status-Line" width="320"/>
@@ -160,7 +160,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 - [Markdown-Preview.nvim](https://github.com/iamcco/markdown-preview.nvim) (8.0k)
 - [Vim-Markdown](https://github.com/preservim/vim-markdown) (4.8k)
 - [Marksman](https://github.com/artempyanykh/marksman) (3.4k)
-- [Vim-Instant-Markdown](https://github.com/instant-markdown/vim-instant-markdown) (2.7k)
+- [Vim-Instant-Markdown](https://github.com/instant-markdown/vim-instant-markdown) (2.8k)
 - [Vim-Table-Mode](https://github.com/dhruvasagar/vim-table-mode) (2.2k)
 - [Vim-Pencil](https://github.com/preservim/vim-pencil) (1.9k)
 - [Markdown-Toc](https://github.com/jonschlinkert/markdown-toc) (1.8k)
@@ -191,7 +191,7 @@ The [My Recommendations](#my-recommendations) section contains Vim plugins that 
 <img src="graphs/Snippet.png" context="Snippet" width="320"/>
 
 
-### Keybinding (7.4)
+### Keybinding (7.3)
 
 - [Vim-Which-Key](https://github.com/liuchengxu/vim-which-key) (2.0k)
 
@@ -550,4 +550,4 @@ My review is based on months of collecting plugins via blogs but also via plugin
 
 I have restricted the list (but not the graphs) to the plugins that supports both Vim and Neovim.
 
-Last update: 2026/11/13 08:50:08
+Last update: 2026/11/20 08:28:42
